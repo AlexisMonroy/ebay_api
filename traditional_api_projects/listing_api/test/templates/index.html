@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Dictionary Data</title>
+    </head>
+    <body>
+        <h1>Dictionary Data</h1>
+        <table>
+            <tr>
+                <th>Key</th>
+                <th>Value</th>
+            </tr>
+            {% for key, value in user_data.items() recursive %}
+                {% if value is mapping %}
+                    {{ loop(value.items()) }}
+                {% else %}
+                    <tr>
+                        <td>{{ key }}</td>
+                        <td>{{ value }}</td>
+                    </tr>
+                {% endif %}
+            {% endfor %}
+        </table>
+    </body>
+</html>

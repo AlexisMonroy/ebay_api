@@ -1,0 +1,25 @@
+name: ebay_api_config
+
+# Trading API Sandbox - https://www.x.com/developers/ebay/products/trading-api
+api.sandbox.ebay.com:
+    compatability: 719
+    appid: AlexisMo-pricepre-SBX-5091f4dec-03d3d393
+    certid: SBX-091f4dece18c-1c68-4f02-a7fa-6fd3
+    devid: dae89547-48b8-4c4b-9e57-e8e9a84527dd
+    token: ENTER_YOUR_TOKEN_HERE
+
+# Trading API - https://www.x.com/developers/ebay/products/trading-api
+api.ebay.com:
+    compatability: 719
+    appid: AlexisGo-pricepre-PRD-3ca7161d2-d3ef5057
+    certid: PRD-ca7161d2a58b-663b-4c87-9cec-8cbd
+    devid: dae89547-48b8-4c4b-9e57-e8e9a84527dd
+    token: v^1.1#i^1#r^1#I^3#f^0#p^3#t^Ul4xMF8yOjI1OTVFMDlGNThBOTA1QUZBM0FGOUYzODIzNzczRjhFXzNfMSNFXjI2MA==
+
+# Finding API - https://www.x.com/developers/ebay/products/finding-api
+svcs.ebay.com:
+    appid: ENTER_YOUR_APPID_HERE
+
+# Shopping API - https://www.x.com/developers/ebay/products/shopping-api
+open.api.ebay.com:
+    appid: ENTER_YOUR_APPID_HERE
