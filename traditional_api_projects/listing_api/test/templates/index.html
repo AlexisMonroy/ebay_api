@@ -1,10 +1,8 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Dictionary Data</title>
-    </head>
-    <body>
-        <h1>Dictionary Data</h1>
+{% extends "base.html" %}
+{% block body %}
+        <p>Click <a href="{{ url_for('other_page') }}">here</a> to go to the Categories Overview page.</p>
+        <p>Click <a href="{{ url_for('third_page') }}">here</a> to go to the Third Page.</p>
+        <h1>User Data</h1>
         <table>
             <tr>
                 <th>Key</th>
@@ -21,5 +19,4 @@
                 {% endif %}
             {% endfor %}
         </table>
-    </body>
-</html>
+{% endblock %}
