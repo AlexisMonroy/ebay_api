@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCategoryFeaturesResponse xmlns="urn:ebay:apis:eBLBaseComponents"><Timestamp>2023-05-20T22:09:56.902Z</Timestamp><Ack>Success</Ack><Version>1297</Version><Build>E1297_CORE_APICATALOG_19146446_R1</Build><CategoryVersion>9826</CategoryVersion><UpdateTime>2023-05-13T22:46:58.000Z</UpdateTime><Category><CategoryID>261186</CategoryID><ConditionValues><Condition><ID>1000</ID><DisplayName>Brand New</DisplayName></Condition><Condition><ID>2750</ID><DisplayName>Like New</DisplayName></Condition><Condition><ID>4000</ID><DisplayName>Very Good</DisplayName></Condition><Condition><ID>5000</ID><DisplayName>Good</DisplayName></Condition><Condition><ID>6000</ID><DisplayName>Acceptable</DisplayName></Condition><ConditionHelpURL>http://pages.ebay.com/help/sell/contextual/condition_6.html</ConditionHelpURL></ConditionValues></Category><SiteDefaults/><FeatureDefinitions><ConditionValues/></FeatureDefinitions></GetCategoryFeaturesResponse>
+
+
+<Response [200]>

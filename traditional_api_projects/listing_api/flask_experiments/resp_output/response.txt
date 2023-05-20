@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GetSessionIDResponse xmlns="urn:ebay:apis:eBLBaseComponents"><Timestamp>2023-05-09T20:39:05.500Z</Timestamp><Ack>Success</Ack><Version>1207</Version><Build>E1207_CORE_APISIGNIN_19151597_R1</Build><SessionID>v%5E1.1%23i%5E1%23r%5E1%23f%5E0%23I%5E3%23p%5E1%23t%5EUl41Xzk6RjEyNzNDQURFQUU3QjFDNjNBQzFBQjJBN0JCRTI5MzZfMV8xI0VeMjYw</SessionID></GetSessionIDResponse>
+<GetSessionIDResponse xmlns="urn:ebay:apis:eBLBaseComponents"><Timestamp>2023-05-20T22:08:47.040Z</Timestamp><Ack>Success</Ack><Version>1207</Version><Build>E1207_CORE_APISIGNIN_19151597_R1</Build><SessionID>v%5E1.1%23i%5E1%23f%5E0%23I%5E3%23r%5E1%23p%5E1%23t%5EUl41XzQ6Rjg2MUJBMEE1OTA5NkE4MUUzMEFEQjg5OEJFODUxMkZfMF8xI0VeMjYw</SessionID></GetSessionIDResponse>
 
 
-<Element '{urn:ebay:apis:eBLBaseComponents}GetSessionIDResponse' at 0x0000024CA06D27A0>
+<Element '{urn:ebay:apis:eBLBaseComponents}GetSessionIDResponse' at 0x000002244DDF2C50>
 
 
-{'{urn:ebay:apis:eBLBaseComponents}Timestamp': '2023-05-09T20:39:05.500Z', '{urn:ebay:apis:eBLBaseComponents}Ack': 'Success', '{urn:ebay:apis:eBLBaseComponents}Version': '1207', '{urn:ebay:apis:eBLBaseComponents}Build': 'E1207_CORE_APISIGNIN_19151597_R1', '{urn:ebay:apis:eBLBaseComponents}SessionID': 'v%5E1.1%23i%5E1%23r%5E1%23f%5E0%23I%5E3%23p%5E1%23t%5EUl41Xzk6RjEyNzNDQURFQUU3QjFDNjNBQzFBQjJBN0JCRTI5MzZfMV8xI0VeMjYw'}
+{'{urn:ebay:apis:eBLBaseComponents}Timestamp': '2023-05-20T22:08:47.040Z', '{urn:ebay:apis:eBLBaseComponents}Ack': 'Success', '{urn:ebay:apis:eBLBaseComponents}Version': '1207', '{urn:ebay:apis:eBLBaseComponents}Build': 'E1207_CORE_APISIGNIN_19151597_R1', '{urn:ebay:apis:eBLBaseComponents}SessionID': 'v%5E1.1%23i%5E1%23f%5E0%23I%5E3%23r%5E1%23p%5E1%23t%5EUl41XzQ6Rjg2MUJBMEE1OTA5NkE4MUUzMEFEQjg5OEJFODUxMkZfMF8xI0VeMjYw'}
 
 
 <?xml version="1.0" encoding="UTF-8"?>
-<FetchTokenResponse xmlns="urn:ebay:apis:eBLBaseComponents"><Timestamp>2023-05-09T20:39:05.668Z</Timestamp><Ack>Failure</Ack><Errors><ShortMessage>The end user has not completed Auth &amp; Auth sign in flow.</ShortMessage><LongMessage>The end user has not completed Auth &amp; Auth sign in flow.</LongMessage><ErrorCode>21916017</ErrorCode><SeverityCode>Error</SeverityCode><ErrorClassification>RequestError</ErrorClassification></Errors><Version>1207</Version><Build>E1207_CORE_APISIGNIN_19151597_R1</Build></FetchTokenResponse>
+<FetchTokenResponse xmlns="urn:ebay:apis:eBLBaseComponents"><Timestamp>2023-05-20T22:09:05.292Z</Timestamp><Ack>Success</Ack><Version>1207</Version><Build>E1207_CORE_APISIGNIN_19151597_R1</Build><eBayAuthToken>v^1.1#i^1#p^3#f^0#I^3#r^1#t^Ul4xMF82OjMwMURCQ0RDNzQ1MDhGQzc1MDFFOEVBRDA1RkVGQjg2XzNfMSNFXjI2MA==</eBayAuthToken><HardExpirationTime>2024-11-10T22:09:01.000Z</HardExpirationTime></FetchTokenResponse>
 
 
-<Element '{urn:ebay:apis:eBLBaseComponents}FetchTokenResponse' at 0x0000024CA070A9D0>
+<Element '{urn:ebay:apis:eBLBaseComponents}FetchTokenResponse' at 0x000002244DFEBAB0>

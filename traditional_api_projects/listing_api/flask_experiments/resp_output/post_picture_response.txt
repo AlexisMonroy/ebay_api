@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<UploadSiteHostedPicturesResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+    <Timestamp>2023-05-18T19:01:27.721Z</Timestamp>
+    <Ack>Success</Ack>
+    <Version>0</Version>
+    <Build>mediasvcs-5.0.29_20230504054343345</Build>
+    <PictureSystemVersion>2</PictureSystemVersion>
+    <SiteHostedPictureDetails>
+        <PictureName>Developer Page Banner</PictureName>
+        <PictureSet>Standard</PictureSet>
+        <PictureFormat>JPG</PictureFormat>
+        <FullURL>https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/cjEAAOSw1YpkZnYH/$_1.JPG?set_id=2</FullURL>
+        <BaseURL>https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/cjEAAOSw1YpkZnYH/$_</BaseURL>
+        <PictureSetMember>
+            <MemberURL>https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/cjEAAOSw1YpkZnYH/$_1.JPG</MemberURL>
+            <PictureHeight>400</PictureHeight>
+            <PictureWidth>400</PictureWidth>
+        </PictureSetMember>
+        <ExternalPictureURL>https://alexismonroy.github.io/images/Monte_Cristo.jpg</ExternalPictureURL>
+        <UseByDate>2023-06-17T19:01:26.065Z</UseByDate>
+    </SiteHostedPictureDetails>
+</UploadSiteHostedPicturesResponse>
+
+
+
+<Response [200]>
