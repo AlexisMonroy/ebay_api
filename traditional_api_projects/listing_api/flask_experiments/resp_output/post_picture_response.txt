@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <UploadSiteHostedPicturesResponse xmlns="urn:ebay:apis:eBLBaseComponents">
-    <Timestamp>2023-05-18T19:01:27.721Z</Timestamp>
+    <Timestamp>2023-05-20T22:44:24.073Z</Timestamp>
     <Ack>Success</Ack>
     <Version>0</Version>
     <Build>mediasvcs-5.0.29_20230504054343345</Build>
@@ -9,15 +9,15 @@
         <PictureName>Developer Page Banner</PictureName>
         <PictureSet>Standard</PictureSet>
         <PictureFormat>JPG</PictureFormat>
-        <FullURL>https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/cjEAAOSw1YpkZnYH/$_1.JPG?set_id=2</FullURL>
-        <BaseURL>https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/cjEAAOSw1YpkZnYH/$_</BaseURL>
+        <FullURL>https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/56MAAOSwg9ZkaU1I/$_1.JPG?set_id=2</FullURL>
+        <BaseURL>https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/56MAAOSwg9ZkaU1I/$_</BaseURL>
         <PictureSetMember>
-            <MemberURL>https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/cjEAAOSw1YpkZnYH/$_1.JPG</MemberURL>
+            <MemberURL>https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/56MAAOSwg9ZkaU1I/$_1.JPG</MemberURL>
             <PictureHeight>400</PictureHeight>
             <PictureWidth>400</PictureWidth>
         </PictureSetMember>
         <ExternalPictureURL>https://alexismonroy.github.io/images/Monte_Cristo.jpg</ExternalPictureURL>
-        <UseByDate>2023-06-17T19:01:26.065Z</UseByDate>
+        <UseByDate>2023-06-19T22:44:22.727Z</UseByDate>
     </SiteHostedPictureDetails>
 </UploadSiteHostedPicturesResponse>
 

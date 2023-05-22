@@ -302,21 +302,17 @@ def api_calls():
                 f.write(add_item_response.text)
                 f.write("\n\n\n")
                 f.write(str(add_item_response))
-            return render_template('api_calls.html', get_time_response=add_item_response)          
-    else:
-        return render_template('api_calls.html')
-    
-@app.route('/post_picture', methods=['GET', 'POST'])
-def post_picture():
-    if request.method == 'POST':
-        api_call_headers = {'X-EBAY-API-COMPATIBILITY-LEVEL': '719',
+            return render_template('api_calls.html', get_time_response=add_item_response)
+
+        elif button == 'PostPicture':
+                    api_call_headers = {'X-EBAY-API-COMPATIBILITY-LEVEL': '719',
     'X-EBAY-API-DEV-NAME': 'dae89547-48b8-4c4b-9e57-e8e9a84527dd',
     'X-EBAY-API-APP-NAME': 'AlexisGo-pricepre-PRD-3ca7161d2-d3ef5057',  
     'X-EBAY-API-CERT-NAME': 'PRD-ca7161d2a58b-663b-4c87-9cec-8cbd',
     'X-EBAY-API-CALL-NAME': 'UploadSiteHostedPictures',
     'X-EBAY-API-SITEID': '0',
     'Content-Type' : 'text/xml'}
-        post_picture_data = f'''<?xml version="1.0" encoding="utf-8"?>
+                    post_picture_data = f'''<?xml version="1.0" encoding="utf-8"?>
 <UploadSiteHostedPicturesRequest xmlns="urn:ebay:apis:eBLBaseComponents">
   <RequesterCredentials>
     <eBayAuthToken>{token[0]}</eBayAuthToken>
@@ -325,14 +321,17 @@ def post_picture():
   <ExternalPictureURL>{pic_url}</ExternalPictureURL>
   <PictureName>Developer Page Banner</PictureName>
 </UploadSiteHostedPicturesRequest>'''
-        post_picture_response = requests.post(url, headers=api_call_headers, data=post_picture_data)
-        print(post_picture_response.status_code)
-        print(post_picture_response.text)
-        print("Done with Picture API Call")
-        with open('resp_output/post_picture_response.txt', 'w') as f:
-            f.write(post_picture_response.text)
-            f.write("\n\n\n")
-            f.write(str(post_picture_response))
-        return render_template('post_picture.html', post_picture_response=post_picture_response)
+
+                    post_picture_response = requests.post(url, headers=api_call_headers, data=post_picture_data)
+                    print(post_picture_response.status_code)
+                    print(post_picture_response.text)
+                    print("Done with Picture API Call")
+                    with open('resp_output/post_picture_response.txt', 'w') as f:
+                        f.write(post_picture_response.text)
+                        f.write("\n\n\n")
+                        f.write(str(post_picture_response))
+                    return render_template('api_calls.html', post_picture_response=post_picture_response)
+    
     else:
-        return render_template('post_picture.html')
+        return render_template('api_calls.html')
+    

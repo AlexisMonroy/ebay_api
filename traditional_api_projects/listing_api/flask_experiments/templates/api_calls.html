@@ -14,5 +14,10 @@
         <input type="hidden" name="button" value="AddItem">
         <button type="submit">Add Item</button>
     </form>
+
+    <form action="/api_calls" method="post">
+        <input type="hidden" name="button" value="PostPicture">
+        <button type="submit">Post Picture</button>
+    </form>
     <p>{{ get_cat_response }} </p>
 {% endblock %}
