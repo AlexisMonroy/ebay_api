@@ -4,10 +4,20 @@ import datetime
 import xml.etree.ElementTree as ET
 import os
 import sys
+from modules.load_csv import read_csv
+
+
 
 app = Flask(__name__)
 if __name__ == '__main__':
     app.run()
+
+#load the csv file
+file_path = os.path.join(os.path.dirname(__file__), 'data', 'books.csv')
+print(file_path)
+rows = read_csv(file_path)
+print("Done with CSV Call")
+
 
 url = 'https://api.ebay.com/ws/api.dll'
 pic_url = 'https://alexismonroy.github.io/images/Monte_Cristo.jpg'
@@ -27,26 +37,26 @@ data = '''<?xml version="1.0" encoding="utf-8"?>
   <RuName>Alexis_Gonzalez-AlexisGo-pricep-ufgmqsmji</RuName>
 </GetSessionIDRequest>'''
 
-test_response = requests.post(url, headers=headers, data=data)
-if test_response.status_code == 200:
-    test_output = "Success"
+session_response = requests.post(url, headers=headers, data=data)
+if session_response.status_code == 200:
+    session_output = "Success"
 else:
-    test_output = "Failure"
+    session_output = "Failure"
 
-print(test_response.status_code)
-print(test_response.text)
-print(test_output)
+print(session_response.status_code)
+print(session_response.text)
+print(session_output)
 
-tree = ET.fromstring(test_response.text)
-
+#create a tree from the response
+tree = ET.fromstring(session_response.text)
+#grab the session id from the tree
 session_id = tree[4].text
 print(tree[4].text)
-
 print("Done with Session Call")
 
 @app.route('/')
 def index():
-    return render_template('index.html', test_output=test_output)
+    return render_template('index.html', test_output=session_output)
 
 @app.route('/signin')
 def signin():
@@ -80,16 +90,13 @@ def callback():
         token.append(fetch_token)
         print("Token: " + fetch_token)
 
-        print(str(fetch_token_tree))
-
         dict_data = {}
         for child in tree:
             dict_data[child.tag] = child.text
-        print(dict_data)
 
 
         with open('resp_output/response.txt', 'w') as f:
-            f.write(test_response.text)
+            f.write(session_response.text)
             f.write("\n\n\n")
             f.write(str(tree))
             f.write("\n\n\n")
@@ -141,7 +148,7 @@ def api_calls():
       <ListingDuration>Days_7</ListingDuration>
       <ListingType>Chinese</ListingType>
       <PictureDetails>
-        <PictureURL>https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/cjEAAOSw1YpkZnYH/$_1.JPG?set_id=2</PictureURL>
+        <PictureURL>https://alexismonroy.github.io/images/montecristo4.jpg</PictureURL>
       </PictureDetails>
       <PostalCode>95125</PostalCode>
       <Quantity>1</Quantity>
@@ -254,7 +261,7 @@ def api_calls():
       <ListingDuration>Days_7</ListingDuration>
       <ListingType>Chinese</ListingType>
       <PictureDetails>
-        <PictureURL>https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/cjEAAOSw1YpkZnYH/$_1.JPG?set_id=2</PictureURL>
+        <PictureURL>https://alexismonroy.github.io/images/montecristo4.jpg</PictureURL>
       </PictureDetails>
       <PostalCode>95125</PostalCode>
       <Quantity>1</Quantity>

@@ -1,37 +1,39 @@
-    fetch_token_headers = { 
-        'X-EBAY-API-COMPATIBILITY-LEVEL': '719',
-    'X-EBAY-API-DEV-NAME': 'dae89547-48b8-4c4b-9e57-e8e9a84527dd',
-    'X-EBAY-API-APP-NAME': 'AlexisGo-pricepre-PRD-3ca7161d2-d3ef5057',
-    'X-EBAY-API-CERT-NAME': 'PRD-ca7161d2a58b-663b-4c87-9cec-8cbd',
-    'X-EBAY-API-CALL-NAME': 'FetchToken',
-    'X-EBAY-API-SITEID': '0',
-    'Content-Type' : 'text/xml'}     
+import tkinter as tk
 
-    fetch_token_data = f'''<?xml version="1.0" encoding="utf-8"?>
-    <FetchTokenRequest xmlns="urn:ebay:apis:eBLBaseComponents">
-    <SessionID>{session_id}</SessionID>
-    </FetchTokenRequest>'''
+url = 'https://alexismonroy.com/data/'
 
-    fetch_token_response = requests.post(url, headers=fetch_token_headers, data=fetch_token_data)
-    print(fetch_token_response.status_code)
-    print(fetch_token_response.text)
+jpg = 'alexis.jpg'
 
-    fetch_token_tree = ET.fromstring(fetch_token_response.text)
-    print(str(fetch_token_tree))
+pic_url = url + '/' + jpg
 
-    dict_data = {}
-    for child in tree:
-        dict_data[child.tag] = child.text
-    print(dict_data)
+print(pic_url)
 
+# Create a new Tkinter window
+window = tk.Tk()
 
-    with open('resp_output/response.txt', 'w') as f:
-        f.write(test_response.text)
-        f.write("\n\n\n")
-        f.write(str(tree))
-        f.write("\n\n\n")
-        f.write(str(dict_data))
-        f.write("\n\n\n")
-        f.write(fetch_token_response.text)
-        f.write("\n\n\n")
-        f.write(str(fetch_token_tree))
+# Set the window title
+window.title('Greeting')
+
+# Create a label to display the prompt message
+prompt_label = tk.Label(window, text='What is your name?')
+prompt_label.pack()
+
+# Create an entry field for the user to enter their name
+name_entry = tk.Entry(window)
+name_entry.pack()
+
+# Create a function to handle the button click event
+def greet():
+    name = name_entry.get()
+    greeting_label.config(text='Hello, ' + name + '!')
+
+# Create a button to submit the user's name
+submit_button = tk.Button(window, text='Submit', command=greet)
+submit_button.pack()
+
+# Create a label to display the greeting message
+greeting_label = tk.Label(window, text='')
+greeting_label.pack()
+
+# Start the Tkinter event loop
+window.mainloop()
