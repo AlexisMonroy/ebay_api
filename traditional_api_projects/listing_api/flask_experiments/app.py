@@ -4,7 +4,8 @@ import datetime
 import xml.etree.ElementTree as ET
 import os
 import sys
-from modules.load_csv import read_csv
+from modules.load_csv import read_csv 
+from modules.pending import pending_check
 
 
 
@@ -17,6 +18,11 @@ file_path = os.path.join(os.path.dirname(__file__), 'data', 'books.csv')
 print(file_path)
 rows = read_csv(file_path)
 print("Done with CSV Call")
+
+#query the database for pending and posted items
+product_ids = pending_check()
+print(product_ids)
+print("Done with Pending Check")
 
 
 url = 'https://api.ebay.com/ws/api.dll'
