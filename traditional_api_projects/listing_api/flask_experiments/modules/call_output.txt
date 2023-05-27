@@ -55,3 +55,963 @@ Time:
 
 End Time:
  2023-05-26 14:34:23.674186
+
+Time:
+ 2023-05-26 20:31:01.856142
+
+Call List:
+ ['<Name>Genre</Name><Value>Drama</Value><Name>Genre</Name><Value>Mystery</Value><Name>Genre</Name><Value>Victorian</Value><Name>Genre</Name><Value>Suspense</Value><Name>Publisher</Name><Value>Bantam Books</Value><Name>Publication Year</Name><Value>1956</Value><Name>Description</Name><Value>Used but in good condition.</Value><Name>Condition Description</Name><Value>Used</Value><Name>Book Format</Name><Value>Paperback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Adventure</Value><Name>Book Type</Name><Value>Novel</Value><Name>Narrative Type</Name><Value>Fiction</Value><Name>Intended Audience</Name><Value>Young Adults</Value><Name>Intended Audience</Name><Value>Adults</Value><Name>Vintage</Name><Value>Yes</Value>']
+
+Time:
+ 2023-05-26 20:31:01.869928
+
+Picture Call List:
+ ['<PictureDetails><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo0.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo1.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo2.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo3.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo4.jpg</PictureURL></PictureDetails>']
+
+Time:
+ 2023-05-26 20:31:01.876904
+
+Call List:
+ ['<Name>Genre</Name><Value>Drama</Value><Name>Genre</Name><Value>Mystery</Value><Name>Genre</Name><Value>Victorian</Value><Name>Genre</Name><Value>Suspense</Value><Name>Publisher</Name><Value>Bantam Books</Value><Name>Publication Year</Name><Value>1956</Value><Name>Description</Name><Value>Used but in good condition.</Value><Name>Condition Description</Name><Value>Used</Value><Name>Book Format</Name><Value>Paperback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Adventure</Value><Name>Book Type</Name><Value>Novel</Value><Name>Narrative Type</Name><Value>Fiction</Value><Name>Intended Audience</Name><Value>Young Adults</Value><Name>Intended Audience</Name><Value>Adults</Value><Name>Vintage</Name><Value>Yes</Value>', "<Name>Illustrator</Name><Value>Clement Hurd</Value><Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Animals</Value><Name>Publisher</Name><Value>Harper & Row</Value><Name>Publication Year</Name><Value>1947</Value><Name>Description</Name><Value>Good condition</Value><Name>Description</Name><Value>minimal wear.</Value><Name>Condition Description</Name><Value>No visible wear.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Playtime</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>"]
+
+Time:
+ 2023-05-26 20:31:01.895232
+
+Picture Call List:
+ ['<PictureDetails><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo0.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo1.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo2.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo3.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo4.jpg</PictureURL></PictureDetails>', '<PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon0.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon1.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon2.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon3.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon4.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon5.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon6.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon7.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon8.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon9.jpg</PictureURL></PictureDetails>']
+
+Time:
+ 2023-05-26 20:31:01.902212
+
+Call List:
+ ['<Name>Genre</Name><Value>Drama</Value><Name>Genre</Name><Value>Mystery</Value><Name>Genre</Name><Value>Victorian</Value><Name>Genre</Name><Value>Suspense</Value><Name>Publisher</Name><Value>Bantam Books</Value><Name>Publication Year</Name><Value>1956</Value><Name>Description</Name><Value>Used but in good condition.</Value><Name>Condition Description</Name><Value>Used</Value><Name>Book Format</Name><Value>Paperback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Adventure</Value><Name>Book Type</Name><Value>Novel</Value><Name>Narrative Type</Name><Value>Fiction</Value><Name>Intended Audience</Name><Value>Young Adults</Value><Name>Intended Audience</Name><Value>Adults</Value><Name>Vintage</Name><Value>Yes</Value>', "<Name>Illustrator</Name><Value>Clement Hurd</Value><Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Animals</Value><Name>Publisher</Name><Value>Harper & Row</Value><Name>Publication Year</Name><Value>1947</Value><Name>Description</Name><Value>Good condition</Value><Name>Description</Name><Value>minimal wear.</Value><Name>Condition Description</Name><Value>No visible wear.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Playtime</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>", "<Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Educational</Value><Name>Genre</Name><Value>Humor</Value><Name>Publisher</Name><Value>Random House</Value><Name>Publication Year</Name><Value>1990</Value><Name>Description</Name><Value>Minimal wear.</Value><Name>Condition Description</Name><Value>Folds on pages.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Poetry</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>"]
+
+Time:
+ 2023-05-26 20:31:01.950737
+
+Picture Call List:
+ ['<PictureDetails><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo0.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo1.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo2.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo3.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo4.jpg</PictureURL></PictureDetails>', '<PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon0.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon1.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon2.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon3.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon4.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon5.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon6.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon7.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon8.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon9.jpg</PictureURL></PictureDetails>', "<PictureDetails><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go0.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go1.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go2.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go3.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go4.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go5.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go6.jpg</PictureURL></PictureDetails>"]
+
+Time:
+ 2023-05-26 20:31:01.962044
+
+Call List:
+ ['<Name>Genre</Name><Value>Drama</Value><Name>Genre</Name><Value>Mystery</Value><Name>Genre</Name><Value>Victorian</Value><Name>Genre</Name><Value>Suspense</Value><Name>Publisher</Name><Value>Bantam Books</Value><Name>Publication Year</Name><Value>1956</Value><Name>Description</Name><Value>Used but in good condition.</Value><Name>Condition Description</Name><Value>Used</Value><Name>Book Format</Name><Value>Paperback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Adventure</Value><Name>Book Type</Name><Value>Novel</Value><Name>Narrative Type</Name><Value>Fiction</Value><Name>Intended Audience</Name><Value>Young Adults</Value><Name>Intended Audience</Name><Value>Adults</Value><Name>Vintage</Name><Value>Yes</Value>', "<Name>Illustrator</Name><Value>Clement Hurd</Value><Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Animals</Value><Name>Publisher</Name><Value>Harper & Row</Value><Name>Publication Year</Name><Value>1947</Value><Name>Description</Name><Value>Good condition</Value><Name>Description</Name><Value>minimal wear.</Value><Name>Condition Description</Name><Value>No visible wear.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Playtime</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>", "<Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Educational</Value><Name>Genre</Name><Value>Humor</Value><Name>Publisher</Name><Value>Random House</Value><Name>Publication Year</Name><Value>1990</Value><Name>Description</Name><Value>Minimal wear.</Value><Name>Condition Description</Name><Value>Folds on pages.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Poetry</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>", "<Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Educational</Value><Name>Genre</Name><Value>Humor</Value><Name>Publisher</Name><Value>Random House</Value><Name>Publication Year</Name><Value>1982</Value><Name>Description</Name><Value>See pictures</Value><Name>Condition Description</Name><Value>Torn pages.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Children</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>"]
+
+Time:
+ 2023-05-26 20:31:01.967035
+
+Picture Call List:
+ ['<PictureDetails><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo0.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo1.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo2.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo3.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo4.jpg</PictureURL></PictureDetails>', '<PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon0.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon1.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon2.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon3.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon4.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon5.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon6.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon7.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon8.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon9.jpg</PictureURL></PictureDetails>', "<PictureDetails><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go0.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go1.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go2.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go3.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go4.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go5.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go6.jpg</PictureURL></PictureDetails>", '<PictureDetails><PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!0.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!1.jpg</PictureURL></PictureDetails><PictureDetails><PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!2.jpg</PictureURL></PictureDetails>']
+
+End Time:
+ 2023-05-26 20:31:01.969028
+
+Time:
+ 2023-05-26 20:55:55.861579
+
+Call List:
+ ['<Name>Genre</Name><Value>Drama</Value><Name>Genre</Name><Value>Mystery</Value><Name>Genre</Name><Value>Victorian</Value><Name>Genre</Name><Value>Suspense</Value><Name>Publisher</Name><Value>Bantam Books</Value><Name>Publication Year</Name><Value>1956</Value><Name>Description</Name><Value>Used but in good condition.</Value><Name>Condition Description</Name><Value>Used</Value><Name>Book Format</Name><Value>Paperback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Adventure</Value><Name>Book Type</Name><Value>Novel</Value><Name>Narrative Type</Name><Value>Fiction</Value><Name>Intended Audience</Name><Value>Young Adults</Value><Name>Intended Audience</Name><Value>Adults</Value><Name>Vintage</Name><Value>Yes</Value>']
+
+Time:
+ 2023-05-26 20:55:55.866561
+
+Picture Call List:
+ ['<PictureDetails><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo4.jpg</PictureURL></PictureDetails>']
+
+Time:
+ 2023-05-26 20:55:55.871547
+
+Call List:
+ ['<Name>Genre</Name><Value>Drama</Value><Name>Genre</Name><Value>Mystery</Value><Name>Genre</Name><Value>Victorian</Value><Name>Genre</Name><Value>Suspense</Value><Name>Publisher</Name><Value>Bantam Books</Value><Name>Publication Year</Name><Value>1956</Value><Name>Description</Name><Value>Used but in good condition.</Value><Name>Condition Description</Name><Value>Used</Value><Name>Book Format</Name><Value>Paperback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Adventure</Value><Name>Book Type</Name><Value>Novel</Value><Name>Narrative Type</Name><Value>Fiction</Value><Name>Intended Audience</Name><Value>Young Adults</Value><Name>Intended Audience</Name><Value>Adults</Value><Name>Vintage</Name><Value>Yes</Value>', "<Name>Illustrator</Name><Value>Clement Hurd</Value><Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Animals</Value><Name>Publisher</Name><Value>Harper & Row</Value><Name>Publication Year</Name><Value>1947</Value><Name>Description</Name><Value>Good condition</Value><Name>Description</Name><Value>minimal wear.</Value><Name>Condition Description</Name><Value>No visible wear.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Playtime</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>"]
+
+Time:
+ 2023-05-26 20:55:55.889082
+
+Picture Call List:
+ ['<PictureDetails><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo4.jpg</PictureURL></PictureDetails>', '<PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon6.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon7.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon8.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon9.jpg</PictureURL></PictureDetails>']
+
+Time:
+ 2023-05-26 20:55:55.894471
+
+Call List:
+ ['<Name>Genre</Name><Value>Drama</Value><Name>Genre</Name><Value>Mystery</Value><Name>Genre</Name><Value>Victorian</Value><Name>Genre</Name><Value>Suspense</Value><Name>Publisher</Name><Value>Bantam Books</Value><Name>Publication Year</Name><Value>1956</Value><Name>Description</Name><Value>Used but in good condition.</Value><Name>Condition Description</Name><Value>Used</Value><Name>Book Format</Name><Value>Paperback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Adventure</Value><Name>Book Type</Name><Value>Novel</Value><Name>Narrative Type</Name><Value>Fiction</Value><Name>Intended Audience</Name><Value>Young Adults</Value><Name>Intended Audience</Name><Value>Adults</Value><Name>Vintage</Name><Value>Yes</Value>', "<Name>Illustrator</Name><Value>Clement Hurd</Value><Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Animals</Value><Name>Publisher</Name><Value>Harper & Row</Value><Name>Publication Year</Name><Value>1947</Value><Name>Description</Name><Value>Good condition</Value><Name>Description</Name><Value>minimal wear.</Value><Name>Condition Description</Name><Value>No visible wear.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Playtime</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>", "<Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Educational</Value><Name>Genre</Name><Value>Humor</Value><Name>Publisher</Name><Value>Random House</Value><Name>Publication Year</Name><Value>1990</Value><Name>Description</Name><Value>Minimal wear.</Value><Name>Condition Description</Name><Value>Folds on pages.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Poetry</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>"]
+
+Time:
+ 2023-05-26 20:55:55.905741
+
+Picture Call List:
+ ['<PictureDetails><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo4.jpg</PictureURL></PictureDetails>', '<PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon6.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon7.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon8.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon9.jpg</PictureURL></PictureDetails>', "<PictureDetails><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go6.jpg</PictureURL></PictureDetails>"]
+
+Time:
+ 2023-05-26 20:55:55.911122
+
+Call List:
+ ['<Name>Genre</Name><Value>Drama</Value><Name>Genre</Name><Value>Mystery</Value><Name>Genre</Name><Value>Victorian</Value><Name>Genre</Name><Value>Suspense</Value><Name>Publisher</Name><Value>Bantam Books</Value><Name>Publication Year</Name><Value>1956</Value><Name>Description</Name><Value>Used but in good condition.</Value><Name>Condition Description</Name><Value>Used</Value><Name>Book Format</Name><Value>Paperback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Adventure</Value><Name>Book Type</Name><Value>Novel</Value><Name>Narrative Type</Name><Value>Fiction</Value><Name>Intended Audience</Name><Value>Young Adults</Value><Name>Intended Audience</Name><Value>Adults</Value><Name>Vintage</Name><Value>Yes</Value>', "<Name>Illustrator</Name><Value>Clement Hurd</Value><Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Animals</Value><Name>Publisher</Name><Value>Harper & Row</Value><Name>Publication Year</Name><Value>1947</Value><Name>Description</Name><Value>Good condition</Value><Name>Description</Name><Value>minimal wear.</Value><Name>Condition Description</Name><Value>No visible wear.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Playtime</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>", "<Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Educational</Value><Name>Genre</Name><Value>Humor</Value><Name>Publisher</Name><Value>Random House</Value><Name>Publication Year</Name><Value>1990</Value><Name>Description</Name><Value>Minimal wear.</Value><Name>Condition Description</Name><Value>Folds on pages.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Poetry</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>", "<Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Educational</Value><Name>Genre</Name><Value>Humor</Value><Name>Publisher</Name><Value>Random House</Value><Name>Publication Year</Name><Value>1982</Value><Name>Description</Name><Value>See pictures</Value><Name>Condition Description</Name><Value>Torn pages.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Children</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>"]
+
+Time:
+ 2023-05-26 20:55:55.915532
+
+Picture Call List:
+ ['<PictureDetails><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo4.jpg</PictureURL></PictureDetails>', '<PictureDetails><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon6.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon7.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon8.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon9.jpg</PictureURL></PictureDetails>', "<PictureDetails><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go6.jpg</PictureURL></PictureDetails>", '<PictureDetails><PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!2.jpg</PictureURL></PictureDetails>']
+
+End Time:
+ 2023-05-26 20:55:55.918206
+
+Time:
+ 2023-05-26 21:06:54.271408
+
+Call List:
+ ['<Name>Genre</Name><Value>Drama</Value><Name>Genre</Name><Value>Mystery</Value><Name>Genre</Name><Value>Victorian</Value><Name>Genre</Name><Value>Suspense</Value><Name>Publisher</Name><Value>Bantam Books</Value><Name>Publication Year</Name><Value>1956</Value><Name>Description</Name><Value>Used but in good condition.</Value><Name>Condition Description</Name><Value>Used</Value><Name>Book Format</Name><Value>Paperback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Adventure</Value><Name>Book Type</Name><Value>Novel</Value><Name>Narrative Type</Name><Value>Fiction</Value><Name>Intended Audience</Name><Value>Young Adults</Value><Name>Intended Audience</Name><Value>Adults</Value><Name>Vintage</Name><Value>Yes</Value>']
+
+Time:
+ 2023-05-26 21:06:54.278507
+
+Picture Call List:
+ ['<PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo4.jpg</PictureURL>']
+
+Time:
+ 2023-05-26 21:06:54.282576
+
+Call List:
+ ['<Name>Genre</Name><Value>Drama</Value><Name>Genre</Name><Value>Mystery</Value><Name>Genre</Name><Value>Victorian</Value><Name>Genre</Name><Value>Suspense</Value><Name>Publisher</Name><Value>Bantam Books</Value><Name>Publication Year</Name><Value>1956</Value><Name>Description</Name><Value>Used but in good condition.</Value><Name>Condition Description</Name><Value>Used</Value><Name>Book Format</Name><Value>Paperback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Adventure</Value><Name>Book Type</Name><Value>Novel</Value><Name>Narrative Type</Name><Value>Fiction</Value><Name>Intended Audience</Name><Value>Young Adults</Value><Name>Intended Audience</Name><Value>Adults</Value><Name>Vintage</Name><Value>Yes</Value>', "<Name>Illustrator</Name><Value>Clement Hurd</Value><Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Animals</Value><Name>Publisher</Name><Value>Harper & Row</Value><Name>Publication Year</Name><Value>1947</Value><Name>Description</Name><Value>Good condition</Value><Name>Description</Name><Value>minimal wear.</Value><Name>Condition Description</Name><Value>No visible wear.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Playtime</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>"]
+
+Time:
+ 2023-05-26 21:06:54.293475
+
+Picture Call List:
+ ['<PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo4.jpg</PictureURL>', '<PictureURL>https://alexismonroy.github.io/images/Goodnight Moon0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon6.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon7.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon8.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon9.jpg</PictureURL>']
+
+Time:
+ 2023-05-26 21:06:54.298627
+
+Call List:
+ ['<Name>Genre</Name><Value>Drama</Value><Name>Genre</Name><Value>Mystery</Value><Name>Genre</Name><Value>Victorian</Value><Name>Genre</Name><Value>Suspense</Value><Name>Publisher</Name><Value>Bantam Books</Value><Name>Publication Year</Name><Value>1956</Value><Name>Description</Name><Value>Used but in good condition.</Value><Name>Condition Description</Name><Value>Used</Value><Name>Book Format</Name><Value>Paperback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Adventure</Value><Name>Book Type</Name><Value>Novel</Value><Name>Narrative Type</Name><Value>Fiction</Value><Name>Intended Audience</Name><Value>Young Adults</Value><Name>Intended Audience</Name><Value>Adults</Value><Name>Vintage</Name><Value>Yes</Value>', "<Name>Illustrator</Name><Value>Clement Hurd</Value><Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Animals</Value><Name>Publisher</Name><Value>Harper & Row</Value><Name>Publication Year</Name><Value>1947</Value><Name>Description</Name><Value>Good condition</Value><Name>Description</Name><Value>minimal wear.</Value><Name>Condition Description</Name><Value>No visible wear.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Playtime</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>", "<Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Educational</Value><Name>Genre</Name><Value>Humor</Value><Name>Publisher</Name><Value>Random House</Value><Name>Publication Year</Name><Value>1990</Value><Name>Description</Name><Value>Minimal wear.</Value><Name>Condition Description</Name><Value>Folds on pages.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Poetry</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>"]
+
+Time:
+ 2023-05-26 21:06:54.308406
+
+Picture Call List:
+ ['<PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo4.jpg</PictureURL>', '<PictureURL>https://alexismonroy.github.io/images/Goodnight Moon0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon6.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon7.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon8.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon9.jpg</PictureURL>', "<PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go6.jpg</PictureURL>"]
+
+Time:
+ 2023-05-26 21:06:54.313388
+
+Call List:
+ ['<Name>Genre</Name><Value>Drama</Value><Name>Genre</Name><Value>Mystery</Value><Name>Genre</Name><Value>Victorian</Value><Name>Genre</Name><Value>Suspense</Value><Name>Publisher</Name><Value>Bantam Books</Value><Name>Publication Year</Name><Value>1956</Value><Name>Description</Name><Value>Used but in good condition.</Value><Name>Condition Description</Name><Value>Used</Value><Name>Book Format</Name><Value>Paperback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Adventure</Value><Name>Book Type</Name><Value>Novel</Value><Name>Narrative Type</Name><Value>Fiction</Value><Name>Intended Audience</Name><Value>Young Adults</Value><Name>Intended Audience</Name><Value>Adults</Value><Name>Vintage</Name><Value>Yes</Value>', "<Name>Illustrator</Name><Value>Clement Hurd</Value><Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Animals</Value><Name>Publisher</Name><Value>Harper & Row</Value><Name>Publication Year</Name><Value>1947</Value><Name>Description</Name><Value>Good condition</Value><Name>Description</Name><Value>minimal wear.</Value><Name>Condition Description</Name><Value>No visible wear.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Playtime</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>", "<Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Educational</Value><Name>Genre</Name><Value>Humor</Value><Name>Publisher</Name><Value>Random House</Value><Name>Publication Year</Name><Value>1990</Value><Name>Description</Name><Value>Minimal wear.</Value><Name>Condition Description</Name><Value>Folds on pages.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Poetry</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>", "<Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Educational</Value><Name>Genre</Name><Value>Humor</Value><Name>Publisher</Name><Value>Random House</Value><Name>Publication Year</Name><Value>1982</Value><Name>Description</Name><Value>See pictures</Value><Name>Condition Description</Name><Value>Torn pages.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Children</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>"]
+
+Time:
+ 2023-05-26 21:06:54.316697
+
+Picture Call List:
+ ['<PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo4.jpg</PictureURL>', '<PictureURL>https://alexismonroy.github.io/images/Goodnight Moon0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon6.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon7.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon8.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon9.jpg</PictureURL>', "<PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go6.jpg</PictureURL>", '<PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!2.jpg</PictureURL>']
+
+End Time:
+ 2023-05-26 21:06:54.317700
+
+Time:
+ 2023-05-26 21:18:13.092898
+
+Call List:
+ ['<Name>Genre</Name><Value>Drama</Value><Name>Genre</Name><Value>Mystery</Value><Name>Genre</Name><Value>Victorian</Value><Name>Genre</Name><Value>Suspense</Value><Name>Publisher</Name><Value>Bantam Books</Value><Name>Publication Year</Name><Value>1956</Value><Name>Description</Name><Value>Used but in good condition.</Value><Name>Condition Description</Name><Value>Used</Value><Name>Book Format</Name><Value>Paperback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Adventure</Value><Name>Book Type</Name><Value>Novel</Value><Name>Narrative Type</Name><Value>Fiction</Value><Name>Intended Audience</Name><Value>Young Adults</Value><Name>Intended Audience</Name><Value>Adults</Value><Name>Vintage</Name><Value>Yes</Value>']
+
+Time:
+ 2023-05-26 21:18:13.098283
+
+Picture Call List:
+ ['<PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo4.jpg</PictureURL>']
+
+Time:
+ 2023-05-26 21:18:13.104263
+
+Verify Data:
+ <?xml version="1.0" encoding="utf-8"?>
+  <VerifyAddItemRequest xmlns="urn:ebay:apis:eBLBaseComponents">
+    <RequesterCredentials>
+      <eBayAuthToken>1</eBayAuthToken>
+    </RequesterCredentials>
+    <ErrorLanguage>en_US</ErrorLanguage>
+    <WarningLevel>High</WarningLevel>
+    <Item>
+      <Title>The Count of Monte Cristo</Title>
+      <Description>
+        Used but in good condition.
+      </Description>
+      <PrimaryCategory>
+        <CategoryID>261186</CategoryID>
+      </PrimaryCategory>
+      <StartPrice>3.0</StartPrice>
+      <CategoryMappingAllowed>true</CategoryMappingAllowed>
+      <ConditionID>5000</ConditionID>
+      <Country>US</Country>
+      <Currency>USD</Currency>
+      <DispatchTimeMax>3</DispatchTimeMax>
+      <ListingDuration>GTC</ListingDuration>
+      <ListingType>FixedPriceItem</ListingType>
+      <PictureDetails>
+        <PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo4.jpg</PictureURL>
+      </PictureDetails>
+      <PostalCode>95125</PostalCode>
+      <Quantity>1</Quantity>
+      <ItemSpecifics>     
+      <Name>Genre</Name><Value>Drama</Value><Name>Genre</Name><Value>Mystery</Value><Name>Genre</Name><Value>Victorian</Value><Name>Genre</Name><Value>Suspense</Value><Name>Publisher</Name><Value>Bantam Books</Value><Name>Publication Year</Name><Value>1956</Value><Name>Description</Name><Value>Used but in good condition.</Value><Name>Condition Description</Name><Value>Used</Value><Name>Book Format</Name><Value>Paperback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Adventure</Value><Name>Book Type</Name><Value>Novel</Value><Name>Narrative Type</Name><Value>Fiction</Value><Name>Intended Audience</Name><Value>Young Adults</Value><Name>Intended Audience</Name><Value>Adults</Value><Name>Vintage</Name><Value>Yes</Value>
+      </ItemSpecifics>
+      <ReturnPolicy>
+        <ReturnsAcceptedOption>ReturnsAccepted</ReturnsAcceptedOption>
+        <RefundOption>MoneyBack</RefundOption>
+        <ReturnsWithinOption>Days_30</ReturnsWithinOption>
+        <ShippingCostPaidByOption>Buyer</ShippingCostPaidByOption>
+      </ReturnPolicy>
+      <ShippingDetails>
+        <ShippingType>Flat</ShippingType>
+        <ShippingServiceOptions>
+          <ShippingServicePriority>1</ShippingServicePriority>
+          <ShippingService>USPSMedia</ShippingService>
+          <ShippingServiceCost>2.50</ShippingServiceCost>
+        </ShippingServiceOptions>
+      </ShippingDetails>
+      <Site>US</Site>
+    </Item>
+  </VerifyAddItemRequest>
+
+Time:
+ 2023-05-26 21:18:13.107256
+
+Call List:
+ ['<Name>Genre</Name><Value>Drama</Value><Name>Genre</Name><Value>Mystery</Value><Name>Genre</Name><Value>Victorian</Value><Name>Genre</Name><Value>Suspense</Value><Name>Publisher</Name><Value>Bantam Books</Value><Name>Publication Year</Name><Value>1956</Value><Name>Description</Name><Value>Used but in good condition.</Value><Name>Condition Description</Name><Value>Used</Value><Name>Book Format</Name><Value>Paperback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Adventure</Value><Name>Book Type</Name><Value>Novel</Value><Name>Narrative Type</Name><Value>Fiction</Value><Name>Intended Audience</Name><Value>Young Adults</Value><Name>Intended Audience</Name><Value>Adults</Value><Name>Vintage</Name><Value>Yes</Value>', "<Name>Illustrator</Name><Value>Clement Hurd</Value><Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Animals</Value><Name>Publisher</Name><Value>Harper & Row</Value><Name>Publication Year</Name><Value>1947</Value><Name>Description</Name><Value>Good condition</Value><Name>Description</Name><Value>minimal wear.</Value><Name>Condition Description</Name><Value>No visible wear.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Playtime</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>"]
+
+Time:
+ 2023-05-26 21:18:13.118877
+
+Picture Call List:
+ ['<PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo4.jpg</PictureURL>', '<PictureURL>https://alexismonroy.github.io/images/Goodnight Moon0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon6.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon7.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon8.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon9.jpg</PictureURL>']
+
+Time:
+ 2023-05-26 21:18:13.125957
+
+Verify Data:
+ <?xml version="1.0" encoding="utf-8"?>
+  <VerifyAddItemRequest xmlns="urn:ebay:apis:eBLBaseComponents">
+    <RequesterCredentials>
+      <eBayAuthToken>1</eBayAuthToken>
+    </RequesterCredentials>
+    <ErrorLanguage>en_US</ErrorLanguage>
+    <WarningLevel>High</WarningLevel>
+    <Item>
+      <Title>Goodnight Moon</Title>
+      <Description>
+        Good condition, minimal wear.
+      </Description>
+      <PrimaryCategory>
+        <CategoryID>261186</CategoryID>
+      </PrimaryCategory>
+      <StartPrice>20.0</StartPrice>
+      <CategoryMappingAllowed>true</CategoryMappingAllowed>
+      <ConditionID>5000</ConditionID>
+      <Country>US</Country>
+      <Currency>USD</Currency>
+      <DispatchTimeMax>3</DispatchTimeMax>
+      <ListingDuration>GTC</ListingDuration>
+      <ListingType>FixedPriceItem</ListingType>
+      <PictureDetails>
+        <PictureURL>https://alexismonroy.github.io/images/Goodnight Moon0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon6.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon7.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon8.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon9.jpg</PictureURL>
+      </PictureDetails>
+      <PostalCode>95125</PostalCode>
+      <Quantity>1</Quantity>
+      <ItemSpecifics>     
+      <Name>Illustrator</Name><Value>Clement Hurd</Value><Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Animals</Value><Name>Publisher</Name><Value>Harper & Row</Value><Name>Publication Year</Name><Value>1947</Value><Name>Description</Name><Value>Good condition</Value><Name>Description</Name><Value>minimal wear.</Value><Name>Condition Description</Name><Value>No visible wear.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Playtime</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>
+      </ItemSpecifics>
+      <ReturnPolicy>
+        <ReturnsAcceptedOption>ReturnsAccepted</ReturnsAcceptedOption>
+        <RefundOption>MoneyBack</RefundOption>
+        <ReturnsWithinOption>Days_30</ReturnsWithinOption>
+        <ShippingCostPaidByOption>Buyer</ShippingCostPaidByOption>
+      </ReturnPolicy>
+      <ShippingDetails>
+        <ShippingType>Flat</ShippingType>
+        <ShippingServiceOptions>
+          <ShippingServicePriority>1</ShippingServicePriority>
+          <ShippingService>USPSMedia</ShippingService>
+          <ShippingServiceCost>2.50</ShippingServiceCost>
+        </ShippingServiceOptions>
+      </ShippingDetails>
+      <Site>US</Site>
+    </Item>
+  </VerifyAddItemRequest>
+
+Time:
+ 2023-05-26 21:18:13.129948
+
+Call List:
+ ['<Name>Genre</Name><Value>Drama</Value><Name>Genre</Name><Value>Mystery</Value><Name>Genre</Name><Value>Victorian</Value><Name>Genre</Name><Value>Suspense</Value><Name>Publisher</Name><Value>Bantam Books</Value><Name>Publication Year</Name><Value>1956</Value><Name>Description</Name><Value>Used but in good condition.</Value><Name>Condition Description</Name><Value>Used</Value><Name>Book Format</Name><Value>Paperback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Adventure</Value><Name>Book Type</Name><Value>Novel</Value><Name>Narrative Type</Name><Value>Fiction</Value><Name>Intended Audience</Name><Value>Young Adults</Value><Name>Intended Audience</Name><Value>Adults</Value><Name>Vintage</Name><Value>Yes</Value>', "<Name>Illustrator</Name><Value>Clement Hurd</Value><Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Animals</Value><Name>Publisher</Name><Value>Harper & Row</Value><Name>Publication Year</Name><Value>1947</Value><Name>Description</Name><Value>Good condition</Value><Name>Description</Name><Value>minimal wear.</Value><Name>Condition Description</Name><Value>No visible wear.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Playtime</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>", "<Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Educational</Value><Name>Genre</Name><Value>Humor</Value><Name>Publisher</Name><Value>Random House</Value><Name>Publication Year</Name><Value>1990</Value><Name>Description</Name><Value>Minimal wear.</Value><Name>Condition Description</Name><Value>Folds on pages.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Poetry</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>"]
+
+Time:
+ 2023-05-26 21:18:13.137226
+
+Picture Call List:
+ ['<PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo4.jpg</PictureURL>', '<PictureURL>https://alexismonroy.github.io/images/Goodnight Moon0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon6.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon7.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon8.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon9.jpg</PictureURL>', "<PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go6.jpg</PictureURL>"]
+
+Time:
+ 2023-05-26 21:18:13.144393
+
+Verify Data:
+ <?xml version="1.0" encoding="utf-8"?>
+  <VerifyAddItemRequest xmlns="urn:ebay:apis:eBLBaseComponents">
+    <RequesterCredentials>
+      <eBayAuthToken>1</eBayAuthToken>
+    </RequesterCredentials>
+    <ErrorLanguage>en_US</ErrorLanguage>
+    <WarningLevel>High</WarningLevel>
+    <Item>
+      <Title>Oh, The Places You'll Go</Title>
+      <Description>
+        Minimal wear.
+      </Description>
+      <PrimaryCategory>
+        <CategoryID>261186</CategoryID>
+      </PrimaryCategory>
+      <StartPrice>15.0</StartPrice>
+      <CategoryMappingAllowed>true</CategoryMappingAllowed>
+      <ConditionID>5000</ConditionID>
+      <Country>US</Country>
+      <Currency>USD</Currency>
+      <DispatchTimeMax>3</DispatchTimeMax>
+      <ListingDuration>GTC</ListingDuration>
+      <ListingType>FixedPriceItem</ListingType>
+      <PictureDetails>
+        <PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go6.jpg</PictureURL>
+      </PictureDetails>
+      <PostalCode>95125</PostalCode>
+      <Quantity>1</Quantity>
+      <ItemSpecifics>     
+      <Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Educational</Value><Name>Genre</Name><Value>Humor</Value><Name>Publisher</Name><Value>Random House</Value><Name>Publication Year</Name><Value>1990</Value><Name>Description</Name><Value>Minimal wear.</Value><Name>Condition Description</Name><Value>Folds on pages.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Poetry</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>
+      </ItemSpecifics>
+      <ReturnPolicy>
+        <ReturnsAcceptedOption>ReturnsAccepted</ReturnsAcceptedOption>
+        <RefundOption>MoneyBack</RefundOption>
+        <ReturnsWithinOption>Days_30</ReturnsWithinOption>
+        <ShippingCostPaidByOption>Buyer</ShippingCostPaidByOption>
+      </ReturnPolicy>
+      <ShippingDetails>
+        <ShippingType>Flat</ShippingType>
+        <ShippingServiceOptions>
+          <ShippingServicePriority>1</ShippingServicePriority>
+          <ShippingService>USPSMedia</ShippingService>
+          <ShippingServiceCost>2.50</ShippingServiceCost>
+        </ShippingServiceOptions>
+      </ShippingDetails>
+      <Site>US</Site>
+    </Item>
+  </VerifyAddItemRequest>
+
+Time:
+ 2023-05-26 21:18:13.148556
+
+Call List:
+ ['<Name>Genre</Name><Value>Drama</Value><Name>Genre</Name><Value>Mystery</Value><Name>Genre</Name><Value>Victorian</Value><Name>Genre</Name><Value>Suspense</Value><Name>Publisher</Name><Value>Bantam Books</Value><Name>Publication Year</Name><Value>1956</Value><Name>Description</Name><Value>Used but in good condition.</Value><Name>Condition Description</Name><Value>Used</Value><Name>Book Format</Name><Value>Paperback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Adventure</Value><Name>Book Type</Name><Value>Novel</Value><Name>Narrative Type</Name><Value>Fiction</Value><Name>Intended Audience</Name><Value>Young Adults</Value><Name>Intended Audience</Name><Value>Adults</Value><Name>Vintage</Name><Value>Yes</Value>', "<Name>Illustrator</Name><Value>Clement Hurd</Value><Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Animals</Value><Name>Publisher</Name><Value>Harper & Row</Value><Name>Publication Year</Name><Value>1947</Value><Name>Description</Name><Value>Good condition</Value><Name>Description</Name><Value>minimal wear.</Value><Name>Condition Description</Name><Value>No visible wear.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Playtime</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>", "<Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Educational</Value><Name>Genre</Name><Value>Humor</Value><Name>Publisher</Name><Value>Random House</Value><Name>Publication Year</Name><Value>1990</Value><Name>Description</Name><Value>Minimal wear.</Value><Name>Condition Description</Name><Value>Folds on pages.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Poetry</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>", "<Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Educational</Value><Name>Genre</Name><Value>Humor</Value><Name>Publisher</Name><Value>Random House</Value><Name>Publication Year</Name><Value>1982</Value><Name>Description</Name><Value>See pictures</Value><Name>Condition Description</Name><Value>Torn pages.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Children</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>"]
+
+Time:
+ 2023-05-26 21:18:13.152586
+
+Picture Call List:
+ ['<PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo4.jpg</PictureURL>', '<PictureURL>https://alexismonroy.github.io/images/Goodnight Moon0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon6.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon7.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon8.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon9.jpg</PictureURL>', "<PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go6.jpg</PictureURL>", '<PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!2.jpg</PictureURL>']
+
+Time:
+ 2023-05-26 21:18:13.158918
+
+Verify Data:
+ <?xml version="1.0" encoding="utf-8"?>
+  <VerifyAddItemRequest xmlns="urn:ebay:apis:eBLBaseComponents">
+    <RequesterCredentials>
+      <eBayAuthToken>1</eBayAuthToken>
+    </RequesterCredentials>
+    <ErrorLanguage>en_US</ErrorLanguage>
+    <WarningLevel>High</WarningLevel>
+    <Item>
+      <Title>Horton Hears A Who!</Title>
+      <Description>
+        See pictures
+      </Description>
+      <PrimaryCategory>
+        <CategoryID>261186</CategoryID>
+      </PrimaryCategory>
+      <StartPrice>14.0</StartPrice>
+      <CategoryMappingAllowed>true</CategoryMappingAllowed>
+      <ConditionID>5000</ConditionID>
+      <Country>US</Country>
+      <Currency>USD</Currency>
+      <DispatchTimeMax>3</DispatchTimeMax>
+      <ListingDuration>GTC</ListingDuration>
+      <ListingType>FixedPriceItem</ListingType>
+      <PictureDetails>
+        <PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!2.jpg</PictureURL>
+      </PictureDetails>
+      <PostalCode>95125</PostalCode>
+      <Quantity>1</Quantity>
+      <ItemSpecifics>     
+      <Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Educational</Value><Name>Genre</Name><Value>Humor</Value><Name>Publisher</Name><Value>Random House</Value><Name>Publication Year</Name><Value>1982</Value><Name>Description</Name><Value>See pictures</Value><Name>Condition Description</Name><Value>Torn pages.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Children</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>
+      </ItemSpecifics>
+      <ReturnPolicy>
+        <ReturnsAcceptedOption>ReturnsAccepted</ReturnsAcceptedOption>
+        <RefundOption>MoneyBack</RefundOption>
+        <ReturnsWithinOption>Days_30</ReturnsWithinOption>
+        <ShippingCostPaidByOption>Buyer</ShippingCostPaidByOption>
+      </ReturnPolicy>
+      <ShippingDetails>
+        <ShippingType>Flat</ShippingType>
+        <ShippingServiceOptions>
+          <ShippingServicePriority>1</ShippingServicePriority>
+          <ShippingService>USPSMedia</ShippingService>
+          <ShippingServiceCost>2.50</ShippingServiceCost>
+        </ShippingServiceOptions>
+      </ShippingDetails>
+      <Site>US</Site>
+    </Item>
+  </VerifyAddItemRequest>
+
+End Time:
+ 2023-05-26 21:18:13.158918
+
+Time:
+ 2023-05-26 21:21:17.624682
+
+Call List:
+ ['<Name>Genre</Name><Value>Drama</Value><Name>Genre</Name><Value>Mystery</Value><Name>Genre</Name><Value>Victorian</Value><Name>Genre</Name><Value>Suspense</Value><Name>Publisher</Name><Value>Bantam Books</Value><Name>Publication Year</Name><Value>1956</Value><Name>Description</Name><Value>Used but in good condition.</Value><Name>Condition Description</Name><Value>Used</Value><Name>Book Format</Name><Value>Paperback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Adventure</Value><Name>Book Type</Name><Value>Novel</Value><Name>Narrative Type</Name><Value>Fiction</Value><Name>Intended Audience</Name><Value>Young Adults</Value><Name>Intended Audience</Name><Value>Adults</Value><Name>Vintage</Name><Value>Yes</Value>']
+
+Time:
+ 2023-05-26 21:21:17.630661
+
+Picture Call List:
+ ['<PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo4.jpg</PictureURL>']
+
+Time:
+ 2023-05-26 21:21:17.637640
+
+Verify Data:
+ <?xml version="1.0" encoding="utf-8"?>
+  <VerifyAddItemRequest xmlns="urn:ebay:apis:eBLBaseComponents">
+    <RequesterCredentials>
+      <eBayAuthToken>1</eBayAuthToken>
+    </RequesterCredentials>
+    <ErrorLanguage>en_US</ErrorLanguage>
+    <WarningLevel>High</WarningLevel>
+    <Item>
+      <Title>The Count of Monte Cristo</Title>
+      <Description>
+        Used but in good condition.
+      </Description>
+      <PrimaryCategory>
+        <CategoryID>261186</CategoryID>
+      </PrimaryCategory>
+      <StartPrice>3.0</StartPrice>
+      <CategoryMappingAllowed>true</CategoryMappingAllowed>
+      <ConditionID>5000</ConditionID>
+      <Country>US</Country>
+      <Currency>USD</Currency>
+      <DispatchTimeMax>3</DispatchTimeMax>
+      <ListingDuration>GTC</ListingDuration>
+      <ListingType>FixedPriceItem</ListingType>
+      <PictureDetails>
+        <PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo4.jpg</PictureURL>
+      </PictureDetails>
+      <PostalCode>95125</PostalCode>
+      <Quantity>1</Quantity>
+      <ItemSpecifics>     
+      <Name>Genre</Name><Value>Drama</Value><Name>Genre</Name><Value>Mystery</Value><Name>Genre</Name><Value>Victorian</Value><Name>Genre</Name><Value>Suspense</Value><Name>Publisher</Name><Value>Bantam Books</Value><Name>Publication Year</Name><Value>1956</Value><Name>Description</Name><Value>Used but in good condition.</Value><Name>Condition Description</Name><Value>Used</Value><Name>Book Format</Name><Value>Paperback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Adventure</Value><Name>Book Type</Name><Value>Novel</Value><Name>Narrative Type</Name><Value>Fiction</Value><Name>Intended Audience</Name><Value>Young Adults</Value><Name>Intended Audience</Name><Value>Adults</Value><Name>Vintage</Name><Value>Yes</Value>
+      </ItemSpecifics>
+      <ReturnPolicy>
+        <ReturnsAcceptedOption>ReturnsAccepted</ReturnsAcceptedOption>
+        <RefundOption>MoneyBack</RefundOption>
+        <ReturnsWithinOption>Days_30</ReturnsWithinOption>
+        <ShippingCostPaidByOption>Buyer</ShippingCostPaidByOption>
+      </ReturnPolicy>
+      <ShippingDetails>
+        <ShippingType>Flat</ShippingType>
+        <ShippingServiceOptions>
+          <ShippingServicePriority>1</ShippingServicePriority>
+          <ShippingService>USPSMedia</ShippingService>
+          <ShippingServiceCost>2.50</ShippingServiceCost>
+        </ShippingServiceOptions>
+      </ShippingDetails>
+      <Site>US</Site>
+    </Item>
+  </VerifyAddItemRequest>
+
+Time:
+ 2023-05-26 21:21:17.641846
+
+Call List:
+ ['<Name>Genre</Name><Value>Drama</Value><Name>Genre</Name><Value>Mystery</Value><Name>Genre</Name><Value>Victorian</Value><Name>Genre</Name><Value>Suspense</Value><Name>Publisher</Name><Value>Bantam Books</Value><Name>Publication Year</Name><Value>1956</Value><Name>Description</Name><Value>Used but in good condition.</Value><Name>Condition Description</Name><Value>Used</Value><Name>Book Format</Name><Value>Paperback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Adventure</Value><Name>Book Type</Name><Value>Novel</Value><Name>Narrative Type</Name><Value>Fiction</Value><Name>Intended Audience</Name><Value>Young Adults</Value><Name>Intended Audience</Name><Value>Adults</Value><Name>Vintage</Name><Value>Yes</Value>', "<Name>Illustrator</Name><Value>Clement Hurd</Value><Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Animals</Value><Name>Publisher</Name><Value>Harper & Row</Value><Name>Publication Year</Name><Value>1947</Value><Name>Description</Name><Value>Good condition</Value><Name>Description</Name><Value>minimal wear.</Value><Name>Condition Description</Name><Value>No visible wear.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Playtime</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>"]
+
+Time:
+ 2023-05-26 21:21:17.654227
+
+Picture Call List:
+ ['<PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo4.jpg</PictureURL>', '<PictureURL>https://alexismonroy.github.io/images/Goodnight Moon0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon6.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon7.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon8.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon9.jpg</PictureURL>']
+
+Time:
+ 2023-05-26 21:21:17.659210
+
+Verify Data:
+ <?xml version="1.0" encoding="utf-8"?>
+  <VerifyAddItemRequest xmlns="urn:ebay:apis:eBLBaseComponents">
+    <RequesterCredentials>
+      <eBayAuthToken>1</eBayAuthToken>
+    </RequesterCredentials>
+    <ErrorLanguage>en_US</ErrorLanguage>
+    <WarningLevel>High</WarningLevel>
+    <Item>
+      <Title>Goodnight Moon</Title>
+      <Description>
+        Good condition, minimal wear.
+      </Description>
+      <PrimaryCategory>
+        <CategoryID>261186</CategoryID>
+      </PrimaryCategory>
+      <StartPrice>20.0</StartPrice>
+      <CategoryMappingAllowed>true</CategoryMappingAllowed>
+      <ConditionID>5000</ConditionID>
+      <Country>US</Country>
+      <Currency>USD</Currency>
+      <DispatchTimeMax>3</DispatchTimeMax>
+      <ListingDuration>GTC</ListingDuration>
+      <ListingType>FixedPriceItem</ListingType>
+      <PictureDetails>
+        <PictureURL>https://alexismonroy.github.io/images/Goodnight Moon0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon6.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon7.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon8.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon9.jpg</PictureURL>
+      </PictureDetails>
+      <PostalCode>95125</PostalCode>
+      <Quantity>1</Quantity>
+      <ItemSpecifics>     
+      <Name>Illustrator</Name><Value>Clement Hurd</Value><Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Animals</Value><Name>Publisher</Name><Value>Harper & Row</Value><Name>Publication Year</Name><Value>1947</Value><Name>Description</Name><Value>Good condition</Value><Name>Description</Name><Value>minimal wear.</Value><Name>Condition Description</Name><Value>No visible wear.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Playtime</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>
+      </ItemSpecifics>
+      <ReturnPolicy>
+        <ReturnsAcceptedOption>ReturnsAccepted</ReturnsAcceptedOption>
+        <RefundOption>MoneyBack</RefundOption>
+        <ReturnsWithinOption>Days_30</ReturnsWithinOption>
+        <ShippingCostPaidByOption>Buyer</ShippingCostPaidByOption>
+      </ReturnPolicy>
+      <ShippingDetails>
+        <ShippingType>Flat</ShippingType>
+        <ShippingServiceOptions>
+          <ShippingServicePriority>1</ShippingServicePriority>
+          <ShippingService>USPSMedia</ShippingService>
+          <ShippingServiceCost>2.50</ShippingServiceCost>
+        </ShippingServiceOptions>
+      </ShippingDetails>
+      <Site>US</Site>
+    </Item>
+  </VerifyAddItemRequest>
+
+Time:
+ 2023-05-26 21:21:17.663227
+
+Call List:
+ ['<Name>Genre</Name><Value>Drama</Value><Name>Genre</Name><Value>Mystery</Value><Name>Genre</Name><Value>Victorian</Value><Name>Genre</Name><Value>Suspense</Value><Name>Publisher</Name><Value>Bantam Books</Value><Name>Publication Year</Name><Value>1956</Value><Name>Description</Name><Value>Used but in good condition.</Value><Name>Condition Description</Name><Value>Used</Value><Name>Book Format</Name><Value>Paperback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Adventure</Value><Name>Book Type</Name><Value>Novel</Value><Name>Narrative Type</Name><Value>Fiction</Value><Name>Intended Audience</Name><Value>Young Adults</Value><Name>Intended Audience</Name><Value>Adults</Value><Name>Vintage</Name><Value>Yes</Value>', "<Name>Illustrator</Name><Value>Clement Hurd</Value><Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Animals</Value><Name>Publisher</Name><Value>Harper & Row</Value><Name>Publication Year</Name><Value>1947</Value><Name>Description</Name><Value>Good condition</Value><Name>Description</Name><Value>minimal wear.</Value><Name>Condition Description</Name><Value>No visible wear.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Playtime</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>", "<Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Educational</Value><Name>Genre</Name><Value>Humor</Value><Name>Publisher</Name><Value>Random House</Value><Name>Publication Year</Name><Value>1990</Value><Name>Description</Name><Value>Minimal wear.</Value><Name>Condition Description</Name><Value>Folds on pages.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Poetry</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>"]
+
+Time:
+ 2023-05-26 21:21:17.700963
+
+Picture Call List:
+ ['<PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo4.jpg</PictureURL>', '<PictureURL>https://alexismonroy.github.io/images/Goodnight Moon0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon6.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon7.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon8.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon9.jpg</PictureURL>', "<PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go6.jpg</PictureURL>"]
+
+Time:
+ 2023-05-26 21:21:17.706279
+
+Verify Data:
+ <?xml version="1.0" encoding="utf-8"?>
+  <VerifyAddItemRequest xmlns="urn:ebay:apis:eBLBaseComponents">
+    <RequesterCredentials>
+      <eBayAuthToken>1</eBayAuthToken>
+    </RequesterCredentials>
+    <ErrorLanguage>en_US</ErrorLanguage>
+    <WarningLevel>High</WarningLevel>
+    <Item>
+      <Title>Oh, The Places You'll Go</Title>
+      <Description>
+        Minimal wear.
+      </Description>
+      <PrimaryCategory>
+        <CategoryID>261186</CategoryID>
+      </PrimaryCategory>
+      <StartPrice>15.0</StartPrice>
+      <CategoryMappingAllowed>true</CategoryMappingAllowed>
+      <ConditionID>5000</ConditionID>
+      <Country>US</Country>
+      <Currency>USD</Currency>
+      <DispatchTimeMax>3</DispatchTimeMax>
+      <ListingDuration>GTC</ListingDuration>
+      <ListingType>FixedPriceItem</ListingType>
+      <PictureDetails>
+        <PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go6.jpg</PictureURL>
+      </PictureDetails>
+      <PostalCode>95125</PostalCode>
+      <Quantity>1</Quantity>
+      <ItemSpecifics>     
+      <Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Educational</Value><Name>Genre</Name><Value>Humor</Value><Name>Publisher</Name><Value>Random House</Value><Name>Publication Year</Name><Value>1990</Value><Name>Description</Name><Value>Minimal wear.</Value><Name>Condition Description</Name><Value>Folds on pages.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Poetry</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>
+      </ItemSpecifics>
+      <ReturnPolicy>
+        <ReturnsAcceptedOption>ReturnsAccepted</ReturnsAcceptedOption>
+        <RefundOption>MoneyBack</RefundOption>
+        <ReturnsWithinOption>Days_30</ReturnsWithinOption>
+        <ShippingCostPaidByOption>Buyer</ShippingCostPaidByOption>
+      </ReturnPolicy>
+      <ShippingDetails>
+        <ShippingType>Flat</ShippingType>
+        <ShippingServiceOptions>
+          <ShippingServicePriority>1</ShippingServicePriority>
+          <ShippingService>USPSMedia</ShippingService>
+          <ShippingServiceCost>2.50</ShippingServiceCost>
+        </ShippingServiceOptions>
+      </ShippingDetails>
+      <Site>US</Site>
+    </Item>
+  </VerifyAddItemRequest>
+
+Time:
+ 2023-05-26 21:21:17.710328
+
+Call List:
+ ['<Name>Genre</Name><Value>Drama</Value><Name>Genre</Name><Value>Mystery</Value><Name>Genre</Name><Value>Victorian</Value><Name>Genre</Name><Value>Suspense</Value><Name>Publisher</Name><Value>Bantam Books</Value><Name>Publication Year</Name><Value>1956</Value><Name>Description</Name><Value>Used but in good condition.</Value><Name>Condition Description</Name><Value>Used</Value><Name>Book Format</Name><Value>Paperback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Adventure</Value><Name>Book Type</Name><Value>Novel</Value><Name>Narrative Type</Name><Value>Fiction</Value><Name>Intended Audience</Name><Value>Young Adults</Value><Name>Intended Audience</Name><Value>Adults</Value><Name>Vintage</Name><Value>Yes</Value>', "<Name>Illustrator</Name><Value>Clement Hurd</Value><Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Animals</Value><Name>Publisher</Name><Value>Harper & Row</Value><Name>Publication Year</Name><Value>1947</Value><Name>Description</Name><Value>Good condition</Value><Name>Description</Name><Value>minimal wear.</Value><Name>Condition Description</Name><Value>No visible wear.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Playtime</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>", "<Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Educational</Value><Name>Genre</Name><Value>Humor</Value><Name>Publisher</Name><Value>Random House</Value><Name>Publication Year</Name><Value>1990</Value><Name>Description</Name><Value>Minimal wear.</Value><Name>Condition Description</Name><Value>Folds on pages.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Poetry</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>", "<Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Educational</Value><Name>Genre</Name><Value>Humor</Value><Name>Publisher</Name><Value>Random House</Value><Name>Publication Year</Name><Value>1982</Value><Name>Description</Name><Value>See pictures</Value><Name>Condition Description</Name><Value>Torn pages.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Children</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>"]
+
+Time:
+ 2023-05-26 21:21:17.714318
+
+Picture Call List:
+ ['<PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo4.jpg</PictureURL>', '<PictureURL>https://alexismonroy.github.io/images/Goodnight Moon0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon6.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon7.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon8.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon9.jpg</PictureURL>', "<PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go6.jpg</PictureURL>", '<PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!2.jpg</PictureURL>']
+
+Time:
+ 2023-05-26 21:21:17.730261
+
+Verify Data:
+ <?xml version="1.0" encoding="utf-8"?>
+  <VerifyAddItemRequest xmlns="urn:ebay:apis:eBLBaseComponents">
+    <RequesterCredentials>
+      <eBayAuthToken>1</eBayAuthToken>
+    </RequesterCredentials>
+    <ErrorLanguage>en_US</ErrorLanguage>
+    <WarningLevel>High</WarningLevel>
+    <Item>
+      <Title>Horton Hears A Who!</Title>
+      <Description>
+        See pictures
+      </Description>
+      <PrimaryCategory>
+        <CategoryID>261186</CategoryID>
+      </PrimaryCategory>
+      <StartPrice>14.0</StartPrice>
+      <CategoryMappingAllowed>true</CategoryMappingAllowed>
+      <ConditionID>5000</ConditionID>
+      <Country>US</Country>
+      <Currency>USD</Currency>
+      <DispatchTimeMax>3</DispatchTimeMax>
+      <ListingDuration>GTC</ListingDuration>
+      <ListingType>FixedPriceItem</ListingType>
+      <PictureDetails>
+        <PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!2.jpg</PictureURL>
+      </PictureDetails>
+      <PostalCode>95125</PostalCode>
+      <Quantity>1</Quantity>
+      <ItemSpecifics>     
+      <Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Educational</Value><Name>Genre</Name><Value>Humor</Value><Name>Publisher</Name><Value>Random House</Value><Name>Publication Year</Name><Value>1982</Value><Name>Description</Name><Value>See pictures</Value><Name>Condition Description</Name><Value>Torn pages.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Children</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>
+      </ItemSpecifics>
+      <ReturnPolicy>
+        <ReturnsAcceptedOption>ReturnsAccepted</ReturnsAcceptedOption>
+        <RefundOption>MoneyBack</RefundOption>
+        <ReturnsWithinOption>Days_30</ReturnsWithinOption>
+        <ShippingCostPaidByOption>Buyer</ShippingCostPaidByOption>
+      </ReturnPolicy>
+      <ShippingDetails>
+        <ShippingType>Flat</ShippingType>
+        <ShippingServiceOptions>
+          <ShippingServicePriority>1</ShippingServicePriority>
+          <ShippingService>USPSMedia</ShippingService>
+          <ShippingServiceCost>2.50</ShippingServiceCost>
+        </ShippingServiceOptions>
+      </ShippingDetails>
+      <Site>US</Site>
+    </Item>
+  </VerifyAddItemRequest>
+
+End Time:
+ 2023-05-26 21:21:17.730261
+
+Time:
+ 2023-05-26 21:21:17.742221
+
+RESULTS:
+ (['<Name>Genre</Name><Value>Drama</Value><Name>Genre</Name><Value>Mystery</Value><Name>Genre</Name><Value>Victorian</Value><Name>Genre</Name><Value>Suspense</Value><Name>Publisher</Name><Value>Bantam Books</Value><Name>Publication Year</Name><Value>1956</Value><Name>Description</Name><Value>Used but in good condition.</Value><Name>Condition Description</Name><Value>Used</Value><Name>Book Format</Name><Value>Paperback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Adventure</Value><Name>Book Type</Name><Value>Novel</Value><Name>Narrative Type</Name><Value>Fiction</Value><Name>Intended Audience</Name><Value>Young Adults</Value><Name>Intended Audience</Name><Value>Adults</Value><Name>Vintage</Name><Value>Yes</Value>', "<Name>Illustrator</Name><Value>Clement Hurd</Value><Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Animals</Value><Name>Publisher</Name><Value>Harper & Row</Value><Name>Publication Year</Name><Value>1947</Value><Name>Description</Name><Value>Good condition</Value><Name>Description</Name><Value>minimal wear.</Value><Name>Condition Description</Name><Value>No visible wear.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Playtime</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>", "<Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Educational</Value><Name>Genre</Name><Value>Humor</Value><Name>Publisher</Name><Value>Random House</Value><Name>Publication Year</Name><Value>1990</Value><Name>Description</Name><Value>Minimal wear.</Value><Name>Condition Description</Name><Value>Folds on pages.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Poetry</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>", "<Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Educational</Value><Name>Genre</Name><Value>Humor</Value><Name>Publisher</Name><Value>Random House</Value><Name>Publication Year</Name><Value>1982</Value><Name>Description</Name><Value>See pictures</Value><Name>Condition Description</Name><Value>Torn pages.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Children</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>"], ['<PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo4.jpg</PictureURL>', '<PictureURL>https://alexismonroy.github.io/images/Goodnight Moon0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon6.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon7.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon8.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon9.jpg</PictureURL>', "<PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go6.jpg</PictureURL>", '<PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!2.jpg</PictureURL>'], ['<?xml version="1.0" encoding="utf-8"?>\n  <VerifyAddItemRequest xmlns="urn:ebay:apis:eBLBaseComponents">\n    <RequesterCredentials>\n      <eBayAuthToken>1</eBayAuthToken>\n    </RequesterCredentials>\n    <ErrorLanguage>en_US</ErrorLanguage>\n    <WarningLevel>High</WarningLevel>\n    <Item>\n      <Title>The Count of Monte Cristo</Title>\n      <Description>\n        Used but in good condition.\n      </Description>\n      <PrimaryCategory>\n        <CategoryID>261186</CategoryID>\n      </PrimaryCategory>\n      <StartPrice>3.0</StartPrice>\n      <CategoryMappingAllowed>true</CategoryMappingAllowed>\n      <ConditionID>5000</ConditionID>\n      <Country>US</Country>\n      <Currency>USD</Currency>\n      <DispatchTimeMax>3</DispatchTimeMax>\n      <ListingDuration>GTC</ListingDuration>\n      <ListingType>FixedPriceItem</ListingType>\n      <PictureDetails>\n        <PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo4.jpg</PictureURL>\n      </PictureDetails>\n      <PostalCode>95125</PostalCode>\n      <Quantity>1</Quantity>\n      <ItemSpecifics>     \n      <Name>Genre</Name><Value>Drama</Value><Name>Genre</Name><Value>Mystery</Value><Name>Genre</Name><Value>Victorian</Value><Name>Genre</Name><Value>Suspense</Value><Name>Publisher</Name><Value>Bantam Books</Value><Name>Publication Year</Name><Value>1956</Value><Name>Description</Name><Value>Used but in good condition.</Value><Name>Condition Description</Name><Value>Used</Value><Name>Book Format</Name><Value>Paperback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Adventure</Value><Name>Book Type</Name><Value>Novel</Value><Name>Narrative Type</Name><Value>Fiction</Value><Name>Intended Audience</Name><Value>Young Adults</Value><Name>Intended Audience</Name><Value>Adults</Value><Name>Vintage</Name><Value>Yes</Value>\n      </ItemSpecifics>\n      <ReturnPolicy>\n        <ReturnsAcceptedOption>ReturnsAccepted</ReturnsAcceptedOption>\n        <RefundOption>MoneyBack</RefundOption>\n        <ReturnsWithinOption>Days_30</ReturnsWithinOption>\n        <ShippingCostPaidByOption>Buyer</ShippingCostPaidByOption>\n      </ReturnPolicy>\n      <ShippingDetails>\n        <ShippingType>Flat</ShippingType>\n        <ShippingServiceOptions>\n          <ShippingServicePriority>1</ShippingServicePriority>\n          <ShippingService>USPSMedia</ShippingService>\n          <ShippingServiceCost>2.50</ShippingServiceCost>\n        </ShippingServiceOptions>\n      </ShippingDetails>\n      <Site>US</Site>\n    </Item>\n  </VerifyAddItemRequest>', '<?xml version="1.0" encoding="utf-8"?>\n  <VerifyAddItemRequest xmlns="urn:ebay:apis:eBLBaseComponents">\n    <RequesterCredentials>\n      <eBayAuthToken>1</eBayAuthToken>\n    </RequesterCredentials>\n    <ErrorLanguage>en_US</ErrorLanguage>\n    <WarningLevel>High</WarningLevel>\n    <Item>\n      <Title>Goodnight Moon</Title>\n      <Description>\n        Good condition, minimal wear.\n      </Description>\n      <PrimaryCategory>\n        <CategoryID>261186</CategoryID>\n      </PrimaryCategory>\n      <StartPrice>20.0</StartPrice>\n      <CategoryMappingAllowed>true</CategoryMappingAllowed>\n      <ConditionID>5000</ConditionID>\n      <Country>US</Country>\n      <Currency>USD</Currency>\n      <DispatchTimeMax>3</DispatchTimeMax>\n      <ListingDuration>GTC</ListingDuration>\n      <ListingType>FixedPriceItem</ListingType>\n      <PictureDetails>\n        <PictureURL>https://alexismonroy.github.io/images/Goodnight Moon0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon6.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon7.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon8.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon9.jpg</PictureURL>\n      </PictureDetails>\n      <PostalCode>95125</PostalCode>\n      <Quantity>1</Quantity>\n      <ItemSpecifics>     \n      <Name>Illustrator</Name><Value>Clement Hurd</Value><Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Animals</Value><Name>Publisher</Name><Value>Harper & Row</Value><Name>Publication Year</Name><Value>1947</Value><Name>Description</Name><Value>Good condition</Value><Name>Description</Name><Value>minimal wear.</Value><Name>Condition Description</Name><Value>No visible wear.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Playtime</Value><Name>Book Type</Name><Value>Kid\'s book</Value><Name>Narrative Type</Name><Value>Fiction</Value>\n      </ItemSpecifics>\n      <ReturnPolicy>\n        <ReturnsAcceptedOption>ReturnsAccepted</ReturnsAcceptedOption>\n        <RefundOption>MoneyBack</RefundOption>\n        <ReturnsWithinOption>Days_30</ReturnsWithinOption>\n        <ShippingCostPaidByOption>Buyer</ShippingCostPaidByOption>\n      </ReturnPolicy>\n      <ShippingDetails>\n        <ShippingType>Flat</ShippingType>\n        <ShippingServiceOptions>\n          <ShippingServicePriority>1</ShippingServicePriority>\n          <ShippingService>USPSMedia</ShippingService>\n          <ShippingServiceCost>2.50</ShippingServiceCost>\n        </ShippingServiceOptions>\n      </ShippingDetails>\n      <Site>US</Site>\n    </Item>\n  </VerifyAddItemRequest>', '<?xml version="1.0" encoding="utf-8"?>\n  <VerifyAddItemRequest xmlns="urn:ebay:apis:eBLBaseComponents">\n    <RequesterCredentials>\n      <eBayAuthToken>1</eBayAuthToken>\n    </RequesterCredentials>\n    <ErrorLanguage>en_US</ErrorLanguage>\n    <WarningLevel>High</WarningLevel>\n    <Item>\n      <Title>Oh, The Places You\'ll Go</Title>\n      <Description>\n        Minimal wear.\n      </Description>\n      <PrimaryCategory>\n        <CategoryID>261186</CategoryID>\n      </PrimaryCategory>\n      <StartPrice>15.0</StartPrice>\n      <CategoryMappingAllowed>true</CategoryMappingAllowed>\n      <ConditionID>5000</ConditionID>\n      <Country>US</Country>\n      <Currency>USD</Currency>\n      <DispatchTimeMax>3</DispatchTimeMax>\n      <ListingDuration>GTC</ListingDuration>\n      <ListingType>FixedPriceItem</ListingType>\n      <PictureDetails>\n        <PictureURL>https://alexismonroy.github.io/images/Oh, The Places You\'ll Go0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You\'ll Go1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You\'ll Go2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You\'ll Go3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You\'ll Go4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You\'ll Go5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You\'ll Go6.jpg</PictureURL>\n      </PictureDetails>\n      <PostalCode>95125</PostalCode>\n      <Quantity>1</Quantity>\n      <ItemSpecifics>     \n      <Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Educational</Value><Name>Genre</Name><Value>Humor</Value><Name>Publisher</Name><Value>Random House</Value><Name>Publication Year</Name><Value>1990</Value><Name>Description</Name><Value>Minimal wear.</Value><Name>Condition Description</Name><Value>Folds on pages.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Poetry</Value><Name>Book Type</Name><Value>Kid\'s book</Value><Name>Narrative Type</Name><Value>Fiction</Value>\n      </ItemSpecifics>\n      <ReturnPolicy>\n        <ReturnsAcceptedOption>ReturnsAccepted</ReturnsAcceptedOption>\n        <RefundOption>MoneyBack</RefundOption>\n        <ReturnsWithinOption>Days_30</ReturnsWithinOption>\n        <ShippingCostPaidByOption>Buyer</ShippingCostPaidByOption>\n      </ReturnPolicy>\n      <ShippingDetails>\n        <ShippingType>Flat</ShippingType>\n        <ShippingServiceOptions>\n          <ShippingServicePriority>1</ShippingServicePriority>\n          <ShippingService>USPSMedia</ShippingService>\n          <ShippingServiceCost>2.50</ShippingServiceCost>\n        </ShippingServiceOptions>\n      </ShippingDetails>\n      <Site>US</Site>\n    </Item>\n  </VerifyAddItemRequest>', '<?xml version="1.0" encoding="utf-8"?>\n  <VerifyAddItemRequest xmlns="urn:ebay:apis:eBLBaseComponents">\n    <RequesterCredentials>\n      <eBayAuthToken>1</eBayAuthToken>\n    </RequesterCredentials>\n    <ErrorLanguage>en_US</ErrorLanguage>\n    <WarningLevel>High</WarningLevel>\n    <Item>\n      <Title>Horton Hears A Who!</Title>\n      <Description>\n        See pictures\n      </Description>\n      <PrimaryCategory>\n        <CategoryID>261186</CategoryID>\n      </PrimaryCategory>\n      <StartPrice>14.0</StartPrice>\n      <CategoryMappingAllowed>true</CategoryMappingAllowed>\n      <ConditionID>5000</ConditionID>\n      <Country>US</Country>\n      <Currency>USD</Currency>\n      <DispatchTimeMax>3</DispatchTimeMax>\n      <ListingDuration>GTC</ListingDuration>\n      <ListingType>FixedPriceItem</ListingType>\n      <PictureDetails>\n        <PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!2.jpg</PictureURL>\n      </PictureDetails>\n      <PostalCode>95125</PostalCode>\n      <Quantity>1</Quantity>\n      <ItemSpecifics>     \n      <Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Educational</Value><Name>Genre</Name><Value>Humor</Value><Name>Publisher</Name><Value>Random House</Value><Name>Publication Year</Name><Value>1982</Value><Name>Description</Name><Value>See pictures</Value><Name>Condition Description</Name><Value>Torn pages.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Children</Value><Name>Book Type</Name><Value>Kid\'s book</Value><Name>Narrative Type</Name><Value>Fiction</Value>\n      </ItemSpecifics>\n      <ReturnPolicy>\n        <ReturnsAcceptedOption>ReturnsAccepted</ReturnsAcceptedOption>\n        <RefundOption>MoneyBack</RefundOption>\n        <ReturnsWithinOption>Days_30</ReturnsWithinOption>\n        <ShippingCostPaidByOption>Buyer</ShippingCostPaidByOption>\n      </ReturnPolicy>\n      <ShippingDetails>\n        <ShippingType>Flat</ShippingType>\n        <ShippingServiceOptions>\n          <ShippingServicePriority>1</ShippingServicePriority>\n          <ShippingService>USPSMedia</ShippingService>\n          <ShippingServiceCost>2.50</ShippingServiceCost>\n        </ShippingServiceOptions>\n      </ShippingDetails>\n      <Site>US</Site>\n    </Item>\n  </VerifyAddItemRequest>'])
+
+End Time:
+ 2023-05-26 21:21:17.742221
+
+Time:
+ 2023-05-26 21:22:22.437570
+
+Call List:
+ ['<Name>Genre</Name><Value>Drama</Value><Name>Genre</Name><Value>Mystery</Value><Name>Genre</Name><Value>Victorian</Value><Name>Genre</Name><Value>Suspense</Value><Name>Publisher</Name><Value>Bantam Books</Value><Name>Publication Year</Name><Value>1956</Value><Name>Description</Name><Value>Used but in good condition.</Value><Name>Condition Description</Name><Value>Used</Value><Name>Book Format</Name><Value>Paperback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Adventure</Value><Name>Book Type</Name><Value>Novel</Value><Name>Narrative Type</Name><Value>Fiction</Value><Name>Intended Audience</Name><Value>Young Adults</Value><Name>Intended Audience</Name><Value>Adults</Value><Name>Vintage</Name><Value>Yes</Value>']
+
+Time:
+ 2023-05-26 21:22:22.442020
+
+Picture Call List:
+ ['<PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo4.jpg</PictureURL>']
+
+Time:
+ 2023-05-26 21:22:22.447569
+
+Verify Data:
+ <?xml version="1.0" encoding="utf-8"?>
+  <VerifyAddItemRequest xmlns="urn:ebay:apis:eBLBaseComponents">
+    <RequesterCredentials>
+      <eBayAuthToken>1</eBayAuthToken>
+    </RequesterCredentials>
+    <ErrorLanguage>en_US</ErrorLanguage>
+    <WarningLevel>High</WarningLevel>
+    <Item>
+      <Title>The Count of Monte Cristo</Title>
+      <Description>
+        Used but in good condition.
+      </Description>
+      <PrimaryCategory>
+        <CategoryID>261186</CategoryID>
+      </PrimaryCategory>
+      <StartPrice>3.0</StartPrice>
+      <CategoryMappingAllowed>true</CategoryMappingAllowed>
+      <ConditionID>5000</ConditionID>
+      <Country>US</Country>
+      <Currency>USD</Currency>
+      <DispatchTimeMax>3</DispatchTimeMax>
+      <ListingDuration>GTC</ListingDuration>
+      <ListingType>FixedPriceItem</ListingType>
+      <PictureDetails>
+        <PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo4.jpg</PictureURL>
+      </PictureDetails>
+      <PostalCode>95125</PostalCode>
+      <Quantity>1</Quantity>
+      <ItemSpecifics>     
+      <Name>Genre</Name><Value>Drama</Value><Name>Genre</Name><Value>Mystery</Value><Name>Genre</Name><Value>Victorian</Value><Name>Genre</Name><Value>Suspense</Value><Name>Publisher</Name><Value>Bantam Books</Value><Name>Publication Year</Name><Value>1956</Value><Name>Description</Name><Value>Used but in good condition.</Value><Name>Condition Description</Name><Value>Used</Value><Name>Book Format</Name><Value>Paperback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Adventure</Value><Name>Book Type</Name><Value>Novel</Value><Name>Narrative Type</Name><Value>Fiction</Value><Name>Intended Audience</Name><Value>Young Adults</Value><Name>Intended Audience</Name><Value>Adults</Value><Name>Vintage</Name><Value>Yes</Value>
+      </ItemSpecifics>
+      <ReturnPolicy>
+        <ReturnsAcceptedOption>ReturnsAccepted</ReturnsAcceptedOption>
+        <RefundOption>MoneyBack</RefundOption>
+        <ReturnsWithinOption>Days_30</ReturnsWithinOption>
+        <ShippingCostPaidByOption>Buyer</ShippingCostPaidByOption>
+      </ReturnPolicy>
+      <ShippingDetails>
+        <ShippingType>Flat</ShippingType>
+        <ShippingServiceOptions>
+          <ShippingServicePriority>1</ShippingServicePriority>
+          <ShippingService>USPSMedia</ShippingService>
+          <ShippingServiceCost>2.50</ShippingServiceCost>
+        </ShippingServiceOptions>
+      </ShippingDetails>
+      <Site>US</Site>
+    </Item>
+  </VerifyAddItemRequest>
+
+Time:
+ 2023-05-26 21:22:22.451555
+
+Call List:
+ ['<Name>Genre</Name><Value>Drama</Value><Name>Genre</Name><Value>Mystery</Value><Name>Genre</Name><Value>Victorian</Value><Name>Genre</Name><Value>Suspense</Value><Name>Publisher</Name><Value>Bantam Books</Value><Name>Publication Year</Name><Value>1956</Value><Name>Description</Name><Value>Used but in good condition.</Value><Name>Condition Description</Name><Value>Used</Value><Name>Book Format</Name><Value>Paperback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Adventure</Value><Name>Book Type</Name><Value>Novel</Value><Name>Narrative Type</Name><Value>Fiction</Value><Name>Intended Audience</Name><Value>Young Adults</Value><Name>Intended Audience</Name><Value>Adults</Value><Name>Vintage</Name><Value>Yes</Value>', "<Name>Illustrator</Name><Value>Clement Hurd</Value><Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Animals</Value><Name>Publisher</Name><Value>Harper & Row</Value><Name>Publication Year</Name><Value>1947</Value><Name>Description</Name><Value>Good condition</Value><Name>Description</Name><Value>minimal wear.</Value><Name>Condition Description</Name><Value>No visible wear.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Playtime</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>"]
+
+Time:
+ 2023-05-26 21:22:22.462518
+
+Picture Call List:
+ ['<PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo4.jpg</PictureURL>', '<PictureURL>https://alexismonroy.github.io/images/Goodnight Moon0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon6.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon7.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon8.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon9.jpg</PictureURL>']
+
+Time:
+ 2023-05-26 21:22:22.469849
+
+Verify Data:
+ <?xml version="1.0" encoding="utf-8"?>
+  <VerifyAddItemRequest xmlns="urn:ebay:apis:eBLBaseComponents">
+    <RequesterCredentials>
+      <eBayAuthToken>1</eBayAuthToken>
+    </RequesterCredentials>
+    <ErrorLanguage>en_US</ErrorLanguage>
+    <WarningLevel>High</WarningLevel>
+    <Item>
+      <Title>Goodnight Moon</Title>
+      <Description>
+        Good condition, minimal wear.
+      </Description>
+      <PrimaryCategory>
+        <CategoryID>261186</CategoryID>
+      </PrimaryCategory>
+      <StartPrice>20.0</StartPrice>
+      <CategoryMappingAllowed>true</CategoryMappingAllowed>
+      <ConditionID>5000</ConditionID>
+      <Country>US</Country>
+      <Currency>USD</Currency>
+      <DispatchTimeMax>3</DispatchTimeMax>
+      <ListingDuration>GTC</ListingDuration>
+      <ListingType>FixedPriceItem</ListingType>
+      <PictureDetails>
+        <PictureURL>https://alexismonroy.github.io/images/Goodnight Moon0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon6.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon7.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon8.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon9.jpg</PictureURL>
+      </PictureDetails>
+      <PostalCode>95125</PostalCode>
+      <Quantity>1</Quantity>
+      <ItemSpecifics>     
+      <Name>Illustrator</Name><Value>Clement Hurd</Value><Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Animals</Value><Name>Publisher</Name><Value>Harper & Row</Value><Name>Publication Year</Name><Value>1947</Value><Name>Description</Name><Value>Good condition</Value><Name>Description</Name><Value>minimal wear.</Value><Name>Condition Description</Name><Value>No visible wear.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Playtime</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>
+      </ItemSpecifics>
+      <ReturnPolicy>
+        <ReturnsAcceptedOption>ReturnsAccepted</ReturnsAcceptedOption>
+        <RefundOption>MoneyBack</RefundOption>
+        <ReturnsWithinOption>Days_30</ReturnsWithinOption>
+        <ShippingCostPaidByOption>Buyer</ShippingCostPaidByOption>
+      </ReturnPolicy>
+      <ShippingDetails>
+        <ShippingType>Flat</ShippingType>
+        <ShippingServiceOptions>
+          <ShippingServicePriority>1</ShippingServicePriority>
+          <ShippingService>USPSMedia</ShippingService>
+          <ShippingServiceCost>2.50</ShippingServiceCost>
+        </ShippingServiceOptions>
+      </ShippingDetails>
+      <Site>US</Site>
+    </Item>
+  </VerifyAddItemRequest>
+
+Time:
+ 2023-05-26 21:22:22.473836
+
+Call List:
+ ['<Name>Genre</Name><Value>Drama</Value><Name>Genre</Name><Value>Mystery</Value><Name>Genre</Name><Value>Victorian</Value><Name>Genre</Name><Value>Suspense</Value><Name>Publisher</Name><Value>Bantam Books</Value><Name>Publication Year</Name><Value>1956</Value><Name>Description</Name><Value>Used but in good condition.</Value><Name>Condition Description</Name><Value>Used</Value><Name>Book Format</Name><Value>Paperback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Adventure</Value><Name>Book Type</Name><Value>Novel</Value><Name>Narrative Type</Name><Value>Fiction</Value><Name>Intended Audience</Name><Value>Young Adults</Value><Name>Intended Audience</Name><Value>Adults</Value><Name>Vintage</Name><Value>Yes</Value>', "<Name>Illustrator</Name><Value>Clement Hurd</Value><Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Animals</Value><Name>Publisher</Name><Value>Harper & Row</Value><Name>Publication Year</Name><Value>1947</Value><Name>Description</Name><Value>Good condition</Value><Name>Description</Name><Value>minimal wear.</Value><Name>Condition Description</Name><Value>No visible wear.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Playtime</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>", "<Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Educational</Value><Name>Genre</Name><Value>Humor</Value><Name>Publisher</Name><Value>Random House</Value><Name>Publication Year</Name><Value>1990</Value><Name>Description</Name><Value>Minimal wear.</Value><Name>Condition Description</Name><Value>Folds on pages.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Poetry</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>"]
+
+Time:
+ 2023-05-26 21:22:22.484303
+
+Picture Call List:
+ ['<PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo4.jpg</PictureURL>', '<PictureURL>https://alexismonroy.github.io/images/Goodnight Moon0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon6.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon7.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon8.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon9.jpg</PictureURL>', "<PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go6.jpg</PictureURL>"]
+
+Time:
+ 2023-05-26 21:22:22.489644
+
+Verify Data:
+ <?xml version="1.0" encoding="utf-8"?>
+  <VerifyAddItemRequest xmlns="urn:ebay:apis:eBLBaseComponents">
+    <RequesterCredentials>
+      <eBayAuthToken>1</eBayAuthToken>
+    </RequesterCredentials>
+    <ErrorLanguage>en_US</ErrorLanguage>
+    <WarningLevel>High</WarningLevel>
+    <Item>
+      <Title>Oh, The Places You'll Go</Title>
+      <Description>
+        Minimal wear.
+      </Description>
+      <PrimaryCategory>
+        <CategoryID>261186</CategoryID>
+      </PrimaryCategory>
+      <StartPrice>15.0</StartPrice>
+      <CategoryMappingAllowed>true</CategoryMappingAllowed>
+      <ConditionID>5000</ConditionID>
+      <Country>US</Country>
+      <Currency>USD</Currency>
+      <DispatchTimeMax>3</DispatchTimeMax>
+      <ListingDuration>GTC</ListingDuration>
+      <ListingType>FixedPriceItem</ListingType>
+      <PictureDetails>
+        <PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go6.jpg</PictureURL>
+      </PictureDetails>
+      <PostalCode>95125</PostalCode>
+      <Quantity>1</Quantity>
+      <ItemSpecifics>     
+      <Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Educational</Value><Name>Genre</Name><Value>Humor</Value><Name>Publisher</Name><Value>Random House</Value><Name>Publication Year</Name><Value>1990</Value><Name>Description</Name><Value>Minimal wear.</Value><Name>Condition Description</Name><Value>Folds on pages.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Poetry</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>
+      </ItemSpecifics>
+      <ReturnPolicy>
+        <ReturnsAcceptedOption>ReturnsAccepted</ReturnsAcceptedOption>
+        <RefundOption>MoneyBack</RefundOption>
+        <ReturnsWithinOption>Days_30</ReturnsWithinOption>
+        <ShippingCostPaidByOption>Buyer</ShippingCostPaidByOption>
+      </ReturnPolicy>
+      <ShippingDetails>
+        <ShippingType>Flat</ShippingType>
+        <ShippingServiceOptions>
+          <ShippingServicePriority>1</ShippingServicePriority>
+          <ShippingService>USPSMedia</ShippingService>
+          <ShippingServiceCost>2.50</ShippingServiceCost>
+        </ShippingServiceOptions>
+      </ShippingDetails>
+      <Site>US</Site>
+    </Item>
+  </VerifyAddItemRequest>
+
+Time:
+ 2023-05-26 21:22:22.494632
+
+Call List:
+ ['<Name>Genre</Name><Value>Drama</Value><Name>Genre</Name><Value>Mystery</Value><Name>Genre</Name><Value>Victorian</Value><Name>Genre</Name><Value>Suspense</Value><Name>Publisher</Name><Value>Bantam Books</Value><Name>Publication Year</Name><Value>1956</Value><Name>Description</Name><Value>Used but in good condition.</Value><Name>Condition Description</Name><Value>Used</Value><Name>Book Format</Name><Value>Paperback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Adventure</Value><Name>Book Type</Name><Value>Novel</Value><Name>Narrative Type</Name><Value>Fiction</Value><Name>Intended Audience</Name><Value>Young Adults</Value><Name>Intended Audience</Name><Value>Adults</Value><Name>Vintage</Name><Value>Yes</Value>', "<Name>Illustrator</Name><Value>Clement Hurd</Value><Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Animals</Value><Name>Publisher</Name><Value>Harper & Row</Value><Name>Publication Year</Name><Value>1947</Value><Name>Description</Name><Value>Good condition</Value><Name>Description</Name><Value>minimal wear.</Value><Name>Condition Description</Name><Value>No visible wear.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Playtime</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>", "<Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Educational</Value><Name>Genre</Name><Value>Humor</Value><Name>Publisher</Name><Value>Random House</Value><Name>Publication Year</Name><Value>1990</Value><Name>Description</Name><Value>Minimal wear.</Value><Name>Condition Description</Name><Value>Folds on pages.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Poetry</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>", "<Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Educational</Value><Name>Genre</Name><Value>Humor</Value><Name>Publisher</Name><Value>Random House</Value><Name>Publication Year</Name><Value>1982</Value><Name>Description</Name><Value>See pictures</Value><Name>Condition Description</Name><Value>Torn pages.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Children</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>"]
+
+Time:
+ 2023-05-26 21:22:22.497621
+
+Picture Call List:
+ ['<PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo4.jpg</PictureURL>', '<PictureURL>https://alexismonroy.github.io/images/Goodnight Moon0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon6.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon7.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon8.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon9.jpg</PictureURL>', "<PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You'll Go6.jpg</PictureURL>", '<PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!2.jpg</PictureURL>']
+
+Time:
+ 2023-05-26 21:22:22.503600
+
+Verify Data:
+ <?xml version="1.0" encoding="utf-8"?>
+  <VerifyAddItemRequest xmlns="urn:ebay:apis:eBLBaseComponents">
+    <RequesterCredentials>
+      <eBayAuthToken>1</eBayAuthToken>
+    </RequesterCredentials>
+    <ErrorLanguage>en_US</ErrorLanguage>
+    <WarningLevel>High</WarningLevel>
+    <Item>
+      <Title>Horton Hears A Who!</Title>
+      <Description>
+        See pictures
+      </Description>
+      <PrimaryCategory>
+        <CategoryID>261186</CategoryID>
+      </PrimaryCategory>
+      <StartPrice>14.0</StartPrice>
+      <CategoryMappingAllowed>true</CategoryMappingAllowed>
+      <ConditionID>5000</ConditionID>
+      <Country>US</Country>
+      <Currency>USD</Currency>
+      <DispatchTimeMax>3</DispatchTimeMax>
+      <ListingDuration>GTC</ListingDuration>
+      <ListingType>FixedPriceItem</ListingType>
+      <PictureDetails>
+        <PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!2.jpg</PictureURL>
+      </PictureDetails>
+      <PostalCode>95125</PostalCode>
+      <Quantity>1</Quantity>
+      <ItemSpecifics>     
+      <Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Educational</Value><Name>Genre</Name><Value>Humor</Value><Name>Publisher</Name><Value>Random House</Value><Name>Publication Year</Name><Value>1982</Value><Name>Description</Name><Value>See pictures</Value><Name>Condition Description</Name><Value>Torn pages.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Children</Value><Name>Book Type</Name><Value>Kid's book</Value><Name>Narrative Type</Name><Value>Fiction</Value>
+      </ItemSpecifics>
+      <ReturnPolicy>
+        <ReturnsAcceptedOption>ReturnsAccepted</ReturnsAcceptedOption>
+        <RefundOption>MoneyBack</RefundOption>
+        <ReturnsWithinOption>Days_30</ReturnsWithinOption>
+        <ShippingCostPaidByOption>Buyer</ShippingCostPaidByOption>
+      </ReturnPolicy>
+      <ShippingDetails>
+        <ShippingType>Flat</ShippingType>
+        <ShippingServiceOptions>
+          <ShippingServicePriority>1</ShippingServicePriority>
+          <ShippingService>USPSMedia</ShippingService>
+          <ShippingServiceCost>2.50</ShippingServiceCost>
+        </ShippingServiceOptions>
+      </ShippingDetails>
+      <Site>US</Site>
+    </Item>
+  </VerifyAddItemRequest>
+
+End Time:
+ 2023-05-26 21:22:22.503600
+
+Time:
+ 2023-05-26 21:22:22.527739
+
+RESULTS:
+ ['<?xml version="1.0" encoding="utf-8"?>\n  <VerifyAddItemRequest xmlns="urn:ebay:apis:eBLBaseComponents">\n    <RequesterCredentials>\n      <eBayAuthToken>1</eBayAuthToken>\n    </RequesterCredentials>\n    <ErrorLanguage>en_US</ErrorLanguage>\n    <WarningLevel>High</WarningLevel>\n    <Item>\n      <Title>The Count of Monte Cristo</Title>\n      <Description>\n        Used but in good condition.\n      </Description>\n      <PrimaryCategory>\n        <CategoryID>261186</CategoryID>\n      </PrimaryCategory>\n      <StartPrice>3.0</StartPrice>\n      <CategoryMappingAllowed>true</CategoryMappingAllowed>\n      <ConditionID>5000</ConditionID>\n      <Country>US</Country>\n      <Currency>USD</Currency>\n      <DispatchTimeMax>3</DispatchTimeMax>\n      <ListingDuration>GTC</ListingDuration>\n      <ListingType>FixedPriceItem</ListingType>\n      <PictureDetails>\n        <PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/The Count of Monte Cristo4.jpg</PictureURL>\n      </PictureDetails>\n      <PostalCode>95125</PostalCode>\n      <Quantity>1</Quantity>\n      <ItemSpecifics>     \n      <Name>Genre</Name><Value>Drama</Value><Name>Genre</Name><Value>Mystery</Value><Name>Genre</Name><Value>Victorian</Value><Name>Genre</Name><Value>Suspense</Value><Name>Publisher</Name><Value>Bantam Books</Value><Name>Publication Year</Name><Value>1956</Value><Name>Description</Name><Value>Used but in good condition.</Value><Name>Condition Description</Name><Value>Used</Value><Name>Book Format</Name><Value>Paperback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Adventure</Value><Name>Book Type</Name><Value>Novel</Value><Name>Narrative Type</Name><Value>Fiction</Value><Name>Intended Audience</Name><Value>Young Adults</Value><Name>Intended Audience</Name><Value>Adults</Value><Name>Vintage</Name><Value>Yes</Value>\n      </ItemSpecifics>\n      <ReturnPolicy>\n        <ReturnsAcceptedOption>ReturnsAccepted</ReturnsAcceptedOption>\n        <RefundOption>MoneyBack</RefundOption>\n        <ReturnsWithinOption>Days_30</ReturnsWithinOption>\n        <ShippingCostPaidByOption>Buyer</ShippingCostPaidByOption>\n      </ReturnPolicy>\n      <ShippingDetails>\n        <ShippingType>Flat</ShippingType>\n        <ShippingServiceOptions>\n          <ShippingServicePriority>1</ShippingServicePriority>\n          <ShippingService>USPSMedia</ShippingService>\n          <ShippingServiceCost>2.50</ShippingServiceCost>\n        </ShippingServiceOptions>\n      </ShippingDetails>\n      <Site>US</Site>\n    </Item>\n  </VerifyAddItemRequest>', '<?xml version="1.0" encoding="utf-8"?>\n  <VerifyAddItemRequest xmlns="urn:ebay:apis:eBLBaseComponents">\n    <RequesterCredentials>\n      <eBayAuthToken>1</eBayAuthToken>\n    </RequesterCredentials>\n    <ErrorLanguage>en_US</ErrorLanguage>\n    <WarningLevel>High</WarningLevel>\n    <Item>\n      <Title>Goodnight Moon</Title>\n      <Description>\n        Good condition, minimal wear.\n      </Description>\n      <PrimaryCategory>\n        <CategoryID>261186</CategoryID>\n      </PrimaryCategory>\n      <StartPrice>20.0</StartPrice>\n      <CategoryMappingAllowed>true</CategoryMappingAllowed>\n      <ConditionID>5000</ConditionID>\n      <Country>US</Country>\n      <Currency>USD</Currency>\n      <DispatchTimeMax>3</DispatchTimeMax>\n      <ListingDuration>GTC</ListingDuration>\n      <ListingType>FixedPriceItem</ListingType>\n      <PictureDetails>\n        <PictureURL>https://alexismonroy.github.io/images/Goodnight Moon0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon6.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon7.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon8.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Goodnight Moon9.jpg</PictureURL>\n      </PictureDetails>\n      <PostalCode>95125</PostalCode>\n      <Quantity>1</Quantity>\n      <ItemSpecifics>     \n      <Name>Illustrator</Name><Value>Clement Hurd</Value><Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Animals</Value><Name>Publisher</Name><Value>Harper & Row</Value><Name>Publication Year</Name><Value>1947</Value><Name>Description</Name><Value>Good condition</Value><Name>Description</Name><Value>minimal wear.</Value><Name>Condition Description</Name><Value>No visible wear.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Playtime</Value><Name>Book Type</Name><Value>Kid\'s book</Value><Name>Narrative Type</Name><Value>Fiction</Value>\n      </ItemSpecifics>\n      <ReturnPolicy>\n        <ReturnsAcceptedOption>ReturnsAccepted</ReturnsAcceptedOption>\n        <RefundOption>MoneyBack</RefundOption>\n        <ReturnsWithinOption>Days_30</ReturnsWithinOption>\n        <ShippingCostPaidByOption>Buyer</ShippingCostPaidByOption>\n      </ReturnPolicy>\n      <ShippingDetails>\n        <ShippingType>Flat</ShippingType>\n        <ShippingServiceOptions>\n          <ShippingServicePriority>1</ShippingServicePriority>\n          <ShippingService>USPSMedia</ShippingService>\n          <ShippingServiceCost>2.50</ShippingServiceCost>\n        </ShippingServiceOptions>\n      </ShippingDetails>\n      <Site>US</Site>\n    </Item>\n  </VerifyAddItemRequest>', '<?xml version="1.0" encoding="utf-8"?>\n  <VerifyAddItemRequest xmlns="urn:ebay:apis:eBLBaseComponents">\n    <RequesterCredentials>\n      <eBayAuthToken>1</eBayAuthToken>\n    </RequesterCredentials>\n    <ErrorLanguage>en_US</ErrorLanguage>\n    <WarningLevel>High</WarningLevel>\n    <Item>\n      <Title>Oh, The Places You\'ll Go</Title>\n      <Description>\n        Minimal wear.\n      </Description>\n      <PrimaryCategory>\n        <CategoryID>261186</CategoryID>\n      </PrimaryCategory>\n      <StartPrice>15.0</StartPrice>\n      <CategoryMappingAllowed>true</CategoryMappingAllowed>\n      <ConditionID>5000</ConditionID>\n      <Country>US</Country>\n      <Currency>USD</Currency>\n      <DispatchTimeMax>3</DispatchTimeMax>\n      <ListingDuration>GTC</ListingDuration>\n      <ListingType>FixedPriceItem</ListingType>\n      <PictureDetails>\n        <PictureURL>https://alexismonroy.github.io/images/Oh, The Places You\'ll Go0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You\'ll Go1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You\'ll Go2.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You\'ll Go3.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You\'ll Go4.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You\'ll Go5.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Oh, The Places You\'ll Go6.jpg</PictureURL>\n      </PictureDetails>\n      <PostalCode>95125</PostalCode>\n      <Quantity>1</Quantity>\n      <ItemSpecifics>     \n      <Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Educational</Value><Name>Genre</Name><Value>Humor</Value><Name>Publisher</Name><Value>Random House</Value><Name>Publication Year</Name><Value>1990</Value><Name>Description</Name><Value>Minimal wear.</Value><Name>Condition Description</Name><Value>Folds on pages.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Features</Name><Value>Dust Jacket</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Poetry</Value><Name>Book Type</Name><Value>Kid\'s book</Value><Name>Narrative Type</Name><Value>Fiction</Value>\n      </ItemSpecifics>\n      <ReturnPolicy>\n        <ReturnsAcceptedOption>ReturnsAccepted</ReturnsAcceptedOption>\n        <RefundOption>MoneyBack</RefundOption>\n        <ReturnsWithinOption>Days_30</ReturnsWithinOption>\n        <ShippingCostPaidByOption>Buyer</ShippingCostPaidByOption>\n      </ReturnPolicy>\n      <ShippingDetails>\n        <ShippingType>Flat</ShippingType>\n        <ShippingServiceOptions>\n          <ShippingServicePriority>1</ShippingServicePriority>\n          <ShippingService>USPSMedia</ShippingService>\n          <ShippingServiceCost>2.50</ShippingServiceCost>\n        </ShippingServiceOptions>\n      </ShippingDetails>\n      <Site>US</Site>\n    </Item>\n  </VerifyAddItemRequest>', '<?xml version="1.0" encoding="utf-8"?>\n  <VerifyAddItemRequest xmlns="urn:ebay:apis:eBLBaseComponents">\n    <RequesterCredentials>\n      <eBayAuthToken>1</eBayAuthToken>\n    </RequesterCredentials>\n    <ErrorLanguage>en_US</ErrorLanguage>\n    <WarningLevel>High</WarningLevel>\n    <Item>\n      <Title>Horton Hears A Who!</Title>\n      <Description>\n        See pictures\n      </Description>\n      <PrimaryCategory>\n        <CategoryID>261186</CategoryID>\n      </PrimaryCategory>\n      <StartPrice>14.0</StartPrice>\n      <CategoryMappingAllowed>true</CategoryMappingAllowed>\n      <ConditionID>5000</ConditionID>\n      <Country>US</Country>\n      <Currency>USD</Currency>\n      <DispatchTimeMax>3</DispatchTimeMax>\n      <ListingDuration>GTC</ListingDuration>\n      <ListingType>FixedPriceItem</ListingType>\n      <PictureDetails>\n        <PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!0.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!1.jpg</PictureURL><PictureURL>https://alexismonroy.github.io/images/Horton Hears A Who!2.jpg</PictureURL>\n      </PictureDetails>\n      <PostalCode>95125</PostalCode>\n      <Quantity>1</Quantity>\n      <ItemSpecifics>     \n      <Name>Genre</Name><Value>Children</Value><Name>Genre</Name><Value>Fantasy</Value><Name>Genre</Name><Value>Educational</Value><Name>Genre</Name><Value>Humor</Value><Name>Publisher</Name><Value>Random House</Value><Name>Publication Year</Name><Value>1982</Value><Name>Description</Name><Value>See pictures</Value><Name>Condition Description</Name><Value>Torn pages.</Value><Name>Book Format</Name><Value>Hardback</Value><Name>Language</Name><Value>English</Value><Name>Topic</Name><Value>Children</Value><Name>Book Type</Name><Value>Kid\'s book</Value><Name>Narrative Type</Name><Value>Fiction</Value>\n      </ItemSpecifics>\n      <ReturnPolicy>\n        <ReturnsAcceptedOption>ReturnsAccepted</ReturnsAcceptedOption>\n        <RefundOption>MoneyBack</RefundOption>\n        <ReturnsWithinOption>Days_30</ReturnsWithinOption>\n        <ShippingCostPaidByOption>Buyer</ShippingCostPaidByOption>\n      </ReturnPolicy>\n      <ShippingDetails>\n        <ShippingType>Flat</ShippingType>\n        <ShippingServiceOptions>\n          <ShippingServicePriority>1</ShippingServicePriority>\n          <ShippingService>USPSMedia</ShippingService>\n          <ShippingServiceCost>2.50</ShippingServiceCost>\n        </ShippingServiceOptions>\n      </ShippingDetails>\n      <Site>US</Site>\n    </Item>\n  </VerifyAddItemRequest>']
+
+End Time:
+ 2023-05-26 21:22:22.527739

@@ -15,7 +15,7 @@ def add_item(product_list, token):
         'X-EBAY-API-SITEID': '0',  
         'Content-Type' : 'text/xml'}
 
-    pic_header = "https://alexismonroy.github.io/images/"
+    pic_site = "https://alexismonroy.github.io/images/"
 
     data_folder = 'C:/Users/alexi/dev/ebay_api/ebay_api/traditional_api_projects/listing_api/flask_experiments/data'
 
@@ -30,6 +30,7 @@ def add_item(product_list, token):
     #check if the product id is in the posted table; has it been listed?
     call_list = []
     pic_call_list = []
+    add_item_list = []
     for i in range(0, len(product_list)):
         cursor.execute(query, product_list[i])
         posted_result = cursor.fetchone()
@@ -56,6 +57,7 @@ def add_item(product_list, token):
                 count += 1
             #write the item details to a text file
             with open('item_dict.txt', 'a') as f:
+                print("\nTime:\n", datetime.datetime.now())
                 print("\nItem Details:\n", item_details, file=f)
                 print("\nItem Dict:\n", item_dict, file=f)
                 print("\nName Value List:\n", name_value_list, file=f)
@@ -89,35 +91,91 @@ def add_item(product_list, token):
             if name_value_call != "":
                 call_list.append(name_value_call)
             with open('call_output.txt', 'a') as f:
+                print("\nTime:\n", datetime.datetime.now(), file=f)
                 print("\nCall List:\n", call_list, file=f)
                 #print the time the call was made
-                print("\nTime:\n", datetime.datetime.now(), file=f)
+                
 
             #get the number of pictures
             num_pics = item_dict['Pictures']
-            pic_call = ""
+            pic_details = ""
             #append the picture name
             for i in range(0, num_pics):
                 picture_name = item_dict['Title'] + str(i)
                 print("\nPicture Name:\n", picture_name)
-                pic_url = pic_header + picture_name + ".jpg"
-                pic_call = pic_call + f'''<PictureDetails><PictureURL>{pic_url}</PictureURL></PictureDetails>'''
-                print("\nPicture Call:\n", pic_call)
-            if pic_call != "":
-                pic_call_list.append(pic_call)
-            with open('call_output.txt', 'a') as f:
-                print("\nPicture Call List:\n", pic_call_list, file=f)
-                print("\nTime:\n", datetime.datetime.now(), file=f)
-
+                pic_location = pic_site + picture_name + ".jpg"
+                pic_details = pic_details + f'''<PictureURL>{pic_location}</PictureURL>'''
+                print("\nPicture Call:\n", pic_details)
+            #pic_call = f'''<PictureDetails>{pic_details}</PictureDetails>'''
             
-            print("\nCALL:\n", name_value_call)             
+            if pic_details != "":
+                pic_call_list.append(pic_details)
+            with open('call_output.txt', 'a') as f:
+                print("\nTime:\n", datetime.datetime.now(), file=f)
+                print("\nPicture Call List:\n", pic_call_list, file=f)
+                
+
+            verify_data = f'''<?xml version="1.0" encoding="utf-8"?>
+  <VerifyAddItemRequest xmlns="urn:ebay:apis:eBLBaseComponents">
+    <RequesterCredentials>
+      <eBayAuthToken>{token}</eBayAuthToken>
+    </RequesterCredentials>
+    <ErrorLanguage>en_US</ErrorLanguage>
+    <WarningLevel>High</WarningLevel>
+    <Item>
+      <Title>{item_dict['Title']}</Title>
+      <Description>
+        {item_dict['Description']}
+      </Description>
+      <PrimaryCategory>
+        <CategoryID>261186</CategoryID>
+      </PrimaryCategory>
+      <StartPrice>{item_dict['Price']}</StartPrice>
+      <CategoryMappingAllowed>true</CategoryMappingAllowed>
+      <ConditionID>5000</ConditionID>
+      <Country>US</Country>
+      <Currency>USD</Currency>
+      <DispatchTimeMax>3</DispatchTimeMax>
+      <ListingDuration>GTC</ListingDuration>
+      <ListingType>FixedPriceItem</ListingType>
+      <PictureDetails>
+        {pic_details}
+      </PictureDetails>
+      <PostalCode>95125</PostalCode>
+      <Quantity>1</Quantity>
+      <ItemSpecifics>     
+      {name_value_call}
+      </ItemSpecifics>
+      <ReturnPolicy>
+        <ReturnsAcceptedOption>ReturnsAccepted</ReturnsAcceptedOption>
+        <RefundOption>MoneyBack</RefundOption>
+        <ReturnsWithinOption>Days_30</ReturnsWithinOption>
+        <ShippingCostPaidByOption>Buyer</ShippingCostPaidByOption>
+      </ReturnPolicy>
+      <ShippingDetails>
+        <ShippingType>Flat</ShippingType>
+        <ShippingServiceOptions>
+          <ShippingServicePriority>1</ShippingServicePriority>
+          <ShippingService>USPSMedia</ShippingService>
+          <ShippingServiceCost>2.50</ShippingServiceCost>
+        </ShippingServiceOptions>
+      </ShippingDetails>
+      <Site>US</Site>
+    </Item>
+  </VerifyAddItemRequest>'''
+
+            add_item_list.append(verify_data)
+            print("\nCALL:\n", verify_data)             
             print(token)
             
+            with open('call_output.txt', 'a') as f:
+                print("\nTime:\n", datetime.datetime.now(), file=f)
+                print("\nVerify Data:\n", verify_data, file=f)
         else:
             print("Item has already been posted")
     #print the end time to call_output.txt
     with open('call_output.txt', 'a') as f:
         print("\nEnd Time:\n", datetime.datetime.now(), file=f)
-    return call_list, pic_call_list
+    return add_item_list
     conn.close()
     print("\nConnection Closed\n")
