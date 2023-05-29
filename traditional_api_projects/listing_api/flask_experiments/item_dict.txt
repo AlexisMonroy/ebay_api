@@ -1,410 +1,5 @@
 
 Item Details:
- (1, 'The Count of Monte Cristo', 'Alexandre Dumas', 1, '', 'Drama, Mystery, Victorian, Suspense', 'Bantam Books', 1956, 3.0, '', 'Acceptable', '', 'Paperback', 'Dust Jacket', 'English', 'Adventure', '', 'Novel', 'Fiction', '', '', '', 'Young Adults, Adults', 'Yes', '')
-
-Item Dict:
- {'item_id': 1, 'Title': 'The Count of Monte Cristo', 'Author': 'Alexandre Dumas', 'Units': 1, 'Illustrator': '', 'Genre': 'Drama, Mystery, Victorian, Suspense', 'Publisher': 'Bantam Books', 'Publication Year': 1956, 'Price': 3.0, 'Description': '', 'Condition': 'Acceptable', 'Condition Description': '', 'Book Format': 'Paperback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Adventure', 'Book Series': '', 'Book Type': 'Novel', 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': 'Young Adults, Adults', 'Vintage': 'Yes', 'Signed': ''}
-
-Name Value List:
- [('Illustrator', ''), ('Genre', 'Drama, Mystery, Victorian, Suspense'), ('Publisher', 'Bantam Books'), ('Publication Year', 1956), ('Description', ''), ('Condition Description', ''), ('Book Format', 'Paperback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Adventure'), ('Book Series', ''), ('Book Type', 'Novel'), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', 'Young Adults, Adults'), ('Vintage', 'Yes'), ('Signed', '')]
-
-Item Details:
- (2, 'Goodnight Moon', 'Margaret Wise Brown', 1, 'Clement Hurd', 'Children, Fantasy, Animals', 'Harper & Row', 1947, 20.0, '', 'Good', '', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '')
-
-Item Dict:
- {'item_id': 2, 'Title': 'Goodnight Moon', 'Author': 'Margaret Wise Brown', 'Units': 1, 'Illustrator': 'Clement Hurd', 'Genre': 'Children, Fantasy, Animals', 'Publisher': 'Harper & Row', 'Publication Year': 1947, 'Price': 20.0, 'Description': '', 'Condition': 'Good', 'Condition Description': '', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': ''}
-
-Name Value List:
- [('Illustrator', 'Clement Hurd'), ('Genre', 'Children, Fantasy, Animals'), ('Publisher', 'Harper & Row'), ('Publication Year', 1947), ('Description', ''), ('Condition Description', ''), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
-
-Item Details:
- (3, "Oh, The Places You'll Go", 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1990, 15.0, '', 'Good', '', 'Hardback', 'Dust Jacket', 'English', '', '', '', '', '', '', '', '', '', '')
-
-Item Dict:
- {'item_id': 3, 'Title': "Oh, The Places You'll Go", 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1990, 'Price': 15.0, 'Description': '', 'Condition': 'Good', 'Condition Description': '', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': ''}
-
-Name Value List:
- [('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1990), ('Description', ''), ('Condition Description', ''), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
-
-Item Details:
- (1, 'The Count of Monte Cristo', 'Alexandre Dumas', 1, '', 'Drama, Mystery, Victorian, Suspense', 'Bantam Books', 1956, 3.0, '', 'Acceptable', '', 'Paperback', 'Dust Jacket', 'English', 'Adventure', '', 'Novel', 'Fiction', '', '', '', 'Young Adults, Adults', 'Yes', '')
-
-Item Dict:
- {'item_id': 1, 'Title': 'The Count of Monte Cristo', 'Author': 'Alexandre Dumas', 'Units': 1, 'Illustrator': '', 'Genre': 'Drama, Mystery, Victorian, Suspense', 'Publisher': 'Bantam Books', 'Publication Year': 1956, 'Price': 3.0, 'Description': '', 'Condition': 'Acceptable', 'Condition Description': '', 'Book Format': 'Paperback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Adventure', 'Book Series': '', 'Book Type': 'Novel', 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': 'Young Adults, Adults', 'Vintage': 'Yes', 'Signed': ''}
-
-Name Value List:
- [('Illustrator', ''), ('Genre', 'Drama, Mystery, Victorian, Suspense'), ('Publisher', 'Bantam Books'), ('Publication Year', 1956), ('Description', ''), ('Condition Description', ''), ('Book Format', 'Paperback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Adventure'), ('Book Series', ''), ('Book Type', 'Novel'), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', 'Young Adults, Adults'), ('Vintage', 'Yes'), ('Signed', '')]
-
-Item Details:
- (2, 'Goodnight Moon', 'Margaret Wise Brown', 1, 'Clement Hurd', 'Children, Fantasy, Animals', 'Harper & Row', 1947, 20.0, '', 'Good', '', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '')
-
-Item Dict:
- {'item_id': 2, 'Title': 'Goodnight Moon', 'Author': 'Margaret Wise Brown', 'Units': 1, 'Illustrator': 'Clement Hurd', 'Genre': 'Children, Fantasy, Animals', 'Publisher': 'Harper & Row', 'Publication Year': 1947, 'Price': 20.0, 'Description': '', 'Condition': 'Good', 'Condition Description': '', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': ''}
-
-Name Value List:
- [('Illustrator', 'Clement Hurd'), ('Genre', 'Children, Fantasy, Animals'), ('Publisher', 'Harper & Row'), ('Publication Year', 1947), ('Description', ''), ('Condition Description', ''), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
-
-Item Details:
- (1, 'The Count of Monte Cristo', 'Alexandre Dumas', 1, '', 'Drama, Mystery, Victorian, Suspense', 'Bantam Books', 1956, 3.0, '', 'Acceptable', '', 'Paperback', 'Dust Jacket', 'English', 'Adventure', '', 'Novel', 'Fiction', '', '', '', 'Young Adults, Adults', 'Yes', '')
-
-Item Dict:
- {'item_id': 1, 'Title': 'The Count of Monte Cristo', 'Author': 'Alexandre Dumas', 'Units': 1, 'Illustrator': '', 'Genre': 'Drama, Mystery, Victorian, Suspense', 'Publisher': 'Bantam Books', 'Publication Year': 1956, 'Price': 3.0, 'Description': '', 'Condition': 'Acceptable', 'Condition Description': '', 'Book Format': 'Paperback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Adventure', 'Book Series': '', 'Book Type': 'Novel', 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': 'Young Adults, Adults', 'Vintage': 'Yes', 'Signed': ''}
-
-Name Value List:
- [('Illustrator', ''), ('Genre', 'Drama, Mystery, Victorian, Suspense'), ('Publisher', 'Bantam Books'), ('Publication Year', 1956), ('Description', ''), ('Condition Description', ''), ('Book Format', 'Paperback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Adventure'), ('Book Series', ''), ('Book Type', 'Novel'), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', 'Young Adults, Adults'), ('Vintage', 'Yes'), ('Signed', '')]
-
-Item Details:
- (2, 'Goodnight Moon', 'Margaret Wise Brown', 1, 'Clement Hurd', 'Children, Fantasy, Animals', 'Harper & Row', 1947, 20.0, '', 'Good', '', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '')
-
-Item Dict:
- {'item_id': 2, 'Title': 'Goodnight Moon', 'Author': 'Margaret Wise Brown', 'Units': 1, 'Illustrator': 'Clement Hurd', 'Genre': 'Children, Fantasy, Animals', 'Publisher': 'Harper & Row', 'Publication Year': 1947, 'Price': 20.0, 'Description': '', 'Condition': 'Good', 'Condition Description': '', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': ''}
-
-Name Value List:
- [('Illustrator', 'Clement Hurd'), ('Genre', 'Children, Fantasy, Animals'), ('Publisher', 'Harper & Row'), ('Publication Year', 1947), ('Description', ''), ('Condition Description', ''), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
-
-Item Details:
- (3, "Oh, The Places You'll Go", 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1990, 15.0, '', 'Good', '', 'Hardback', 'Dust Jacket', 'English', '', '', '', '', '', '', '', '', '', '')
-
-Item Dict:
- {'item_id': 3, 'Title': "Oh, The Places You'll Go", 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1990, 'Price': 15.0, 'Description': '', 'Condition': 'Good', 'Condition Description': '', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': ''}
-
-Name Value List:
- [('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1990), ('Description', ''), ('Condition Description', ''), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
-
-Item Details:
- (1, 'The Count of Monte Cristo', 'Alexandre Dumas', 1, '', 'Drama, Mystery, Victorian, Suspense', 'Bantam Books', 1956, 3.0, 'Used but in good condition.', 'Acceptable', 'Used', 'Paperback', 'Dust Jacket', 'English', 'Adventure', '', 'Novel', 'Fiction', '', '', '', 'Young Adults, Adults', 'Yes', '', 5)
-
-Item Dict:
- {'item_id': 1, 'Title': 'The Count of Monte Cristo', 'Author': 'Alexandre Dumas', 'Units': 1, 'Illustrator': '', 'Genre': 'Drama, Mystery, Victorian, Suspense', 'Publisher': 'Bantam Books', 'Publication Year': 1956, 'Price': 3.0, 'Description': 'Used but in good condition.', 'Condition': 'Acceptable', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Adventure', 'Book Series': '', 'Book Type': 'Novel', 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': 'Young Adults, Adults', 'Vintage': 'Yes', 'Signed': '', 'Pictures': 5}
-
-Name Value List:
- [('Illustrator', ''), ('Genre', 'Drama, Mystery, Victorian, Suspense'), ('Publisher', 'Bantam Books'), ('Publication Year', 1956), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Adventure'), ('Book Series', ''), ('Book Type', 'Novel'), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', 'Young Adults, Adults'), ('Vintage', 'Yes'), ('Signed', '')]
-
-Item Details:
- (2, 'Goodnight Moon', 'Margaret Wise Brown', 1, 'Clement Hurd', 'Children, Fantasy, Animals', 'Harper & Row', 1947, 20.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', '', 'English', 'Playtime', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 10)
-
-Item Dict:
- {'item_id': 2, 'Title': 'Goodnight Moon', 'Author': 'Margaret Wise Brown', 'Units': 1, 'Illustrator': 'Clement Hurd', 'Genre': 'Children, Fantasy, Animals', 'Publisher': 'Harper & Row', 'Publication Year': 1947, 'Price': 20.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Playtime', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 10}
-
-Name Value List:
- [('Illustrator', 'Clement Hurd'), ('Genre', 'Children, Fantasy, Animals'), ('Publisher', 'Harper & Row'), ('Publication Year', 1947), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Playtime'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
-
-Item Details:
- (3, "Oh, The Places You'll Go", 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1990, 15.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', 'Dust Jacket', 'English', 'Poetry', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 7)
-
-Item Dict:
- {'item_id': 3, 'Title': "Oh, The Places You'll Go", 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1990, 'Price': 15.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Poetry', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 7}
-
-Name Value List:
- [('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1990), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Poetry'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
-
-Item Details:
- (1, 'The Count of Monte Cristo', 'Alexandre Dumas', 1, '', 'Drama, Mystery, Victorian, Suspense', 'Bantam Books', 1956, 3.0, 'Used but in good condition.', 'Acceptable', 'Used', 'Paperback', 'Dust Jacket', 'English', 'Adventure', '', 'Novel', 'Fiction', '', '', '', 'Young Adults, Adults', 'Yes', '', 5)
-
-Item Dict:
- {'item_id': 1, 'Title': 'The Count of Monte Cristo', 'Author': 'Alexandre Dumas', 'Units': 1, 'Illustrator': '', 'Genre': 'Drama, Mystery, Victorian, Suspense', 'Publisher': 'Bantam Books', 'Publication Year': 1956, 'Price': 3.0, 'Description': 'Used but in good condition.', 'Condition': 'Acceptable', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Adventure', 'Book Series': '', 'Book Type': 'Novel', 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': 'Young Adults, Adults', 'Vintage': 'Yes', 'Signed': '', 'Pictures': 5}
-
-Name Value List:
- [('Illustrator', ''), ('Genre', 'Drama, Mystery, Victorian, Suspense'), ('Publisher', 'Bantam Books'), ('Publication Year', 1956), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Adventure'), ('Book Series', ''), ('Book Type', 'Novel'), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', 'Young Adults, Adults'), ('Vintage', 'Yes'), ('Signed', '')]
-
-Item Details:
- (2, 'Goodnight Moon', 'Margaret Wise Brown', 1, 'Clement Hurd', 'Children, Fantasy, Animals', 'Harper & Row', 1947, 20.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', '', 'English', 'Playtime', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 10)
-
-Item Dict:
- {'item_id': 2, 'Title': 'Goodnight Moon', 'Author': 'Margaret Wise Brown', 'Units': 1, 'Illustrator': 'Clement Hurd', 'Genre': 'Children, Fantasy, Animals', 'Publisher': 'Harper & Row', 'Publication Year': 1947, 'Price': 20.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Playtime', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 10}
-
-Name Value List:
- [('Illustrator', 'Clement Hurd'), ('Genre', 'Children, Fantasy, Animals'), ('Publisher', 'Harper & Row'), ('Publication Year', 1947), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Playtime'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
-
-Item Details:
- (3, "Oh, The Places You'll Go", 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1990, 15.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', 'Dust Jacket', 'English', 'Poetry', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 7)
-
-Item Dict:
- {'item_id': 3, 'Title': "Oh, The Places You'll Go", 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1990, 'Price': 15.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Poetry', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 7}
-
-Name Value List:
- [('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1990), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Poetry'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
-
-Item Details:
- (1, 'The Count of Monte Cristo', 'Alexandre Dumas', 1, '', 'Drama, Mystery, Victorian, Suspense', 'Bantam Books', 1956, 3.0, 'Used but in good condition.', 'Acceptable', 'Used', 'Paperback', 'Dust Jacket', 'English', 'Adventure', '', 'Novel', 'Fiction', '', '', '', 'Young Adults, Adults', 'Yes', '', 5)
-
-Item Dict:
- {'item_id': 1, 'Title': 'The Count of Monte Cristo', 'Author': 'Alexandre Dumas', 'Units': 1, 'Illustrator': '', 'Genre': 'Drama, Mystery, Victorian, Suspense', 'Publisher': 'Bantam Books', 'Publication Year': 1956, 'Price': 3.0, 'Description': 'Used but in good condition.', 'Condition': 'Acceptable', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Adventure', 'Book Series': '', 'Book Type': 'Novel', 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': 'Young Adults, Adults', 'Vintage': 'Yes', 'Signed': '', 'Pictures': 5}
-
-Name Value List:
- [('Illustrator', ''), ('Genre', 'Drama, Mystery, Victorian, Suspense'), ('Publisher', 'Bantam Books'), ('Publication Year', 1956), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Adventure'), ('Book Series', ''), ('Book Type', 'Novel'), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', 'Young Adults, Adults'), ('Vintage', 'Yes'), ('Signed', '')]
-
-Item Details:
- (2, 'Goodnight Moon', 'Margaret Wise Brown', 1, 'Clement Hurd', 'Children, Fantasy, Animals', 'Harper & Row', 1947, 20.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', '', 'English', 'Playtime', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 10)
-
-Item Dict:
- {'item_id': 2, 'Title': 'Goodnight Moon', 'Author': 'Margaret Wise Brown', 'Units': 1, 'Illustrator': 'Clement Hurd', 'Genre': 'Children, Fantasy, Animals', 'Publisher': 'Harper & Row', 'Publication Year': 1947, 'Price': 20.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Playtime', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 10}
-
-Name Value List:
- [('Illustrator', 'Clement Hurd'), ('Genre', 'Children, Fantasy, Animals'), ('Publisher', 'Harper & Row'), ('Publication Year', 1947), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Playtime'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
-
-Item Details:
- (3, "Oh, The Places You'll Go", 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1990, 15.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', 'Dust Jacket', 'English', 'Poetry', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 7)
-
-Item Dict:
- {'item_id': 3, 'Title': "Oh, The Places You'll Go", 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1990, 'Price': 15.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Poetry', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 7}
-
-Name Value List:
- [('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1990), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Poetry'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
-
-Item Details:
- (1, 'The Count of Monte Cristo', 'Alexandre Dumas', 1, '', 'Drama, Mystery, Victorian, Suspense', 'Bantam Books', 1956, 3.0, 'Used but in good condition.', 'Acceptable', 'Used', 'Paperback', 'Dust Jacket', 'English', 'Adventure', '', 'Novel', 'Fiction', '', '', '', 'Young Adults, Adults', 'Yes', '', 5)
-
-Item Dict:
- {'item_id': 1, 'Title': 'The Count of Monte Cristo', 'Author': 'Alexandre Dumas', 'Units': 1, 'Illustrator': '', 'Genre': 'Drama, Mystery, Victorian, Suspense', 'Publisher': 'Bantam Books', 'Publication Year': 1956, 'Price': 3.0, 'Description': 'Used but in good condition.', 'Condition': 'Acceptable', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Adventure', 'Book Series': '', 'Book Type': 'Novel', 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': 'Young Adults, Adults', 'Vintage': 'Yes', 'Signed': '', 'Pictures': 5}
-
-Name Value List:
- [('Illustrator', ''), ('Genre', 'Drama, Mystery, Victorian, Suspense'), ('Publisher', 'Bantam Books'), ('Publication Year', 1956), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Adventure'), ('Book Series', ''), ('Book Type', 'Novel'), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', 'Young Adults, Adults'), ('Vintage', 'Yes'), ('Signed', '')]
-
-Item Details:
- (2, 'Goodnight Moon', 'Margaret Wise Brown', 1, 'Clement Hurd', 'Children, Fantasy, Animals', 'Harper & Row', 1947, 20.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', '', 'English', 'Playtime', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 10)
-
-Item Dict:
- {'item_id': 2, 'Title': 'Goodnight Moon', 'Author': 'Margaret Wise Brown', 'Units': 1, 'Illustrator': 'Clement Hurd', 'Genre': 'Children, Fantasy, Animals', 'Publisher': 'Harper & Row', 'Publication Year': 1947, 'Price': 20.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Playtime', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 10}
-
-Name Value List:
- [('Illustrator', 'Clement Hurd'), ('Genre', 'Children, Fantasy, Animals'), ('Publisher', 'Harper & Row'), ('Publication Year', 1947), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Playtime'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
-
-Item Details:
- (3, "Oh, The Places You'll Go", 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1990, 15.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', 'Dust Jacket', 'English', 'Poetry', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 7)
-
-Item Dict:
- {'item_id': 3, 'Title': "Oh, The Places You'll Go", 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1990, 'Price': 15.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Poetry', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 7}
-
-Name Value List:
- [('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1990), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Poetry'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
-
-Item Details:
- (1, 'The Count of Monte Cristo', 'Alexandre Dumas', 1, '', 'Drama, Mystery, Victorian, Suspense', 'Bantam Books', 1956, 3.0, 'Used but in good condition.', 'Acceptable', 'Used', 'Paperback', 'Dust Jacket', 'English', 'Adventure', '', 'Novel', 'Fiction', '', '', '', 'Young Adults, Adults', 'Yes', '', 5)
-
-Item Dict:
- {'item_id': 1, 'Title': 'The Count of Monte Cristo', 'Author': 'Alexandre Dumas', 'Units': 1, 'Illustrator': '', 'Genre': 'Drama, Mystery, Victorian, Suspense', 'Publisher': 'Bantam Books', 'Publication Year': 1956, 'Price': 3.0, 'Description': 'Used but in good condition.', 'Condition': 'Acceptable', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Adventure', 'Book Series': '', 'Book Type': 'Novel', 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': 'Young Adults, Adults', 'Vintage': 'Yes', 'Signed': '', 'Pictures': 5}
-
-Name Value List:
- [('Illustrator', ''), ('Genre', 'Drama, Mystery, Victorian, Suspense'), ('Publisher', 'Bantam Books'), ('Publication Year', 1956), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Adventure'), ('Book Series', ''), ('Book Type', 'Novel'), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', 'Young Adults, Adults'), ('Vintage', 'Yes'), ('Signed', '')]
-
-Item Details:
- (2, 'Goodnight Moon', 'Margaret Wise Brown', 1, 'Clement Hurd', 'Children, Fantasy, Animals', 'Harper & Row', 1947, 20.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', '', 'English', 'Playtime', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 10)
-
-Item Dict:
- {'item_id': 2, 'Title': 'Goodnight Moon', 'Author': 'Margaret Wise Brown', 'Units': 1, 'Illustrator': 'Clement Hurd', 'Genre': 'Children, Fantasy, Animals', 'Publisher': 'Harper & Row', 'Publication Year': 1947, 'Price': 20.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Playtime', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 10}
-
-Name Value List:
- [('Illustrator', 'Clement Hurd'), ('Genre', 'Children, Fantasy, Animals'), ('Publisher', 'Harper & Row'), ('Publication Year', 1947), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Playtime'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
-
-Item Details:
- (3, "Oh, The Places You'll Go", 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1990, 15.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', 'Dust Jacket', 'English', 'Poetry', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 7)
-
-Item Dict:
- {'item_id': 3, 'Title': "Oh, The Places You'll Go", 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1990, 'Price': 15.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Poetry', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 7}
-
-Name Value List:
- [('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1990), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Poetry'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
-
-Item Details:
- (1, 'The Count of Monte Cristo', 'Alexandre Dumas', 1, '', 'Drama, Mystery, Victorian, Suspense', 'Bantam Books', 1956, 3.0, 'Used but in good condition.', 'Acceptable', 'Used', 'Paperback', 'Dust Jacket', 'English', 'Adventure', '', 'Novel', 'Fiction', '', '', '', 'Young Adults, Adults', 'Yes', '', 5)
-
-Item Dict:
- {'item_id': 1, 'Title': 'The Count of Monte Cristo', 'Author': 'Alexandre Dumas', 'Units': 1, 'Illustrator': '', 'Genre': 'Drama, Mystery, Victorian, Suspense', 'Publisher': 'Bantam Books', 'Publication Year': 1956, 'Price': 3.0, 'Description': 'Used but in good condition.', 'Condition': 'Acceptable', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Adventure', 'Book Series': '', 'Book Type': 'Novel', 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': 'Young Adults, Adults', 'Vintage': 'Yes', 'Signed': '', 'Pictures': 5}
-
-Name Value List:
- [('Illustrator', ''), ('Genre', 'Drama, Mystery, Victorian, Suspense'), ('Publisher', 'Bantam Books'), ('Publication Year', 1956), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Adventure'), ('Book Series', ''), ('Book Type', 'Novel'), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', 'Young Adults, Adults'), ('Vintage', 'Yes'), ('Signed', '')]
-
-Item Details:
- (2, 'Goodnight Moon', 'Margaret Wise Brown', 1, 'Clement Hurd', 'Children, Fantasy, Animals', 'Harper & Row', 1947, 20.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', '', 'English', 'Playtime', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 10)
-
-Item Dict:
- {'item_id': 2, 'Title': 'Goodnight Moon', 'Author': 'Margaret Wise Brown', 'Units': 1, 'Illustrator': 'Clement Hurd', 'Genre': 'Children, Fantasy, Animals', 'Publisher': 'Harper & Row', 'Publication Year': 1947, 'Price': 20.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Playtime', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 10}
-
-Name Value List:
- [('Illustrator', 'Clement Hurd'), ('Genre', 'Children, Fantasy, Animals'), ('Publisher', 'Harper & Row'), ('Publication Year', 1947), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Playtime'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
-
-Item Details:
- (3, "Oh, The Places You'll Go", 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1990, 15.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', 'Dust Jacket', 'English', 'Poetry', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 7)
-
-Item Dict:
- {'item_id': 3, 'Title': "Oh, The Places You'll Go", 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1990, 'Price': 15.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Poetry', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 7}
-
-Name Value List:
- [('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1990), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Poetry'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
-
-Item Details:
- (1, 'The Count of Monte Cristo', 'Alexandre Dumas', 1, '', 'Drama, Mystery, Victorian, Suspense', 'Bantam Books', 1956, 3.0, 'Used but in good condition.', 'Acceptable', 'Used', 'Paperback', 'Dust Jacket', 'English', 'Adventure', '', 'Novel', 'Fiction', '', '', '', 'Young Adults, Adults', 'Yes', '', 5)
-
-Item Dict:
- {'item_id': 1, 'Title': 'The Count of Monte Cristo', 'Author': 'Alexandre Dumas', 'Units': 1, 'Illustrator': '', 'Genre': 'Drama, Mystery, Victorian, Suspense', 'Publisher': 'Bantam Books', 'Publication Year': 1956, 'Price': 3.0, 'Description': 'Used but in good condition.', 'Condition': 'Acceptable', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Adventure', 'Book Series': '', 'Book Type': 'Novel', 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': 'Young Adults, Adults', 'Vintage': 'Yes', 'Signed': '', 'Pictures': 5}
-
-Name Value List:
- [('Illustrator', ''), ('Genre', 'Drama, Mystery, Victorian, Suspense'), ('Publisher', 'Bantam Books'), ('Publication Year', 1956), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Adventure'), ('Book Series', ''), ('Book Type', 'Novel'), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', 'Young Adults, Adults'), ('Vintage', 'Yes'), ('Signed', '')]
-
-Item Details:
- (2, 'Goodnight Moon', 'Margaret Wise Brown', 1, 'Clement Hurd', 'Children, Fantasy, Animals', 'Harper & Row', 1947, 20.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', '', 'English', 'Playtime', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 10)
-
-Item Dict:
- {'item_id': 2, 'Title': 'Goodnight Moon', 'Author': 'Margaret Wise Brown', 'Units': 1, 'Illustrator': 'Clement Hurd', 'Genre': 'Children, Fantasy, Animals', 'Publisher': 'Harper & Row', 'Publication Year': 1947, 'Price': 20.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Playtime', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 10}
-
-Name Value List:
- [('Illustrator', 'Clement Hurd'), ('Genre', 'Children, Fantasy, Animals'), ('Publisher', 'Harper & Row'), ('Publication Year', 1947), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Playtime'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
-
-Item Details:
- (3, "Oh, The Places You'll Go", 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1990, 15.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', 'Dust Jacket', 'English', 'Poetry', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 7)
-
-Item Dict:
- {'item_id': 3, 'Title': "Oh, The Places You'll Go", 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1990, 'Price': 15.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Poetry', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 7}
-
-Name Value List:
- [('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1990), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Poetry'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
-
-Item Details:
- (1, 'The Count of Monte Cristo', 'Alexandre Dumas', 1, '', 'Drama, Mystery, Victorian, Suspense', 'Bantam Books', 1956, 3.0, 'Used but in good condition.', 'Acceptable', 'Used', 'Paperback', 'Dust Jacket', 'English', 'Adventure', '', 'Novel', 'Fiction', '', '', '', 'Young Adults, Adults', 'Yes', '', 5)
-
-Item Dict:
- {'item_id': 1, 'Title': 'The Count of Monte Cristo', 'Author': 'Alexandre Dumas', 'Units': 1, 'Illustrator': '', 'Genre': 'Drama, Mystery, Victorian, Suspense', 'Publisher': 'Bantam Books', 'Publication Year': 1956, 'Price': 3.0, 'Description': 'Used but in good condition.', 'Condition': 'Acceptable', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Adventure', 'Book Series': '', 'Book Type': 'Novel', 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': 'Young Adults, Adults', 'Vintage': 'Yes', 'Signed': '', 'Pictures': 5}
-
-Name Value List:
- [('Illustrator', ''), ('Genre', 'Drama, Mystery, Victorian, Suspense'), ('Publisher', 'Bantam Books'), ('Publication Year', 1956), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Adventure'), ('Book Series', ''), ('Book Type', 'Novel'), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', 'Young Adults, Adults'), ('Vintage', 'Yes'), ('Signed', '')]
-
-Item Details:
- (2, 'Goodnight Moon', 'Margaret Wise Brown', 1, 'Clement Hurd', 'Children, Fantasy, Animals', 'Harper & Row', 1947, 20.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', '', 'English', 'Playtime', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 10)
-
-Item Dict:
- {'item_id': 2, 'Title': 'Goodnight Moon', 'Author': 'Margaret Wise Brown', 'Units': 1, 'Illustrator': 'Clement Hurd', 'Genre': 'Children, Fantasy, Animals', 'Publisher': 'Harper & Row', 'Publication Year': 1947, 'Price': 20.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Playtime', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 10}
-
-Name Value List:
- [('Illustrator', 'Clement Hurd'), ('Genre', 'Children, Fantasy, Animals'), ('Publisher', 'Harper & Row'), ('Publication Year', 1947), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Playtime'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
-
-Item Details:
- (3, "Oh, The Places You'll Go", 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1990, 15.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', 'Dust Jacket', 'English', 'Poetry', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 7)
-
-Item Dict:
- {'item_id': 3, 'Title': "Oh, The Places You'll Go", 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1990, 'Price': 15.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Poetry', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 7}
-
-Name Value List:
- [('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1990), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Poetry'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
-
-Item Details:
- (1, 'The Count of Monte Cristo', 'Alexandre Dumas', 1, '', 'Drama, Mystery, Victorian, Suspense', 'Bantam Books', 1956, 3.0, 'Used but in good condition.', 'Acceptable', 'Used', 'Paperback', 'Dust Jacket', 'English', 'Adventure', '', 'Novel', 'Fiction', '', '', '', 'Young Adults, Adults', 'Yes', '', 5)
-
-Item Dict:
- {'item_id': 1, 'Title': 'The Count of Monte Cristo', 'Author': 'Alexandre Dumas', 'Units': 1, 'Illustrator': '', 'Genre': 'Drama, Mystery, Victorian, Suspense', 'Publisher': 'Bantam Books', 'Publication Year': 1956, 'Price': 3.0, 'Description': 'Used but in good condition.', 'Condition': 'Acceptable', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Adventure', 'Book Series': '', 'Book Type': 'Novel', 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': 'Young Adults, Adults', 'Vintage': 'Yes', 'Signed': '', 'Pictures': 5}
-
-Name Value List:
- [('Illustrator', ''), ('Genre', 'Drama, Mystery, Victorian, Suspense'), ('Publisher', 'Bantam Books'), ('Publication Year', 1956), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Adventure'), ('Book Series', ''), ('Book Type', 'Novel'), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', 'Young Adults, Adults'), ('Vintage', 'Yes'), ('Signed', '')]
-
-Item Details:
- (2, 'Goodnight Moon', 'Margaret Wise Brown', 1, 'Clement Hurd', 'Children, Fantasy, Animals', 'Harper & Row', 1947, 20.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', '', 'English', 'Playtime', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 10)
-
-Item Dict:
- {'item_id': 2, 'Title': 'Goodnight Moon', 'Author': 'Margaret Wise Brown', 'Units': 1, 'Illustrator': 'Clement Hurd', 'Genre': 'Children, Fantasy, Animals', 'Publisher': 'Harper & Row', 'Publication Year': 1947, 'Price': 20.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Playtime', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 10}
-
-Name Value List:
- [('Illustrator', 'Clement Hurd'), ('Genre', 'Children, Fantasy, Animals'), ('Publisher', 'Harper & Row'), ('Publication Year', 1947), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Playtime'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
-
-Item Details:
- (3, "Oh, The Places You'll Go", 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1990, 15.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', 'Dust Jacket', 'English', 'Poetry', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 7)
-
-Item Dict:
- {'item_id': 3, 'Title': "Oh, The Places You'll Go", 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1990, 'Price': 15.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Poetry', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 7}
-
-Name Value List:
- [('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1990), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Poetry'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
-
-Item Details:
- (1, 'The Count of Monte Cristo', 'Alexandre Dumas', 1, '', 'Drama, Mystery, Victorian, Suspense', 'Bantam Books', 1956, 3.0, 'Used but in good condition.', 'Acceptable', 'Used', 'Paperback', 'Dust Jacket', 'English', 'Adventure', '', 'Novel', 'Fiction', '', '', '', 'Young Adults, Adults', 'Yes', '', 5)
-
-Item Dict:
- {'item_id': 1, 'Title': 'The Count of Monte Cristo', 'Author': 'Alexandre Dumas', 'Units': 1, 'Illustrator': '', 'Genre': 'Drama, Mystery, Victorian, Suspense', 'Publisher': 'Bantam Books', 'Publication Year': 1956, 'Price': 3.0, 'Description': 'Used but in good condition.', 'Condition': 'Acceptable', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Adventure', 'Book Series': '', 'Book Type': 'Novel', 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': 'Young Adults, Adults', 'Vintage': 'Yes', 'Signed': '', 'Pictures': 5}
-
-Name Value List:
- [('Illustrator', ''), ('Genre', 'Drama, Mystery, Victorian, Suspense'), ('Publisher', 'Bantam Books'), ('Publication Year', 1956), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Adventure'), ('Book Series', ''), ('Book Type', 'Novel'), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', 'Young Adults, Adults'), ('Vintage', 'Yes'), ('Signed', '')]
-
-Item Details:
- (2, 'Goodnight Moon', 'Margaret Wise Brown', 1, 'Clement Hurd', 'Children, Fantasy, Animals', 'Harper & Row', 1947, 20.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', '', 'English', 'Playtime', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 10)
-
-Item Dict:
- {'item_id': 2, 'Title': 'Goodnight Moon', 'Author': 'Margaret Wise Brown', 'Units': 1, 'Illustrator': 'Clement Hurd', 'Genre': 'Children, Fantasy, Animals', 'Publisher': 'Harper & Row', 'Publication Year': 1947, 'Price': 20.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Playtime', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 10}
-
-Name Value List:
- [('Illustrator', 'Clement Hurd'), ('Genre', 'Children, Fantasy, Animals'), ('Publisher', 'Harper & Row'), ('Publication Year', 1947), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Playtime'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
-
-Item Details:
- (3, "Oh, The Places You'll Go", 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1990, 15.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', 'Dust Jacket', 'English', 'Poetry', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 7)
-
-Item Dict:
- {'item_id': 3, 'Title': "Oh, The Places You'll Go", 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1990, 'Price': 15.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Poetry', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 7}
-
-Name Value List:
- [('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1990), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Poetry'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
-
-Item Details:
- (1, 'The Count of Monte Cristo', 'Alexandre Dumas', 1, '', 'Drama, Mystery, Victorian, Suspense', 'Bantam Books', 1956, 3.0, 'Used but in good condition.', 'Acceptable', 'Used', 'Paperback', 'Dust Jacket', 'English', 'Adventure', '', 'Novel', 'Fiction', '', '', '', 'Young Adults, Adults', 'Yes', '', 5)
-
-Item Dict:
- {'item_id': 1, 'Title': 'The Count of Monte Cristo', 'Author': 'Alexandre Dumas', 'Units': 1, 'Illustrator': '', 'Genre': 'Drama, Mystery, Victorian, Suspense', 'Publisher': 'Bantam Books', 'Publication Year': 1956, 'Price': 3.0, 'Description': 'Used but in good condition.', 'Condition': 'Acceptable', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Adventure', 'Book Series': '', 'Book Type': 'Novel', 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': 'Young Adults, Adults', 'Vintage': 'Yes', 'Signed': '', 'Pictures': 5}
-
-Name Value List:
- [('Illustrator', ''), ('Genre', 'Drama, Mystery, Victorian, Suspense'), ('Publisher', 'Bantam Books'), ('Publication Year', 1956), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Adventure'), ('Book Series', ''), ('Book Type', 'Novel'), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', 'Young Adults, Adults'), ('Vintage', 'Yes'), ('Signed', '')]
-
-Item Details:
- (2, 'Goodnight Moon', 'Margaret Wise Brown', 1, 'Clement Hurd', 'Children, Fantasy, Animals', 'Harper & Row', 1947, 20.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', '', 'English', 'Playtime', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 10)
-
-Item Dict:
- {'item_id': 2, 'Title': 'Goodnight Moon', 'Author': 'Margaret Wise Brown', 'Units': 1, 'Illustrator': 'Clement Hurd', 'Genre': 'Children, Fantasy, Animals', 'Publisher': 'Harper & Row', 'Publication Year': 1947, 'Price': 20.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Playtime', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 10}
-
-Name Value List:
- [('Illustrator', 'Clement Hurd'), ('Genre', 'Children, Fantasy, Animals'), ('Publisher', 'Harper & Row'), ('Publication Year', 1947), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Playtime'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
-
-Item Details:
- (3, "Oh, The Places You'll Go", 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1990, 15.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', 'Dust Jacket', 'English', 'Poetry', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 7)
-
-Item Dict:
- {'item_id': 3, 'Title': "Oh, The Places You'll Go", 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1990, 'Price': 15.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Poetry', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 7}
-
-Name Value List:
- [('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1990), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Poetry'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
-
-Item Details:
- (1, 'The Count of Monte Cristo', 'Alexandre Dumas', 1, '', 'Drama, Mystery, Victorian, Suspense', 'Bantam Books', 1956, 3.0, 'Used but in good condition.', 'Acceptable', 'Used', 'Paperback', 'Dust Jacket', 'English', 'Adventure', '', 'Novel', 'Fiction', '', '', '', 'Young Adults, Adults', 'Yes', '', 5)
-
-Item Dict:
- {'item_id': 1, 'Title': 'The Count of Monte Cristo', 'Author': 'Alexandre Dumas', 'Units': 1, 'Illustrator': '', 'Genre': 'Drama, Mystery, Victorian, Suspense', 'Publisher': 'Bantam Books', 'Publication Year': 1956, 'Price': 3.0, 'Description': 'Used but in good condition.', 'Condition': 'Acceptable', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Adventure', 'Book Series': '', 'Book Type': 'Novel', 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': 'Young Adults, Adults', 'Vintage': 'Yes', 'Signed': '', 'Pictures': 5}
-
-Name Value List:
- [('Illustrator', ''), ('Genre', 'Drama, Mystery, Victorian, Suspense'), ('Publisher', 'Bantam Books'), ('Publication Year', 1956), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Adventure'), ('Book Series', ''), ('Book Type', 'Novel'), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', 'Young Adults, Adults'), ('Vintage', 'Yes'), ('Signed', '')]
-
-Item Details:
- (1, 'The Count of Monte Cristo', 'Alexandre Dumas', 1, '', 'Drama, Mystery, Victorian, Suspense', 'Bantam Books', 1956, 3.0, 'Used but in good condition.', 'Acceptable', 'Used', 'Paperback', 'Dust Jacket', 'English', 'Adventure', '', 'Novel', 'Fiction', '', '', '', 'Young Adults, Adults', 'Yes', '', 5)
-
-Item Dict:
- {'item_id': 1, 'Title': 'The Count of Monte Cristo', 'Author': 'Alexandre Dumas', 'Units': 1, 'Illustrator': '', 'Genre': 'Drama, Mystery, Victorian, Suspense', 'Publisher': 'Bantam Books', 'Publication Year': 1956, 'Price': 3.0, 'Description': 'Used but in good condition.', 'Condition': 'Acceptable', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Adventure', 'Book Series': '', 'Book Type': 'Novel', 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': 'Young Adults, Adults', 'Vintage': 'Yes', 'Signed': '', 'Pictures': 5}
-
-Name Value List:
- [('Illustrator', ''), ('Genre', 'Drama, Mystery, Victorian, Suspense'), ('Publisher', 'Bantam Books'), ('Publication Year', 1956), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Adventure'), ('Book Series', ''), ('Book Type', 'Novel'), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', 'Young Adults, Adults'), ('Vintage', 'Yes'), ('Signed', '')]
-
-Item Details:
- (2, 'Goodnight Moon', 'Margaret Wise Brown', 1, 'Clement Hurd', 'Children, Fantasy, Animals', 'Harper & Row', 1947, 20.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', '', 'English', 'Playtime', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 10)
-
-Item Dict:
- {'item_id': 2, 'Title': 'Goodnight Moon', 'Author': 'Margaret Wise Brown', 'Units': 1, 'Illustrator': 'Clement Hurd', 'Genre': 'Children, Fantasy, Animals', 'Publisher': 'Harper & Row', 'Publication Year': 1947, 'Price': 20.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Playtime', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 10}
-
-Name Value List:
- [('Illustrator', 'Clement Hurd'), ('Genre', 'Children, Fantasy, Animals'), ('Publisher', 'Harper & Row'), ('Publication Year', 1947), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Playtime'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
-
-Item Details:
- (3, "Oh, The Places You'll Go", 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1990, 15.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', 'Dust Jacket', 'English', 'Poetry', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 7)
-
-Item Dict:
- {'item_id': 3, 'Title': "Oh, The Places You'll Go", 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1990, 'Price': 15.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Poetry', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 7}
-
-Name Value List:
- [('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1990), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Poetry'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
-
-Item Details:
  (1, 'The Count of Monte Cristo', 'Alexandre Dumas', 1, '', 'Drama, Mystery, Victorian, Suspense', 'Bantam Books', 1956, 3.0, 'Used but in good condition.', 'Acceptable', 'Used', 'Paperback', 'Dust Jacket', 'English', 'Adventure', '', 'Novel', 'Fiction', '', '', '', 'Young Adults, Adults', 'Yes', '', 5)
 
 Item Dict:
@@ -807,7 +402,7 @@ Item Dict:
  {'item_id': 1, 'Title': 'The Count of Monte Cristo', 'Author': 'Alexandre Dumas', 'Units': 1, 'Illustrator': '', 'Genre': 'Drama, Mystery, Victorian, Suspense', 'Publisher': 'Bantam Books', 'Publication Year': 1956, 'Price': 3.0, 'Description': 'Used but in good condition.', 'Condition': 'Acceptable', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Adventure', 'Book Series': '', 'Book Type': 'Novel', 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': 'Young Adults, Adults', 'Vintage': 'Yes', 'Signed': '', 'Pictures': 5}
 
 Name Value List:
- [('Title', 'The Count of Monte Cristo'), ('Genre', 'Drama, Mystery, Victorian, Suspense'), ('Publisher', 'Bantam Books'), ('Publication Year', 1956), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Adventure'), ('Book Series', ''), ('Book Type', 'Novel'), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', 'Young Adults, Adults'), ('Vintage', 'Yes'), ('Signed', '')]
+ [('Illustrator', ''), ('Genre', 'Drama, Mystery, Victorian, Suspense'), ('Publisher', 'Bantam Books'), ('Publication Year', 1956), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Adventure'), ('Book Series', ''), ('Book Type', 'Novel'), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', 'Young Adults, Adults'), ('Vintage', 'Yes'), ('Signed', '')]
 
 Item Details:
  (2, 'Goodnight Moon', 'Margaret Wise Brown', 1, 'Clement Hurd', 'Children, Fantasy, Animals', 'Harper & Row', 1947, 20.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', '', 'English', 'Playtime', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 10)
@@ -816,7 +411,7 @@ Item Dict:
  {'item_id': 2, 'Title': 'Goodnight Moon', 'Author': 'Margaret Wise Brown', 'Units': 1, 'Illustrator': 'Clement Hurd', 'Genre': 'Children, Fantasy, Animals', 'Publisher': 'Harper & Row', 'Publication Year': 1947, 'Price': 20.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Playtime', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 10}
 
 Name Value List:
- [('Title', 'Goodnight Moon'), ('Genre', 'Children, Fantasy, Animals'), ('Publisher', 'Harper & Row'), ('Publication Year', 1947), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Playtime'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+ [('Illustrator', 'Clement Hurd'), ('Genre', 'Children, Fantasy, Animals'), ('Publisher', 'Harper & Row'), ('Publication Year', 1947), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Playtime'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
 
 Item Details:
  (3, "Oh, The Places You'll Go", 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1990, 15.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', 'Dust Jacket', 'English', 'Poetry', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 7)
@@ -825,7 +420,7 @@ Item Dict:
  {'item_id': 3, 'Title': "Oh, The Places You'll Go", 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1990, 'Price': 15.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Poetry', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 7}
 
 Name Value List:
- [('Title', "Oh, The Places You'll Go"), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1990), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Poetry'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+ [('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1990), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Poetry'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
 
 Item Details:
  (4, 'Horton Hears A Who!', 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1982, 14.0, 'See pictures', 'Good', 'Torn pages.', 'Hardback', '', 'English', 'Children', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 3)
@@ -834,7 +429,7 @@ Item Dict:
  {'item_id': 4, 'Title': 'Horton Hears A Who!', 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1982, 'Price': 14.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Children', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 3}
 
 Name Value List:
- [('Title', 'Horton Hears A Who!'), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1982), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Children'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+ [('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1982), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Children'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
 
 Item Details:
  (1, 'The Count of Monte Cristo', 'Alexandre Dumas', 1, '', 'Drama, Mystery, Victorian, Suspense', 'Bantam Books', 1956, 3.0, 'Used but in good condition.', 'Acceptable', 'Used', 'Paperback', 'Dust Jacket', 'English', 'Adventure', '', 'Novel', 'Fiction', '', '', '', 'Young Adults, Adults', 'Yes', '', 5)
@@ -889,6 +484,294 @@ Item Dict:
 
 Name Value List:
  [('Title', 'Goodnight Moon'), ('Author', 'Margaret Wise Brown'), ('Illustrator', 'Clement Hurd'), ('Genre', 'Children, Fantasy, Animals'), ('Publisher', 'Harper & Row'), ('Publication Year', 1947), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Playtime'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (3, "Oh, The Places You'll Go", 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1990, 15.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', 'Dust Jacket', 'English', 'Poetry', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 7)
+
+Item Dict:
+ {'item_id': 3, 'Title': "Oh, The Places You'll Go", 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1990, 'Price': 15.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Poetry', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 7}
+
+Name Value List:
+ [('Title', "Oh, The Places You'll Go"), ('Author', 'Dr. Seuss'), ('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1990), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Poetry'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (4, 'Horton Hears A Who!', 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1982, 14.0, 'See pictures', 'Good', 'Torn pages.', 'Hardback', '', 'English', 'Children', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 3)
+
+Item Dict:
+ {'item_id': 4, 'Title': 'Horton Hears A Who!', 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1982, 'Price': 14.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Children', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 3}
+
+Name Value List:
+ [('Title', 'Horton Hears A Who!'), ('Author', 'Dr. Seuss'), ('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1982), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Children'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (1, 'The Count of Monte Cristo', 'Alexandre Dumas', 1, '', 'Drama, Mystery, Victorian, Suspense', 'Bantam Books', 1956, 3.0, 'Used but in good condition.', 'Acceptable', 'Used', 'Paperback', 'Dust Jacket', 'English', 'Adventure', '', 'Novel', 'Fiction', '', '', '', 'Young Adults, Adults', 'Yes', '', 5)
+
+Item Dict:
+ {'item_id': 1, 'Title': 'The Count of Monte Cristo', 'Author': 'Alexandre Dumas', 'Units': 1, 'Illustrator': '', 'Genre': 'Drama, Mystery, Victorian, Suspense', 'Publisher': 'Bantam Books', 'Publication Year': 1956, 'Price': 3.0, 'Description': 'Used but in good condition.', 'Condition': 'Acceptable', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Adventure', 'Book Series': '', 'Book Type': 'Novel', 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': 'Young Adults, Adults', 'Vintage': 'Yes', 'Signed': '', 'Pictures': 5}
+
+Name Value List:
+ [('Title', 'The Count of Monte Cristo'), ('Author', 'Alexandre Dumas'), ('Illustrator', ''), ('Genre', 'Drama, Mystery, Victorian, Suspense'), ('Publisher', 'Bantam Books'), ('Publication Year', 1956), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Adventure'), ('Book Series', ''), ('Book Type', 'Novel'), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', 'Young Adults, Adults'), ('Vintage', 'Yes'), ('Signed', '')]
+
+Item Details:
+ (2, 'Goodnight Moon', 'Margaret Wise Brown', 1, 'Clement Hurd', 'Children, Fantasy, Animals', 'Harper & Row', 1947, 20.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', '', 'English', 'Playtime', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 10)
+
+Item Dict:
+ {'item_id': 2, 'Title': 'Goodnight Moon', 'Author': 'Margaret Wise Brown', 'Units': 1, 'Illustrator': 'Clement Hurd', 'Genre': 'Children, Fantasy, Animals', 'Publisher': 'Harper & Row', 'Publication Year': 1947, 'Price': 20.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Playtime', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 10}
+
+Name Value List:
+ [('Title', 'Goodnight Moon'), ('Author', 'Margaret Wise Brown'), ('Illustrator', 'Clement Hurd'), ('Genre', 'Children, Fantasy, Animals'), ('Publisher', 'Harper & Row'), ('Publication Year', 1947), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Playtime'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (3, "Oh, The Places You'll Go", 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1990, 15.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', 'Dust Jacket', 'English', 'Poetry', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 7)
+
+Item Dict:
+ {'item_id': 3, 'Title': "Oh, The Places You'll Go", 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1990, 'Price': 15.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Poetry', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 7}
+
+Name Value List:
+ [('Title', "Oh, The Places You'll Go"), ('Author', 'Dr. Seuss'), ('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1990), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Poetry'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (4, 'Horton Hears A Who!', 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1982, 14.0, 'See pictures', 'Good', 'Torn pages.', 'Hardback', '', 'English', 'Children', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 3)
+
+Item Dict:
+ {'item_id': 4, 'Title': 'Horton Hears A Who!', 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1982, 'Price': 14.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Children', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 3}
+
+Name Value List:
+ [('Title', 'Horton Hears A Who!'), ('Author', 'Dr. Seuss'), ('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1982), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Children'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (1, 'The Count of Monte Cristo', 'Alexandre Dumas', 1, '', 'Drama, Mystery, Victorian, Suspense', 'Bantam Books', 1956, 3.0, 'Used but in good condition.', 'Acceptable', 'Used', 'Paperback', 'Dust Jacket', 'English', 'Adventure', '', 'Novel', 'Fiction', '', '', '', 'Young Adults, Adults', 'Yes', '', 5)
+
+Item Dict:
+ {'item_id': 1, 'Title': 'The Count of Monte Cristo', 'Author': 'Alexandre Dumas', 'Units': 1, 'Illustrator': '', 'Genre': 'Drama, Mystery, Victorian, Suspense', 'Publisher': 'Bantam Books', 'Publication Year': 1956, 'Price': 3.0, 'Description': 'Used but in good condition.', 'Condition': 'Acceptable', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Adventure', 'Book Series': '', 'Book Type': 'Novel', 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': 'Young Adults, Adults', 'Vintage': 'Yes', 'Signed': '', 'Pictures': 5}
+
+Name Value List:
+ [('Title', 'The Count of Monte Cristo'), ('Author', 'Alexandre Dumas'), ('Illustrator', ''), ('Genre', 'Drama, Mystery, Victorian, Suspense'), ('Publisher', 'Bantam Books'), ('Publication Year', 1956), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Adventure'), ('Book Series', ''), ('Book Type', 'Novel'), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', 'Young Adults, Adults'), ('Vintage', 'Yes'), ('Signed', '')]
+
+Item Details:
+ (2, 'Goodnight Moon', 'Margaret Wise Brown', 1, 'Clement Hurd', 'Children, Fantasy, Animals', 'Harper & Row', 1947, 20.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', '', 'English', 'Playtime', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 10)
+
+Item Dict:
+ {'item_id': 2, 'Title': 'Goodnight Moon', 'Author': 'Margaret Wise Brown', 'Units': 1, 'Illustrator': 'Clement Hurd', 'Genre': 'Children, Fantasy, Animals', 'Publisher': 'Harper & Row', 'Publication Year': 1947, 'Price': 20.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Playtime', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 10}
+
+Name Value List:
+ [('Title', 'Goodnight Moon'), ('Author', 'Margaret Wise Brown'), ('Illustrator', 'Clement Hurd'), ('Genre', 'Children, Fantasy, Animals'), ('Publisher', 'Harper & Row'), ('Publication Year', 1947), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Playtime'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (3, "Oh, The Places You'll Go", 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1990, 15.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', 'Dust Jacket', 'English', 'Poetry', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 7)
+
+Item Dict:
+ {'item_id': 3, 'Title': "Oh, The Places You'll Go", 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1990, 'Price': 15.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Poetry', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 7}
+
+Name Value List:
+ [('Title', "Oh, The Places You'll Go"), ('Author', 'Dr. Seuss'), ('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1990), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Poetry'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (4, 'Horton Hears A Who!', 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1982, 14.0, 'See pictures', 'Good', 'Torn pages.', 'Hardback', '', 'English', 'Children', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 3)
+
+Item Dict:
+ {'item_id': 4, 'Title': 'Horton Hears A Who!', 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1982, 'Price': 14.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Children', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 3}
+
+Name Value List:
+ [('Title', 'Horton Hears A Who!'), ('Author', 'Dr. Seuss'), ('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1982), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Children'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (1, 'The Count of Monte Cristo', 'Alexandre Dumas', 1, '', 'Drama, Mystery, Victorian, Suspense', 'Bantam Books', 1956, 3.0, 'Used but in good condition.', 'Acceptable', 'Used', 'Paperback', 'Dust Jacket', 'English', 'Adventure', '', 'Novel', 'Fiction', '', '', '', 'Young Adults, Adults', 'Yes', '', 5)
+
+Item Dict:
+ {'item_id': 1, 'Title': 'The Count of Monte Cristo', 'Author': 'Alexandre Dumas', 'Units': 1, 'Illustrator': '', 'Genre': 'Drama, Mystery, Victorian, Suspense', 'Publisher': 'Bantam Books', 'Publication Year': 1956, 'Price': 3.0, 'Description': 'Used but in good condition.', 'Condition': 'Acceptable', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Adventure', 'Book Series': '', 'Book Type': 'Novel', 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': 'Young Adults, Adults', 'Vintage': 'Yes', 'Signed': '', 'Pictures': 5}
+
+Name Value List:
+ [('Title', 'The Count of Monte Cristo'), ('Author', 'Alexandre Dumas'), ('Illustrator', ''), ('Genre', 'Drama, Mystery, Victorian, Suspense'), ('Publisher', 'Bantam Books'), ('Publication Year', 1956), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Adventure'), ('Book Series', ''), ('Book Type', 'Novel'), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', 'Young Adults, Adults'), ('Vintage', 'Yes'), ('Signed', '')]
+
+Item Details:
+ (2, 'Goodnight Moon', 'Margaret Wise Brown', 1, 'Clement Hurd', 'Children, Fantasy, Animals', 'Harper & Row', 1947, 20.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', '', 'English', 'Playtime', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 10)
+
+Item Dict:
+ {'item_id': 2, 'Title': 'Goodnight Moon', 'Author': 'Margaret Wise Brown', 'Units': 1, 'Illustrator': 'Clement Hurd', 'Genre': 'Children, Fantasy, Animals', 'Publisher': 'Harper & Row', 'Publication Year': 1947, 'Price': 20.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Playtime', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 10}
+
+Name Value List:
+ [('Title', 'Goodnight Moon'), ('Author', 'Margaret Wise Brown'), ('Illustrator', 'Clement Hurd'), ('Genre', 'Children, Fantasy, Animals'), ('Publisher', 'Harper & Row'), ('Publication Year', 1947), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Playtime'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (3, "Oh, The Places You'll Go", 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1990, 15.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', 'Dust Jacket', 'English', 'Poetry', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 7)
+
+Item Dict:
+ {'item_id': 3, 'Title': "Oh, The Places You'll Go", 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1990, 'Price': 15.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Poetry', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 7}
+
+Name Value List:
+ [('Title', "Oh, The Places You'll Go"), ('Author', 'Dr. Seuss'), ('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1990), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Poetry'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (4, 'Horton Hears A Who!', 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1982, 14.0, 'See pictures', 'Good', 'Torn pages.', 'Hardback', '', 'English', 'Children', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 3)
+
+Item Dict:
+ {'item_id': 4, 'Title': 'Horton Hears A Who!', 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1982, 'Price': 14.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Children', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 3}
+
+Name Value List:
+ [('Title', 'Horton Hears A Who!'), ('Author', 'Dr. Seuss'), ('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1982), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Children'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (1, 'The Count of Monte Cristo', 'Alexandre Dumas', 1, '', 'Drama, Mystery, Victorian, Suspense', 'Bantam Books', 1956, 3.0, 'Used but in good condition.', 'Acceptable', 'Used', 'Paperback', 'Dust Jacket', 'English', 'Adventure', '', 'Novel', 'Fiction', '', '', '', 'Young Adults, Adults', 'Yes', '', 5)
+
+Item Dict:
+ {'item_id': 1, 'Title': 'The Count of Monte Cristo', 'Author': 'Alexandre Dumas', 'Units': 1, 'Illustrator': '', 'Genre': 'Drama, Mystery, Victorian, Suspense', 'Publisher': 'Bantam Books', 'Publication Year': 1956, 'Price': 3.0, 'Description': 'Used but in good condition.', 'Condition': 'Acceptable', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Adventure', 'Book Series': '', 'Book Type': 'Novel', 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': 'Young Adults, Adults', 'Vintage': 'Yes', 'Signed': '', 'Pictures': 5}
+
+Name Value List:
+ [('Title', 'The Count of Monte Cristo'), ('Author', 'Alexandre Dumas'), ('Illustrator', ''), ('Genre', 'Drama, Mystery, Victorian, Suspense'), ('Publisher', 'Bantam Books'), ('Publication Year', 1956), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Adventure'), ('Book Series', ''), ('Book Type', 'Novel'), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', 'Young Adults, Adults'), ('Vintage', 'Yes'), ('Signed', '')]
+
+Item Details:
+ (2, 'Goodnight Moon', 'Margaret Wise Brown', 1, 'Clement Hurd', 'Children, Fantasy, Animals', 'Harper & Row', 1947, 20.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', '', 'English', 'Playtime', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 10)
+
+Item Dict:
+ {'item_id': 2, 'Title': 'Goodnight Moon', 'Author': 'Margaret Wise Brown', 'Units': 1, 'Illustrator': 'Clement Hurd', 'Genre': 'Children, Fantasy, Animals', 'Publisher': 'Harper & Row', 'Publication Year': 1947, 'Price': 20.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Playtime', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 10}
+
+Name Value List:
+ [('Title', 'Goodnight Moon'), ('Author', 'Margaret Wise Brown'), ('Illustrator', 'Clement Hurd'), ('Genre', 'Children, Fantasy, Animals'), ('Publisher', 'Harper & Row'), ('Publication Year', 1947), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Playtime'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (3, "Oh, The Places You'll Go", 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1990, 15.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', 'Dust Jacket', 'English', 'Poetry', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 7)
+
+Item Dict:
+ {'item_id': 3, 'Title': "Oh, The Places You'll Go", 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1990, 'Price': 15.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Poetry', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 7}
+
+Name Value List:
+ [('Title', "Oh, The Places You'll Go"), ('Author', 'Dr. Seuss'), ('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1990), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Poetry'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (4, 'Horton Hears A Who!', 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1982, 14.0, 'See pictures', 'Good', 'Torn pages.', 'Hardback', '', 'English', 'Children', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 3)
+
+Item Dict:
+ {'item_id': 4, 'Title': 'Horton Hears A Who!', 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1982, 'Price': 14.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Children', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 3}
+
+Name Value List:
+ [('Title', 'Horton Hears A Who!'), ('Author', 'Dr. Seuss'), ('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1982), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Children'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (1, 'The Count of Monte Cristo', 'Alexandre Dumas', 1, '', 'Drama, Mystery, Victorian, Suspense', 'Bantam Books', 1956, 3.0, 'Used but in good condition.', 'Acceptable', 'Used', 'Paperback', 'Dust Jacket', 'English', 'Adventure', '', 'Novel', 'Fiction', '', '', '', 'Young Adults, Adults', 'Yes', '', 5)
+
+Item Dict:
+ {'item_id': 1, 'Title': 'The Count of Monte Cristo', 'Author': 'Alexandre Dumas', 'Units': 1, 'Illustrator': '', 'Genre': 'Drama, Mystery, Victorian, Suspense', 'Publisher': 'Bantam Books', 'Publication Year': 1956, 'Price': 3.0, 'Description': 'Used but in good condition.', 'Condition': 'Acceptable', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Adventure', 'Book Series': '', 'Book Type': 'Novel', 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': 'Young Adults, Adults', 'Vintage': 'Yes', 'Signed': '', 'Pictures': 5}
+
+Name Value List:
+ [('Title', 'The Count of Monte Cristo'), ('Author', 'Alexandre Dumas'), ('Illustrator', ''), ('Genre', 'Drama, Mystery, Victorian, Suspense'), ('Publisher', 'Bantam Books'), ('Publication Year', 1956), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Adventure'), ('Book Series', ''), ('Book Type', 'Novel'), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', 'Young Adults, Adults'), ('Vintage', 'Yes'), ('Signed', '')]
+
+Item Details:
+ (2, 'Goodnight Moon', 'Margaret Wise Brown', 1, 'Clement Hurd', 'Children, Fantasy, Animals', 'Harper & Row', 1947, 20.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', '', 'English', 'Playtime', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 10)
+
+Item Dict:
+ {'item_id': 2, 'Title': 'Goodnight Moon', 'Author': 'Margaret Wise Brown', 'Units': 1, 'Illustrator': 'Clement Hurd', 'Genre': 'Children, Fantasy, Animals', 'Publisher': 'Harper & Row', 'Publication Year': 1947, 'Price': 20.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Playtime', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 10}
+
+Name Value List:
+ [('Title', 'Goodnight Moon'), ('Author', 'Margaret Wise Brown'), ('Illustrator', 'Clement Hurd'), ('Genre', 'Children, Fantasy, Animals'), ('Publisher', 'Harper & Row'), ('Publication Year', 1947), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Playtime'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (3, "Oh, The Places You'll Go", 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1990, 15.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', 'Dust Jacket', 'English', 'Poetry', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 7)
+
+Item Dict:
+ {'item_id': 3, 'Title': "Oh, The Places You'll Go", 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1990, 'Price': 15.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Poetry', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 7}
+
+Name Value List:
+ [('Title', "Oh, The Places You'll Go"), ('Author', 'Dr. Seuss'), ('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1990), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Poetry'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (4, 'Horton Hears A Who!', 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1982, 14.0, 'See pictures', 'Good', 'Torn pages.', 'Hardback', '', 'English', 'Children', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 3)
+
+Item Dict:
+ {'item_id': 4, 'Title': 'Horton Hears A Who!', 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1982, 'Price': 14.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Children', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 3}
+
+Name Value List:
+ [('Title', 'Horton Hears A Who!'), ('Author', 'Dr. Seuss'), ('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1982), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Children'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (1, 'The Count of Monte Cristo', 'Alexandre Dumas', 1, '', 'Drama, Mystery, Victorian, Suspense', 'Bantam Books', 1956, 3.0, 'Used but in good condition.', 'Acceptable', 'Used', 'Paperback', 'Dust Jacket', 'English', 'Adventure', '', 'Novel', 'Fiction', '', '', '', 'Young Adults, Adults', 'Yes', '', 5)
+
+Item Dict:
+ {'item_id': 1, 'Title': 'The Count of Monte Cristo', 'Author': 'Alexandre Dumas', 'Units': 1, 'Illustrator': '', 'Genre': 'Drama, Mystery, Victorian, Suspense', 'Publisher': 'Bantam Books', 'Publication Year': 1956, 'Price': 3.0, 'Description': 'Used but in good condition.', 'Condition': 'Acceptable', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Adventure', 'Book Series': '', 'Book Type': 'Novel', 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': 'Young Adults, Adults', 'Vintage': 'Yes', 'Signed': '', 'Pictures': 5}
+
+Name Value List:
+ [('Title', 'The Count of Monte Cristo'), ('Author', 'Alexandre Dumas'), ('Illustrator', ''), ('Genre', 'Drama, Mystery, Victorian, Suspense'), ('Publisher', 'Bantam Books'), ('Publication Year', 1956), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Adventure'), ('Book Series', ''), ('Book Type', 'Novel'), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', 'Young Adults, Adults'), ('Vintage', 'Yes'), ('Signed', '')]
+
+Item Details:
+ (2, 'Goodnight Moon', 'Margaret Wise Brown', 1, 'Clement Hurd', 'Children, Fantasy, Animals', 'Harper & Row', 1947, 20.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', '', 'English', 'Playtime', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 10)
+
+Item Dict:
+ {'item_id': 2, 'Title': 'Goodnight Moon', 'Author': 'Margaret Wise Brown', 'Units': 1, 'Illustrator': 'Clement Hurd', 'Genre': 'Children, Fantasy, Animals', 'Publisher': 'Harper & Row', 'Publication Year': 1947, 'Price': 20.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Playtime', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 10}
+
+Name Value List:
+ [('Title', 'Goodnight Moon'), ('Author', 'Margaret Wise Brown'), ('Illustrator', 'Clement Hurd'), ('Genre', 'Children, Fantasy, Animals'), ('Publisher', 'Harper & Row'), ('Publication Year', 1947), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Playtime'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (3, "Oh, The Places You'll Go", 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1990, 15.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', 'Dust Jacket', 'English', 'Poetry', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 7)
+
+Item Dict:
+ {'item_id': 3, 'Title': "Oh, The Places You'll Go", 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1990, 'Price': 15.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Poetry', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 7}
+
+Name Value List:
+ [('Title', "Oh, The Places You'll Go"), ('Author', 'Dr. Seuss'), ('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1990), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Poetry'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (4, 'Horton Hears A Who!', 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1982, 14.0, 'See pictures', 'Good', 'Torn pages.', 'Hardback', '', 'English', 'Children', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 3)
+
+Item Dict:
+ {'item_id': 4, 'Title': 'Horton Hears A Who!', 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1982, 'Price': 14.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Children', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 3}
+
+Name Value List:
+ [('Title', 'Horton Hears A Who!'), ('Author', 'Dr. Seuss'), ('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1982), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Children'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (1, 'The Count of Monte Cristo', 'Alexandre Dumas', 1, '', 'Drama, Mystery, Victorian, Suspense', 'Bantam Books', 1956, 3.0, 'Used but in good condition.', 'Acceptable', 'Used', 'Paperback', 'Dust Jacket', 'English', 'Adventure', '', 'Novel', 'Fiction', '', '', '', 'Young Adults, Adults', 'Yes', '', 5)
+
+Item Dict:
+ {'item_id': 1, 'Title': 'The Count of Monte Cristo', 'Author': 'Alexandre Dumas', 'Units': 1, 'Illustrator': '', 'Genre': 'Drama, Mystery, Victorian, Suspense', 'Publisher': 'Bantam Books', 'Publication Year': 1956, 'Price': 3.0, 'Description': 'Used but in good condition.', 'Condition': 'Acceptable', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Adventure', 'Book Series': '', 'Book Type': 'Novel', 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': 'Young Adults, Adults', 'Vintage': 'Yes', 'Signed': '', 'Pictures': 5}
+
+Name Value List:
+ [('Title', 'The Count of Monte Cristo'), ('Author', 'Alexandre Dumas'), ('Illustrator', ''), ('Genre', 'Drama, Mystery, Victorian, Suspense'), ('Publisher', 'Bantam Books'), ('Publication Year', 1956), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Adventure'), ('Book Series', ''), ('Book Type', 'Novel'), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', 'Young Adults, Adults'), ('Vintage', 'Yes'), ('Signed', '')]
+
+Item Details:
+ (2, 'Goodnight Moon', 'Margaret Wise Brown', 1, 'Clement Hurd', 'Children, Fantasy, Animals', 'Harper & Row', 1947, 20.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', '', 'English', 'Playtime', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 10)
+
+Item Dict:
+ {'item_id': 2, 'Title': 'Goodnight Moon', 'Author': 'Margaret Wise Brown', 'Units': 1, 'Illustrator': 'Clement Hurd', 'Genre': 'Children, Fantasy, Animals', 'Publisher': 'Harper & Row', 'Publication Year': 1947, 'Price': 20.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Playtime', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 10}
+
+Name Value List:
+ [('Title', 'Goodnight Moon'), ('Author', 'Margaret Wise Brown'), ('Illustrator', 'Clement Hurd'), ('Genre', 'Children, Fantasy, Animals'), ('Publisher', 'Harper & Row'), ('Publication Year', 1947), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Playtime'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (3, "Oh, The Places You'll Go", 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1990, 15.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', 'Dust Jacket', 'English', 'Poetry', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 7)
+
+Item Dict:
+ {'item_id': 3, 'Title': "Oh, The Places You'll Go", 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1990, 'Price': 15.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Poetry', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 7}
+
+Name Value List:
+ [('Title', "Oh, The Places You'll Go"), ('Author', 'Dr. Seuss'), ('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1990), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Poetry'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (4, 'Horton Hears A Who!', 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1982, 14.0, 'See pictures', 'Good', 'Torn pages.', 'Hardback', '', 'English', 'Children', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 3)
+
+Item Dict:
+ {'item_id': 4, 'Title': 'Horton Hears A Who!', 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1982, 'Price': 14.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Children', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 3}
+
+Name Value List:
+ [('Title', 'Horton Hears A Who!'), ('Author', 'Dr. Seuss'), ('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1982), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Children'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (1, 'The Count of Monte Cristo', 'Alexandre Dumas', 1, '', 'Drama, Mystery, Victorian, Suspense', 'Bantam Books', 1956, 3.0, 'Used but in good condition.', 'Acceptable', 'Used', 'Paperback', 'Dust Jacket', 'English', 'Adventure', '', 'Novel', 'Fiction', '', '', '', 'Young Adults, Adults', 'Yes', '', 5)
+
+Item Dict:
+ {'item_id': 1, 'Title': 'The Count of Monte Cristo', 'Author': 'Alexandre Dumas', 'Units': 1, 'Illustrator': '', 'Genre': 'Drama, Mystery, Victorian, Suspense', 'Publisher': 'Bantam Books', 'Publication Year': 1956, 'Price': 3.0, 'Description': 'Used but in good condition.', 'Condition': 'Acceptable', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Adventure', 'Book Series': '', 'Book Type': 'Novel', 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': 'Young Adults, Adults', 'Vintage': 'Yes', 'Signed': '', 'Pictures': 5}
+
+Name Value List:
+ [('Title', 'The Count of Monte Cristo'), ('Author', 'Alexandre Dumas'), ('Illustrator', ''), ('Genre', 'Drama, Mystery, Victorian, Suspense'), ('Publisher', 'Bantam Books'), ('Publication Year', 1956), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Adventure'), ('Book Series', ''), ('Book Type', 'Novel'), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', 'Young Adults, Adults'), ('Vintage', 'Yes'), ('Signed', '')]
+
+Item Details:
+ (2, 'Goodnight Moon', 'Margaret Wise Brown', 1, 'Clement Hurd', 'Children, Fantasy, Animals', 'Harper and Row', 1947, 20.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', '', 'English', 'Playtime', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 10)
+
+Item Dict:
+ {'item_id': 2, 'Title': 'Goodnight Moon', 'Author': 'Margaret Wise Brown', 'Units': 1, 'Illustrator': 'Clement Hurd', 'Genre': 'Children, Fantasy, Animals', 'Publisher': 'Harper and Row', 'Publication Year': 1947, 'Price': 20.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Playtime', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 10}
+
+Name Value List:
+ [('Title', 'Goodnight Moon'), ('Author', 'Margaret Wise Brown'), ('Illustrator', 'Clement Hurd'), ('Genre', 'Children, Fantasy, Animals'), ('Publisher', 'Harper and Row'), ('Publication Year', 1947), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Playtime'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
 
 Item Details:
  (3, "Oh, The Places You'll Go", 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1990, 15.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', 'Dust Jacket', 'English', 'Poetry', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 7)

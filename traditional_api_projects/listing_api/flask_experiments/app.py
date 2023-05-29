@@ -6,6 +6,7 @@ import os
 import sys
 from modules.load_csv import read_csv 
 from modules.pending import pending_check
+from modules.additem import add_item
 
 
 
@@ -22,6 +23,8 @@ print("Done with CSV Call")
 #query the database for pending and posted items
 product_ids = pending_check()
 print(product_ids)
+with open('product_ids.txt', 'a') as f:
+    print(product_ids, file=f)
 print("Done with Pending Check")
 
 
@@ -126,82 +129,31 @@ def api_calls():
       'X-EBAY-API-DEV-NAME': 'dae89547-48b8-4c4b-9e57-e8e9a84527dd',
       'X-EBAY-API-APP-NAME': 'AlexisGo-pricepre-PRD-3ca7161d2-d3ef5057',  
       'X-EBAY-API-CERT-NAME': 'PRD-ca7161d2a58b-663b-4c87-9cec-8cbd',
-      'X-EBAY-API-CALL-NAME': 'VerifyAddItem',
+      'X-EBAY-API-CALL-NAME': 'AddItem',
       'X-EBAY-API-SITEID': '0',
       'Content-Type' : 'text/xml'}
           
-          verify_data = f'''<?xml version="1.0" encoding="utf-8"?>
-  <VerifyAddItemRequest xmlns="urn:ebay:apis:eBLBaseComponents">
-    <RequesterCredentials>
-      <eBayAuthToken>{token[0]}</eBayAuthToken>
-    </RequesterCredentials>
-    <ErrorLanguage>en_US</ErrorLanguage>
-    <WarningLevel>High</WarningLevel>
-    <Item>
-      <Title>Harry Potter and the Philosopher's Stone</Title>
-      <Description>
-        This is the first book in the Harry Potter series. In excellent condition!
-      </Description>
-      <PrimaryCategory>
-        <CategoryID>261186</CategoryID>
-      </PrimaryCategory>
-      <StartPrice>1.0</StartPrice>
-      <CategoryMappingAllowed>true</CategoryMappingAllowed>
-      <ConditionID>4000</ConditionID>
-      <Country>US</Country>
-      <Currency>USD</Currency>
-      <DispatchTimeMax>3</DispatchTimeMax>
-      <ListingDuration>Days_7</ListingDuration>
-      <ListingType>Chinese</ListingType>
-      <PictureDetails>
-        <PictureURL>https://alexismonroy.github.io/images/montecristo4.jpg</PictureURL>
-      </PictureDetails>
-      <PostalCode>95125</PostalCode>
-      <Quantity>1</Quantity>
-      <ItemSpecifics>     
-      <NameValueList> 
-          <Name>Title</Name>
-          <Value>Harry Potter and the Philosophers Stone</Value> 
-      </NameValueList> 
-      <NameValueList> 
-          <Name>Publisher</Name> 
-          <Value>Smashwords</Value> 
-      </NameValueList> 
-      <NameValueList> 
-          <Name>Author</Name> 
-          <Value>JK Rowling</Value> 
-      </NameValueList> 
-      <NameValueList> 
-          <Name>Language</Name> 
-          <Value>English</Value> 
-      </NameValueList>
-      </ItemSpecifics>
-      <ReturnPolicy>
-        <ReturnsAcceptedOption>ReturnsAccepted</ReturnsAcceptedOption>
-        <RefundOption>MoneyBack</RefundOption>
-        <ReturnsWithinOption>Days_30</ReturnsWithinOption>
-        <ShippingCostPaidByOption>Buyer</ShippingCostPaidByOption>
-      </ReturnPolicy>
-      <ShippingDetails>
-        <ShippingType>Flat</ShippingType>
-        <ShippingServiceOptions>
-          <ShippingServicePriority>1</ShippingServicePriority>
-          <ShippingService>USPSMedia</ShippingService>
-          <ShippingServiceCost>2.50</ShippingServiceCost>
-        </ShippingServiceOptions>
-      </ShippingDetails>
-      <Site>US</Site>
-    </Item>
-  </VerifyAddItemRequest>'''
-          
-          verify_response = requests.post(url, headers=api_call_headers, data=verify_data)
-          print(verify_response.status_code)
-          print(verify_response.text)
-          print("Done with API Call")
-          with open('resp_output/api_call_response.txt', 'w') as f:
-              f.write(verify_response.text)
-              f.write("\n\n\n")
-              f.write(str(verify_response))
+          verify_data = add_item(product_ids, token[0])
+
+          with open('resp_output/verify_data.txt', 'w') as f:
+              f.write(str(verify_data))
+          print("TYPE:\n", type(verify_data))
+
+          for i in range(0, len(verify_data)):
+
+            verify_response = requests.post(url, headers=api_call_headers, data=verify_data[i])
+            print(verify_response.status_code)
+            print(verify_response.text)
+            print("Done with API Call")
+            with open('resp_output/api_call_response.txt', 'a') as f:
+                f.write("Start:\n:" + str(datetime.datetime.now())) 
+                f.write(str(len(verify_data)))
+                print("\n\n\n")
+                f.write(str(verify_response))
+                f.write("\n\n\n")
+                f.write(str(verify_response.text))
+                print("\n\n\n")
+                print("End:\n:" + str(datetime.datetime.now()))
           return render_template('api_calls.html', get_time_response=verify_response)
         
         #GetCategoryFeatures call

@@ -51,7 +51,7 @@ def add_item(product_list, token):
             for key in item_dict:
                 item_dict[key] = item_details[count]
                 #add name value pairs to a list
-                if key in ['Illustrator', 'Genre', 'Publisher', 'Publication Year', 'Description', 'Condition Description', 'Book Format', 'Features', 'Language', 'Topic', 'Book Series', 'Book Type', 'Narrative Type', 'Edition', 'Manufactured', 'Inscibed', 'Intended Audience', 'Vintage', 'Signed']:
+                if key in ['Title', 'Author', 'Illustrator', 'Genre', 'Publisher', 'Publication Year', 'Description', 'Condition Description', 'Book Format', 'Features', 'Language', 'Topic', 'Book Series', 'Book Type', 'Narrative Type', 'Edition', 'Manufactured', 'Inscibed', 'Intended Audience', 'Vintage', 'Signed']:
                     name_value_list.append((key, item_dict[key]))
                 #increment the count variable
                 count += 1
@@ -79,14 +79,14 @@ def add_item(product_list, token):
                             #store the names and values in variables
                             name = name_value_list[i][k]
                             value = word.strip()
-                            name_value = f'''<Name>{name}</Name><Value>{value}</Value>'''
+                            name_value = f'''<NameValueList><Name>{name}</Name><Value>{value}</Value></NameValueList>'''
                             name_value_call = name_value_call + name_value
                     else:
                         #add the name value pair to the name value call
                         #store the names and values in variables
                         name = name_value_list[i][k]
                         value = name_value_list[i][j]
-                        name_value = f'''<Name>{name}</Name><Value>{value}</Value>'''
+                        name_value = f'''<NameValueList><Name>{name}</Name><Value>{value}</Value></NameValueList>'''
                         name_value_call = name_value_call + name_value
             if name_value_call != "":
                 call_list.append(name_value_call)
@@ -101,7 +101,10 @@ def add_item(product_list, token):
             pic_details = ""
             #append the picture name
             for i in range(0, num_pics):
-                picture_name = item_dict['Title'] + str(i)
+                #store the picture name in a variable and delete the spaces:
+                og_picture = item_dict['Title']
+                picture = og_picture.replace(" ", "")
+                picture_name = picture + str(i)
                 print("\nPicture Name:\n", picture_name)
                 pic_location = pic_site + picture_name + ".jpg"
                 pic_details = pic_details + f'''<PictureURL>{pic_location}</PictureURL>'''
@@ -116,7 +119,7 @@ def add_item(product_list, token):
                 
 
             verify_data = f'''<?xml version="1.0" encoding="utf-8"?>
-  <VerifyAddItemRequest xmlns="urn:ebay:apis:eBLBaseComponents">
+  <AddItemRequest xmlns="urn:ebay:apis:eBLBaseComponents">
     <RequesterCredentials>
       <eBayAuthToken>{token}</eBayAuthToken>
     </RequesterCredentials>
@@ -162,7 +165,7 @@ def add_item(product_list, token):
       </ShippingDetails>
       <Site>US</Site>
     </Item>
-  </VerifyAddItemRequest>'''
+  </AddItemRequest>'''
 
             add_item_list.append(verify_data)
             print("\nCALL:\n", verify_data)             
