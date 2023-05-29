@@ -138,6 +138,8 @@ def api_calls():
           with open('resp_output/verify_data.txt', 'w') as f:
               f.write(str(verify_data))
           print("TYPE:\n", type(verify_data))
+          with open('resp_output/start_end.txt', 'w') as f:
+              f.write("START:\n:" + str(datetime.datetime.now()))
 
           for i in range(0, len(verify_data)):
 
@@ -154,6 +156,8 @@ def api_calls():
                 f.write(str(verify_response.text))
                 print("\n\n\n")
                 print("End:\n:" + str(datetime.datetime.now()))
+          with open('resp_output/start_end.txt', 'a') as f:
+              f.write("END:\n:" + str(datetime.datetime.now()))
           return render_template('api_calls.html', get_time_response=verify_response)
         
         #GetCategoryFeatures call

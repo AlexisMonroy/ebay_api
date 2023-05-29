@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GetSessionIDResponse xmlns="urn:ebay:apis:eBLBaseComponents"><Timestamp>2023-05-29T18:46:40.458Z</Timestamp><Ack>Success</Ack><Version>1207</Version><Build>E1207_CORE_APISIGNIN_19151597_R1</Build><SessionID>v%5E1.1%23i%5E1%23f%5E0%23p%5E1%23r%5E1%23I%5E3%23t%5EUl41XzU6RUUyQ0I1OTdCQzE0QjYyN0E5MTNBOUVCRUFCQzE3QkZfMl8xI0VeMjYw</SessionID></GetSessionIDResponse>
+<GetSessionIDResponse xmlns="urn:ebay:apis:eBLBaseComponents"><Timestamp>2023-05-29T21:27:48.880Z</Timestamp><Ack>Success</Ack><Version>1207</Version><Build>E1207_CORE_APISIGNIN_19151597_R1</Build><SessionID>v%5E1.1%23i%5E1%23I%5E3%23r%5E1%23p%5E1%23f%5E0%23t%5EUl41XzE6OUE1QUI4NDc3NTM1OTlGODE4QjNFNTU4MUZBODU4MzdfMl8xI0VeMjYw</SessionID></GetSessionIDResponse>
 
 
-<Element '{urn:ebay:apis:eBLBaseComponents}GetSessionIDResponse' at 0x000001C2F0FBAA70>
+<Element '{urn:ebay:apis:eBLBaseComponents}GetSessionIDResponse' at 0x00000179A523CA40>
 
 
-{'{urn:ebay:apis:eBLBaseComponents}Timestamp': '2023-05-29T18:46:40.458Z', '{urn:ebay:apis:eBLBaseComponents}Ack': 'Success', '{urn:ebay:apis:eBLBaseComponents}Version': '1207', '{urn:ebay:apis:eBLBaseComponents}Build': 'E1207_CORE_APISIGNIN_19151597_R1', '{urn:ebay:apis:eBLBaseComponents}SessionID': 'v%5E1.1%23i%5E1%23f%5E0%23p%5E1%23r%5E1%23I%5E3%23t%5EUl41XzU6RUUyQ0I1OTdCQzE0QjYyN0E5MTNBOUVCRUFCQzE3QkZfMl8xI0VeMjYw'}
+{'{urn:ebay:apis:eBLBaseComponents}Timestamp': '2023-05-29T21:27:48.880Z', '{urn:ebay:apis:eBLBaseComponents}Ack': 'Success', '{urn:ebay:apis:eBLBaseComponents}Version': '1207', '{urn:ebay:apis:eBLBaseComponents}Build': 'E1207_CORE_APISIGNIN_19151597_R1', '{urn:ebay:apis:eBLBaseComponents}SessionID': 'v%5E1.1%23i%5E1%23I%5E3%23r%5E1%23p%5E1%23f%5E0%23t%5EUl41XzE6OUE1QUI4NDc3NTM1OTlGODE4QjNFNTU4MUZBODU4MzdfMl8xI0VeMjYw'}
 
 
 <?xml version="1.0" encoding="UTF-8"?>
-<FetchTokenResponse xmlns="urn:ebay:apis:eBLBaseComponents"><Timestamp>2023-05-29T18:47:12.070Z</Timestamp><Ack>Success</Ack><Version>1207</Version><Build>E1207_CORE_APISIGNIN_19151597_R1</Build><eBayAuthToken>v^1.1#i^1#f^0#r^1#p^3#I^3#t^Ul4xMF8xMDo4QjAwNkQ5NjMwMzdEMTU2RTQxRkFFREZFODhGRUE0MF8zXzEjRV4yNjA=</eBayAuthToken><HardExpirationTime>2024-11-19T18:47:08.000Z</HardExpirationTime></FetchTokenResponse>
+<FetchTokenResponse xmlns="urn:ebay:apis:eBLBaseComponents"><Timestamp>2023-05-29T21:28:16.870Z</Timestamp><Ack>Success</Ack><Version>1207</Version><Build>E1207_CORE_APISIGNIN_19151597_R1</Build><eBayAuthToken>v^1.1#i^1#f^0#p^3#I^3#r^1#t^Ul4xMF80OkM0MTcxQjk0OTYwREMyMjAxMTU3RTFCRTg4QThDRDE4XzNfMSNFXjI2MA==</eBayAuthToken><HardExpirationTime>2024-11-19T21:28:12.000Z</HardExpirationTime></FetchTokenResponse>
 
 
-<Element '{urn:ebay:apis:eBLBaseComponents}FetchTokenResponse' at 0x000001C2F0FFF470>
+<Element '{urn:ebay:apis:eBLBaseComponents}FetchTokenResponse' at 0x00000179A52A5120>

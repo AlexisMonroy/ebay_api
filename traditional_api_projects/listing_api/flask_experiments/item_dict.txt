@@ -790,3 +790,1011 @@ Item Dict:
 
 Name Value List:
  [('Title', 'Horton Hears A Who!'), ('Author', 'Dr. Seuss'), ('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1982), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Children'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (1, 'The Count of Monte Cristo', 'Alexandre Dumas', 1, '', 'Drama, Mystery, Victorian, Suspense', 'Bantam Books', 1956, 3.0, 'Used but in good condition.', 'Acceptable', 'Used', 'Paperback', 'Dust Jacket', 'English', 'Adventure', '', 'Novel', 'Fiction', '', '', '', 'Young Adults, Adults', 'Yes', '', 5)
+
+Item Dict:
+ {'item_id': 1, 'Title': 'The Count of Monte Cristo', 'Author': 'Alexandre Dumas', 'Units': 1, 'Illustrator': '', 'Genre': 'Drama, Mystery, Victorian, Suspense', 'Publisher': 'Bantam Books', 'Publication Year': 1956, 'Price': 3.0, 'Description': 'Used but in good condition.', 'Condition': 'Acceptable', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Adventure', 'Book Series': '', 'Book Type': 'Novel', 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': 'Young Adults, Adults', 'Vintage': 'Yes', 'Signed': '', 'Pictures': 5}
+
+Name Value List:
+ [('Title', 'The Count of Monte Cristo'), ('Author', 'Alexandre Dumas'), ('Illustrator', ''), ('Genre', 'Drama, Mystery, Victorian, Suspense'), ('Publisher', 'Bantam Books'), ('Publication Year', 1956), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Adventure'), ('Book Series', ''), ('Book Type', 'Novel'), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', 'Young Adults, Adults'), ('Vintage', 'Yes'), ('Signed', '')]
+
+Item Details:
+ (2, 'Goodnight Moon', 'Margaret Wise Brown', 1, 'Clement Hurd', 'Children, Fantasy, Animals', 'Harper and Row', 1947, 20.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', '', 'English', 'Playtime', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 10)
+
+Item Dict:
+ {'item_id': 2, 'Title': 'Goodnight Moon', 'Author': 'Margaret Wise Brown', 'Units': 1, 'Illustrator': 'Clement Hurd', 'Genre': 'Children, Fantasy, Animals', 'Publisher': 'Harper and Row', 'Publication Year': 1947, 'Price': 20.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Playtime', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 10}
+
+Name Value List:
+ [('Title', 'Goodnight Moon'), ('Author', 'Margaret Wise Brown'), ('Illustrator', 'Clement Hurd'), ('Genre', 'Children, Fantasy, Animals'), ('Publisher', 'Harper and Row'), ('Publication Year', 1947), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Playtime'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (3, "Oh, The Places You'll Go", 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1990, 15.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', 'Dust Jacket', 'English', 'Poetry', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 7)
+
+Item Dict:
+ {'item_id': 3, 'Title': "Oh, The Places You'll Go", 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1990, 'Price': 15.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': 'Poetry', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 7}
+
+Name Value List:
+ [('Title', "Oh, The Places You'll Go"), ('Author', 'Dr. Seuss'), ('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1990), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', 'Poetry'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (4, 'Horton Hears A Who!', 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1982, 14.0, 'See pictures', 'Good', 'Torn pages.', 'Hardback', '', 'English', 'Children', '', "Kid's book", 'Fiction', '', '', '', '', '', '', 3)
+
+Item Dict:
+ {'item_id': 4, 'Title': 'Horton Hears A Who!', 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1982, 'Price': 14.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': 'Children', 'Book Series': '', 'Book Type': "Kid's book", 'Narrative Type': 'Fiction', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 3}
+
+Name Value List:
+ [('Title', 'Horton Hears A Who!'), ('Author', 'Dr. Seuss'), ('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1982), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', 'Children'), ('Book Series', ''), ('Book Type', "Kid's book"), ('Narrative Type', 'Fiction'), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (5, 'The Sneetches and Other Stories', 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1989, 5.0, 'Used but in good condition.', 'Very Good', 'Used', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 5, 'Title': 'The Sneetches and Other Stories', 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1989, 'Price': 5.0, 'Description': 'Used but in good condition.', 'Condition': 'Very Good', 'Condition Description': 'Used', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'The Sneetches and Other Stories'), ('Author', 'Dr. Seuss'), ('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1989), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (6, 'Green Eggs and Ham', 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1988, 15.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 6, 'Title': 'Green Eggs and Ham', 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1988, 'Price': 15.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Green Eggs and Ham'), ('Author', 'Dr. Seuss'), ('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1988), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (7, 'Ten Apples Up On Top!', 'Dr. Seuss as Theo. LeSieg', 1, 'Roy McKie', 'Children, Fantasy, Educational, Humor', 'Random House', 1989, 1.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 7, 'Title': 'Ten Apples Up On Top!', 'Author': 'Dr. Seuss as Theo. LeSieg', 'Units': 1, 'Illustrator': 'Roy McKie', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1989, 'Price': 1.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Ten Apples Up On Top!'), ('Author', 'Dr. Seuss as Theo. LeSieg'), ('Illustrator', 'Roy McKie'), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1989), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (8, 'The Cat in the Hat', 'Dr. Seuss', 1, '', 'Children, Fantasy, Educational, Humor', 'Random House', 1985, 2.0, 'See pictures', 'Good', 'Torn pages.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 8, 'Title': 'The Cat in the Hat', 'Author': 'Dr. Seuss', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1985, 'Price': 2.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'The Cat in the Hat'), ('Author', 'Dr. Seuss'), ('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1985), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (9, 'The Little Engine that Could', 'Watty Piper', 1, 'George and Doris Hauman', 'Children, Fantasy, Educational, Humor, Trains, Animals', 'Platt and Munk', 1961, 3.0, 'Used but in good condition.', 'Good', 'Used', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 9, 'Title': 'The Little Engine that Could', 'Author': 'Watty Piper', 'Units': 1, 'Illustrator': 'George and Doris Hauman', 'Genre': 'Children, Fantasy, Educational, Humor, Trains, Animals', 'Publisher': 'Platt and Munk', 'Publication Year': 1961, 'Price': 3.0, 'Description': 'Used but in good condition.', 'Condition': 'Good', 'Condition Description': 'Used', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'The Little Engine that Could'), ('Author', 'Watty Piper'), ('Illustrator', 'George and Doris Hauman'), ('Genre', 'Children, Fantasy, Educational, Humor, Trains, Animals'), ('Publisher', 'Platt and Munk'), ('Publication Year', 1961), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (10, "The Mirror Crack'd", 'Agatha Christie', 1, '', 'Mystery, Detective, Suspense, Drama, Murder, Thriller,', 'Pocket Books', 1964, 4.0, 'Good condition, minimal wear.', 'Acceptable', 'No visible wear.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 10, 'Title': "The Mirror Crack'd", 'Author': 'Agatha Christie', 'Units': 1, 'Illustrator': '', 'Genre': 'Mystery, Detective, Suspense, Drama, Murder, Thriller,', 'Publisher': 'Pocket Books', 'Publication Year': 1964, 'Price': 4.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Acceptable', 'Condition Description': 'No visible wear.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', "The Mirror Crack'd"), ('Author', 'Agatha Christie'), ('Illustrator', ''), ('Genre', 'Mystery, Detective, Suspense, Drama, Murder, Thriller,'), ('Publisher', 'Pocket Books'), ('Publication Year', 1964), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (11, "Kids' Book of Gross Facts and Feats", 'Todd Strasser', 1, 'Donna Reynolds', 'Children, Educational, Humor, Animals, Biology, Insects', 'Watermill Press', 1998, 10.0, 'Minimal wear.', 'Acceptable', 'Folds on pages.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 11, 'Title': "Kids' Book of Gross Facts and Feats", 'Author': 'Todd Strasser', 'Units': 1, 'Illustrator': 'Donna Reynolds', 'Genre': 'Children, Educational, Humor, Animals, Biology, Insects', 'Publisher': 'Watermill Press', 'Publication Year': 1998, 'Price': 10.0, 'Description': 'Minimal wear.', 'Condition': 'Acceptable', 'Condition Description': 'Folds on pages.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', "Kids' Book of Gross Facts and Feats"), ('Author', 'Todd Strasser'), ('Illustrator', 'Donna Reynolds'), ('Genre', 'Children, Educational, Humor, Animals, Biology, Insects'), ('Publisher', 'Watermill Press'), ('Publication Year', 1998), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (12, 'Sesame Street - Grover Takes Care of Baby', 'Emily Thompson', 1, 'Tom Cooke', 'Children, Fantasy, Educational, Humor, Trains, Animals, Babies', 'Little Golden Books', 1987, 11.0, 'See pictures', 'Good', 'Torn pages.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 12, 'Title': 'Sesame Street - Grover Takes Care of Baby', 'Author': 'Emily Thompson', 'Units': 1, 'Illustrator': 'Tom Cooke', 'Genre': 'Children, Fantasy, Educational, Humor, Trains, Animals, Babies', 'Publisher': 'Little Golden Books', 'Publication Year': 1987, 'Price': 11.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Sesame Street - Grover Takes Care of Baby'), ('Author', 'Emily Thompson'), ('Illustrator', 'Tom Cooke'), ('Genre', 'Children, Fantasy, Educational, Humor, Trains, Animals, Babies'), ('Publisher', 'Little Golden Books'), ('Publication Year', 1987), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (13, 'Star Wars - Little Golden Book Collection', 'Courtney Carbone, Christopher Nicholas, Geof Smith', 1, 'Heather Martinez, Ethen Beavers, Patrick Spaziante, Caleb Meurer, Micky Rose, Chris Kennett, Ron Cohee', 'Children, Fantasy, Educational, Humor, Sci Fi', 'Little Golden Books', 2016, 12.0, 'Used but in good condition.', 'Good', 'Used', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 13, 'Title': 'Star Wars - Little Golden Book Collection', 'Author': 'Courtney Carbone, Christopher Nicholas, Geof Smith', 'Units': 1, 'Illustrator': 'Heather Martinez, Ethen Beavers, Patrick Spaziante, Caleb Meurer, Micky Rose, Chris Kennett, Ron Cohee', 'Genre': 'Children, Fantasy, Educational, Humor, Sci Fi', 'Publisher': 'Little Golden Books', 'Publication Year': 2016, 'Price': 12.0, 'Description': 'Used but in good condition.', 'Condition': 'Good', 'Condition Description': 'Used', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Star Wars - Little Golden Book Collection'), ('Author', 'Courtney Carbone, Christopher Nicholas, Geof Smith'), ('Illustrator', 'Heather Martinez, Ethen Beavers, Patrick Spaziante, Caleb Meurer, Micky Rose, Chris Kennett, Ron Cohee'), ('Genre', 'Children, Fantasy, Educational, Humor, Sci Fi'), ('Publisher', 'Little Golden Books'), ('Publication Year', 2016), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (14, 'The Jungle Book', 'Rudyard Kipling', 1, '', 'Children, Educational, Humor, Animals', 'Little Golden Books', 1967, 13.0, 'Good condition, minimal wear.', 'Acceptable', 'No visible wear.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 14, 'Title': 'The Jungle Book', 'Author': 'Rudyard Kipling', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Educational, Humor, Animals', 'Publisher': 'Little Golden Books', 'Publication Year': 1967, 'Price': 13.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Acceptable', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'The Jungle Book'), ('Author', 'Rudyard Kipling'), ('Illustrator', ''), ('Genre', 'Children, Educational, Humor, Animals'), ('Publisher', 'Little Golden Books'), ('Publication Year', 1967), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (15, '101 Dalmatians', 'Justine Korman', 1, 'Bill Langley and Ron Dias', 'Children, Educational, Humor, Animals, Fantasy', 'Little Golden Books', 1991, 14.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 15, 'Title': '101 Dalmatians', 'Author': 'Justine Korman', 'Units': 1, 'Illustrator': 'Bill Langley and Ron Dias', 'Genre': 'Children, Educational, Humor, Animals, Fantasy', 'Publisher': 'Little Golden Books', 'Publication Year': 1991, 'Price': 14.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', '101 Dalmatians'), ('Author', 'Justine Korman'), ('Illustrator', 'Bill Langley and Ron Dias'), ('Genre', 'Children, Educational, Humor, Animals, Fantasy'), ('Publisher', 'Little Golden Books'), ('Publication Year', 1991), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (16, 'A Series of Unfortunate Events - The Reptile Room', 'Lemony Snicket', 1, 'Brett Helquist', 'Children, Drama, Mystery, Suspense, Thriller, Young Adult', 'Harper Collins', 1999, 15.0, 'See pictures', 'Good', 'Torn pages.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 16, 'Title': 'A Series of Unfortunate Events - The Reptile Room', 'Author': 'Lemony Snicket', 'Units': 1, 'Illustrator': 'Brett Helquist', 'Genre': 'Children, Drama, Mystery, Suspense, Thriller, Young Adult', 'Publisher': 'Harper Collins', 'Publication Year': 1999, 'Price': 15.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'A Series of Unfortunate Events - The Reptile Room'), ('Author', 'Lemony Snicket'), ('Illustrator', 'Brett Helquist'), ('Genre', 'Children, Drama, Mystery, Suspense, Thriller, Young Adult'), ('Publisher', 'Harper Collins'), ('Publication Year', 1999), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (17, 'Junie B. Jones is a Beauty Shop Guy', 'Barbara Park', 1, 'Denise Brunkus', 'Children, Fantasy, Educational, Humor', 'Random House', 1998, 161.0, 'Used but in good condition.', 'Acceptable', 'Used', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 17, 'Title': 'Junie B. Jones is a Beauty Shop Guy', 'Author': 'Barbara Park', 'Units': 1, 'Illustrator': 'Denise Brunkus', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1998, 'Price': 161.0, 'Description': 'Used but in good condition.', 'Condition': 'Acceptable', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Junie B. Jones is a Beauty Shop Guy'), ('Author', 'Barbara Park'), ('Illustrator', 'Denise Brunkus'), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1998), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (18, 'Junie B. Jones and the Mushy Gushy Valentime', 'Barbara Park', 1, 'Denise Brunkus', 'Children, Fantasy, Educational, Humor', 'Random House', 1999, 7.0, 'Good condition, minimal wear.', 'Acceptable', 'No visible wear.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 18, 'Title': 'Junie B. Jones and the Mushy Gushy Valentime', 'Author': 'Barbara Park', 'Units': 1, 'Illustrator': 'Denise Brunkus', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 1999, 'Price': 7.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Acceptable', 'Condition Description': 'No visible wear.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Junie B. Jones and the Mushy Gushy Valentime'), ('Author', 'Barbara Park'), ('Illustrator', 'Denise Brunkus'), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 1999), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (19, 'Junie B. Jones Has a Peep in Her Pocket', 'Barbara Park', 1, 'Denise Brunkus', 'Children, Fantasy, Educational, Humor', 'Random House', 2000, 18.0, 'Minimal wear.', 'Acceptable', 'Folds on pages.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 19, 'Title': 'Junie B. Jones Has a Peep in Her Pocket', 'Author': 'Barbara Park', 'Units': 1, 'Illustrator': 'Denise Brunkus', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Random House', 'Publication Year': 2000, 'Price': 18.0, 'Description': 'Minimal wear.', 'Condition': 'Acceptable', 'Condition Description': 'Folds on pages.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Junie B. Jones Has a Peep in Her Pocket'), ('Author', 'Barbara Park'), ('Illustrator', 'Denise Brunkus'), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Random House'), ('Publication Year', 2000), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (20, 'Bullies Are a Pain in the Brain', 'Trevor Romain', 1, 'Trevor Romain', 'Children, Fantasy, Educational, Humor', 'Free Spirit Publishing', 1997, 19.0, 'See pictures', 'Good', 'Torn pages.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 20, 'Title': 'Bullies Are a Pain in the Brain', 'Author': 'Trevor Romain', 'Units': 1, 'Illustrator': 'Trevor Romain', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Free Spirit Publishing', 'Publication Year': 1997, 'Price': 19.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Bullies Are a Pain in the Brain'), ('Author', 'Trevor Romain'), ('Illustrator', 'Trevor Romain'), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Free Spirit Publishing'), ('Publication Year', 1997), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (21, 'Fish!', 'Stephen C. Lundin Ph.D., Harry Paul and John Christensen', 1, '', 'Educational, Self Help, Careers, Business', 'Hyperion', 2000, 20.0, 'Used but in good condition.', 'Good', 'Used', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 21, 'Title': 'Fish!', 'Author': 'Stephen C. Lundin Ph.D., Harry Paul and John Christensen', 'Units': 1, 'Illustrator': '', 'Genre': 'Educational, Self Help, Careers, Business', 'Publisher': 'Hyperion', 'Publication Year': 2000, 'Price': 20.0, 'Description': 'Used but in good condition.', 'Condition': 'Good', 'Condition Description': 'Used', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Fish!'), ('Author', 'Stephen C. Lundin Ph.D., Harry Paul and John Christensen'), ('Illustrator', ''), ('Genre', 'Educational, Self Help, Careers, Business'), ('Publisher', 'Hyperion'), ('Publication Year', 2000), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (22, 'The Time Machine and Invisible Man', 'H.G. Wells', 1, '', 'Fantasy, Sci Fi, Thriller, Drama, Suspense', 'Signet Classic', 1984, 34.0, 'Good condition, minimal wear.', 'Acceptable', 'No visible wear.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 22, 'Title': 'The Time Machine and Invisible Man', 'Author': 'H.G. Wells', 'Units': 1, 'Illustrator': '', 'Genre': 'Fantasy, Sci Fi, Thriller, Drama, Suspense', 'Publisher': 'Signet Classic', 'Publication Year': 1984, 'Price': 34.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Acceptable', 'Condition Description': 'No visible wear.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'The Time Machine and Invisible Man'), ('Author', 'H.G. Wells'), ('Illustrator', ''), ('Genre', 'Fantasy, Sci Fi, Thriller, Drama, Suspense'), ('Publisher', 'Signet Classic'), ('Publication Year', 1984), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (23, 'The Westing Game', 'Ellen Raskin', 1, '', 'Adult, Mystery, Murder, Thriller, Suspense', 'Scholastic', 1978, 31.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 23, 'Title': 'The Westing Game', 'Author': 'Ellen Raskin', 'Units': 1, 'Illustrator': '', 'Genre': 'Adult, Mystery, Murder, Thriller, Suspense', 'Publisher': 'Scholastic', 'Publication Year': 1978, 'Price': 31.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'The Westing Game'), ('Author', 'Ellen Raskin'), ('Illustrator', ''), ('Genre', 'Adult, Mystery, Murder, Thriller, Suspense'), ('Publisher', 'Scholastic'), ('Publication Year', 1978), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (24, 'The New Bible Commentary Revised', 'D. Guthrie, J.A Motyer, A.M. Stibbs, D.G. Wiseman', 1, '', 'Religion, Christianity, Spirituality, History, Commentary', 'Guide Posts', 1984, 25.0, 'See pictures', 'Good', 'Torn pages.', 'Hardback', 'Dust Jacket', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 24, 'Title': 'The New Bible Commentary Revised', 'Author': 'D. Guthrie, J.A Motyer, A.M. Stibbs, D.G. Wiseman', 'Units': 1, 'Illustrator': '', 'Genre': 'Religion, Christianity, Spirituality, History, Commentary', 'Publisher': 'Guide Posts', 'Publication Year': 1984, 'Price': 25.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'The New Bible Commentary Revised'), ('Author', 'D. Guthrie, J.A Motyer, A.M. Stibbs, D.G. Wiseman'), ('Illustrator', ''), ('Genre', 'Religion, Christianity, Spirituality, History, Commentary'), ('Publisher', 'Guide Posts'), ('Publication Year', 1984), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (25, 'Goosebumps - Night of the Living Dummy', 'R.L. Stine', 1, '', 'Children, Young Adult, Thriller, Humor, Suspense, Scary', 'Scholastic', 1993, 180.0, 'Used but in good condition.', 'Acceptable', 'Used', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 25, 'Title': 'Goosebumps - Night of the Living Dummy', 'Author': 'R.L. Stine', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Young Adult, Thriller, Humor, Suspense, Scary', 'Publisher': 'Scholastic', 'Publication Year': 1993, 'Price': 180.0, 'Description': 'Used but in good condition.', 'Condition': 'Acceptable', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Goosebumps - Night of the Living Dummy'), ('Author', 'R.L. Stine'), ('Illustrator', ''), ('Genre', 'Children, Young Adult, Thriller, Humor, Suspense, Scary'), ('Publisher', 'Scholastic'), ('Publication Year', 1993), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (26, 'A Boy at War', 'Harry Mazer', 1, '', 'Children, Young Adult, Thriller, War, Military, History, Suspense', 'Scholastic', 2001, 1.0, 'Good condition, minimal wear.', 'Acceptable', 'No visible wear.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 26, 'Title': 'A Boy at War', 'Author': 'Harry Mazer', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Young Adult, Thriller, War, Military, History, Suspense', 'Publisher': 'Scholastic', 'Publication Year': 2001, 'Price': 1.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Acceptable', 'Condition Description': 'No visible wear.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'A Boy at War'), ('Author', 'Harry Mazer'), ('Illustrator', ''), ('Genre', 'Children, Young Adult, Thriller, War, Military, History, Suspense'), ('Publisher', 'Scholastic'), ('Publication Year', 2001), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (27, 'Nancy Drew - Ghost Stories', 'Carolyn Keene', 1, '', 'Children, Young Adult, Thriller, Suspense, Horror', 'Aladdin Paperbacks', 1983, 23.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 27, 'Title': 'Nancy Drew - Ghost Stories', 'Author': 'Carolyn Keene', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Young Adult, Thriller, Suspense, Horror', 'Publisher': 'Aladdin Paperbacks', 'Publication Year': 1983, 'Price': 23.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Nancy Drew - Ghost Stories'), ('Author', 'Carolyn Keene'), ('Illustrator', ''), ('Genre', 'Children, Young Adult, Thriller, Suspense, Horror'), ('Publisher', 'Aladdin Paperbacks'), ('Publication Year', 1983), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (28, 'The Maze Runner', 'James Dashner', 1, '', 'Young Adult, Suspense, Adventure, Thriller, Sci Fi', 'Delacorte Press', 2009, 4.0, 'See pictures', 'Good', 'Torn pages.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 28, 'Title': 'The Maze Runner', 'Author': 'James Dashner', 'Units': 1, 'Illustrator': '', 'Genre': 'Young Adult, Suspense, Adventure, Thriller, Sci Fi', 'Publisher': 'Delacorte Press', 'Publication Year': 2009, 'Price': 4.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'The Maze Runner'), ('Author', 'James Dashner'), ('Illustrator', ''), ('Genre', 'Young Adult, Suspense, Adventure, Thriller, Sci Fi'), ('Publisher', 'Delacorte Press'), ('Publication Year', 2009), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (29, 'Wayside School Gets A Little Stranger', 'Louis Sachar', 1, '', 'Children, Fantasy, Educational, Humor', 'Avon Camelot', 1996, 5.0, 'Used but in good condition.', 'Acceptable', 'Used', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 29, 'Title': 'Wayside School Gets A Little Stranger', 'Author': 'Louis Sachar', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Avon Camelot', 'Publication Year': 1996, 'Price': 5.0, 'Description': 'Used but in good condition.', 'Condition': 'Acceptable', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Wayside School Gets A Little Stranger'), ('Author', 'Louis Sachar'), ('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Avon Camelot'), ('Publication Year', 1996), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (30, 'Captain Underpants and the Invasion of the Incredibly Naughy Cafeteria Ladies From Outer Space', 'Dav Pilkey', 1, '', 'Children, Fantasy, Educational, Humor, Sci Fi', 'Scholastic', 1999, 6.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 30, 'Title': 'Captain Underpants and the Invasion of the Incredibly Naughy Cafeteria Ladies From Outer Space', 'Author': 'Dav Pilkey', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor, Sci Fi', 'Publisher': 'Scholastic', 'Publication Year': 1999, 'Price': 6.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Captain Underpants and the Invasion of the Incredibly Naughy Cafeteria Ladies From Outer Space'), ('Author', 'Dav Pilkey'), ('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor, Sci Fi'), ('Publisher', 'Scholastic'), ('Publication Year', 1999), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (31, 'Junie B. Jones - First Grader (At Last!)', 'Barbara Park', 1, 'Denise Brunkus', 'Children, Fantasy, Educational, Humor', 'Scholastic', 2002, 7.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 31, 'Title': 'Junie B. Jones - First Grader (At Last!)', 'Author': 'Barbara Park', 'Units': 1, 'Illustrator': 'Denise Brunkus', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Scholastic', 'Publication Year': 2002, 'Price': 7.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Junie B. Jones - First Grader (At Last!)'), ('Author', 'Barbara Park'), ('Illustrator', 'Denise Brunkus'), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Scholastic'), ('Publication Year', 2002), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (32, 'Nancy Drew and the Clue Crew - Case of the Sneaky Snowman', 'Carolyn Keene', 1, 'Macky Pamintuan', 'Children, Young Adult, Thriller, Suspense, Mystery', 'Scholastic', 2007, 8.0, 'See pictures', 'Good', 'Torn pages.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 32, 'Title': 'Nancy Drew and the Clue Crew - Case of the Sneaky Snowman', 'Author': 'Carolyn Keene', 'Units': 1, 'Illustrator': 'Macky Pamintuan', 'Genre': 'Children, Young Adult, Thriller, Suspense, Mystery', 'Publisher': 'Scholastic', 'Publication Year': 2007, 'Price': 8.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Nancy Drew and the Clue Crew - Case of the Sneaky Snowman'), ('Author', 'Carolyn Keene'), ('Illustrator', 'Macky Pamintuan'), ('Genre', 'Children, Young Adult, Thriller, Suspense, Mystery'), ('Publisher', 'Scholastic'), ('Publication Year', 2007), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (33, 'Captain Underpants and the Attack of the Talking Toilets', 'Dav Pilkey', 1, '', 'Children, Fantasy, Educational, Humor, Sci Fi', 'Scholastic', 1999, 9.0, 'Used but in good condition.', 'Good', 'Used', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 33, 'Title': 'Captain Underpants and the Attack of the Talking Toilets', 'Author': 'Dav Pilkey', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor, Sci Fi', 'Publisher': 'Scholastic', 'Publication Year': 1999, 'Price': 9.0, 'Description': 'Used but in good condition.', 'Condition': 'Good', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Captain Underpants and the Attack of the Talking Toilets'), ('Author', 'Dav Pilkey'), ('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor, Sci Fi'), ('Publisher', 'Scholastic'), ('Publication Year', 1999), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (34, 'Junie B. Jones - Aloha-ha-ha!', 'Barbara Park', 1, 'Denise Brunkus', 'Children, Fantasy, Educational, Humor', 'Scholastic', 2007, 8.0, 'Good condition, minimal wear.', 'Acceptable', 'No visible wear.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 34, 'Title': 'Junie B. Jones - Aloha-ha-ha!', 'Author': 'Barbara Park', 'Units': 1, 'Illustrator': 'Denise Brunkus', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Scholastic', 'Publication Year': 2007, 'Price': 8.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Acceptable', 'Condition Description': 'No visible wear.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Junie B. Jones - Aloha-ha-ha!'), ('Author', 'Barbara Park'), ('Illustrator', 'Denise Brunkus'), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Scholastic'), ('Publication Year', 2007), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (35, 'True Stories of Heavenly Encounters - Where Miracles Happen', 'Joan Wester Anderson', 1, '', 'Religion, Christianity, Spirituality, History, Commentary', 'Guide Posts', 1994, 7.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', 'Dust Jacket', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 35, 'Title': 'True Stories of Heavenly Encounters - Where Miracles Happen', 'Author': 'Joan Wester Anderson', 'Units': 1, 'Illustrator': '', 'Genre': 'Religion, Christianity, Spirituality, History, Commentary', 'Publisher': 'Guide Posts', 'Publication Year': 1994, 'Price': 7.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'True Stories of Heavenly Encounters - Where Miracles Happen'), ('Author', 'Joan Wester Anderson'), ('Illustrator', ''), ('Genre', 'Religion, Christianity, Spirituality, History, Commentary'), ('Publisher', 'Guide Posts'), ('Publication Year', 1994), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (36, 'MIracles and Other Wonders', 'Charles Sellier', 1, '', 'Religion, Christianity, Spirituality, History, Commentary', 'Guide Posts', 1994, 6.0, 'See pictures', 'Good', 'Torn pages.', 'Hardback', 'Dust Jacket', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 36, 'Title': 'MIracles and Other Wonders', 'Author': 'Charles Sellier', 'Units': 1, 'Illustrator': '', 'Genre': 'Religion, Christianity, Spirituality, History, Commentary', 'Publisher': 'Guide Posts', 'Publication Year': 1994, 'Price': 6.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'MIracles and Other Wonders'), ('Author', 'Charles Sellier'), ('Illustrator', ''), ('Genre', 'Religion, Christianity, Spirituality, History, Commentary'), ('Publisher', 'Guide Posts'), ('Publication Year', 1994), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (37, 'Organic Living', 'Michael Van Straten', 1, 'David Loftus', 'Health, Lifestyle, Nature, Food, Educational', 'Frances Lincoln Unlimited', 2001, 5.0, 'Used but in good condition.', 'Good', 'Used', 'Hardback', 'Dust Jacket', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 37, 'Title': 'Organic Living', 'Author': 'Michael Van Straten', 'Units': 1, 'Illustrator': 'David Loftus', 'Genre': 'Health, Lifestyle, Nature, Food, Educational', 'Publisher': 'Frances Lincoln Unlimited', 'Publication Year': 2001, 'Price': 5.0, 'Description': 'Used but in good condition.', 'Condition': 'Good', 'Condition Description': 'Used', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Organic Living'), ('Author', 'Michael Van Straten'), ('Illustrator', 'David Loftus'), ('Genre', 'Health, Lifestyle, Nature, Food, Educational'), ('Publisher', 'Frances Lincoln Unlimited'), ('Publication Year', 2001), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (38, 'Southern Living - The Quick and Easy Cookbook Menus Recipes and Tips', 'Lee Cannon', 1, '', 'Food, Recipes, Cooking, Baking, Tutorial, Educational', 'Oxmoor House', 1979, 4.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', 'Dust Jacket', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 38, 'Title': 'Southern Living - The Quick and Easy Cookbook Menus Recipes and Tips', 'Author': 'Lee Cannon', 'Units': 1, 'Illustrator': '', 'Genre': 'Food, Recipes, Cooking, Baking, Tutorial, Educational', 'Publisher': 'Oxmoor House', 'Publication Year': 1979, 'Price': 4.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Southern Living - The Quick and Easy Cookbook Menus Recipes and Tips'), ('Author', 'Lee Cannon'), ('Illustrator', ''), ('Genre', 'Food, Recipes, Cooking, Baking, Tutorial, Educational'), ('Publisher', 'Oxmoor House'), ('Publication Year', 1979), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (39, 'How to Avoid Probate with a Revocable Living Trust', 'Jay M. Barry', 1, '', 'Educational, Finance, Self Help, Money', 'Homestead Publishing Company', 1987, 3.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 39, 'Title': 'How to Avoid Probate with a Revocable Living Trust', 'Author': 'Jay M. Barry', 'Units': 1, 'Illustrator': '', 'Genre': 'Educational, Finance, Self Help, Money', 'Publisher': 'Homestead Publishing Company', 'Publication Year': 1987, 'Price': 3.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'How to Avoid Probate with a Revocable Living Trust'), ('Author', 'Jay M. Barry'), ('Illustrator', ''), ('Genre', 'Educational, Finance, Self Help, Money'), ('Publisher', 'Homestead Publishing Company'), ('Publication Year', 1987), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (40, 'Enyclopedia of Estate Planning', 'Robert S. Holzman', 1, '', 'Educational, Finance, Self Help, Money', 'Boardroom Classics', 1988, 2.0, 'See pictures', 'Good', 'Torn pages.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 40, 'Title': 'Enyclopedia of Estate Planning', 'Author': 'Robert S. Holzman', 'Units': 1, 'Illustrator': '', 'Genre': 'Educational, Finance, Self Help, Money', 'Publisher': 'Boardroom Classics', 'Publication Year': 1988, 'Price': 2.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Enyclopedia of Estate Planning'), ('Author', 'Robert S. Holzman'), ('Illustrator', ''), ('Genre', 'Educational, Finance, Self Help, Money'), ('Publisher', 'Boardroom Classics'), ('Publication Year', 1988), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (41, 'The Family Legal Advisor', 'Alice K. Helm', 1, '', 'Educational, Finance, Self Help, Money, Law, Legal Help', 'Ottenheimer Publishers', 1978, 3.0, 'Used but in good condition.', 'Good', 'Used', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 41, 'Title': 'The Family Legal Advisor', 'Author': 'Alice K. Helm', 'Units': 1, 'Illustrator': '', 'Genre': 'Educational, Finance, Self Help, Money, Law, Legal Help', 'Publisher': 'Ottenheimer Publishers', 'Publication Year': 1978, 'Price': 3.0, 'Description': 'Used but in good condition.', 'Condition': 'Good', 'Condition Description': 'Used', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'The Family Legal Advisor'), ('Author', 'Alice K. Helm'), ('Illustrator', ''), ('Genre', 'Educational, Finance, Self Help, Money, Law, Legal Help'), ('Publisher', 'Ottenheimer Publishers'), ('Publication Year', 1978), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (42, 'The Silmarillion', 'J.R.R Tolkien', 1, '', 'Fantasy, Epic, Adventure, Thriller, Fiction, History', 'George Allen and Unwin', 1977, 4.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 42, 'Title': 'The Silmarillion', 'Author': 'J.R.R Tolkien', 'Units': 1, 'Illustrator': '', 'Genre': 'Fantasy, Epic, Adventure, Thriller, Fiction, History', 'Publisher': 'George Allen and Unwin', 'Publication Year': 1977, 'Price': 4.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'The Silmarillion'), ('Author', 'J.R.R Tolkien'), ('Illustrator', ''), ('Genre', 'Fantasy, Epic, Adventure, Thriller, Fiction, History'), ('Publisher', 'George Allen and Unwin'), ('Publication Year', 1977), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (43, 'High Moment - Stories of Supreme Crises in the LIves of Great Men', 'Wallace Brockway', 1, '', 'History, Educational, Self Help, Motivation, Leaders', 'Simon and Schuster', 1955, 5.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 43, 'Title': 'High Moment - Stories of Supreme Crises in the LIves of Great Men', 'Author': 'Wallace Brockway', 'Units': 1, 'Illustrator': '', 'Genre': 'History, Educational, Self Help, Motivation, Leaders', 'Publisher': 'Simon and Schuster', 'Publication Year': 1955, 'Price': 5.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'High Moment - Stories of Supreme Crises in the LIves of Great Men'), ('Author', 'Wallace Brockway'), ('Illustrator', ''), ('Genre', 'History, Educational, Self Help, Motivation, Leaders'), ('Publisher', 'Simon and Schuster'), ('Publication Year', 1955), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (44, 'The Velevteen Rabbis or How Toys Become Real', 'Margery Williams', 1, 'Michael Green', 'Children, fantasy, educational, adventure, animals', 'Running Press', 1981, 5.0, 'See pictures', 'Good ', 'Torn pages.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 44, 'Title': 'The Velevteen Rabbis or How Toys Become Real', 'Author': 'Margery Williams', 'Units': 1, 'Illustrator': 'Michael Green', 'Genre': 'Children, fantasy, educational, adventure, animals', 'Publisher': 'Running Press', 'Publication Year': 1981, 'Price': 5.0, 'Description': 'See pictures', 'Condition': 'Good ', 'Condition Description': 'Torn pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'The Velevteen Rabbis or How Toys Become Real'), ('Author', 'Margery Williams'), ('Illustrator', 'Michael Green'), ('Genre', 'Children, fantasy, educational, adventure, animals'), ('Publisher', 'Running Press'), ('Publication Year', 1981), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (45, 'Vanishing Wildlife of North America', 'National Geographic Society - Thomas B. Allen', 1, 'David R. Bridge', 'Educational, animals, history, wildlife, nature', 'National Geographic Society', 1974, 6.0, 'Used but in good condition.', 'Good', 'Used', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 45, 'Title': 'Vanishing Wildlife of North America', 'Author': 'National Geographic Society - Thomas B. Allen', 'Units': 1, 'Illustrator': 'David R. Bridge', 'Genre': 'Educational, animals, history, wildlife, nature', 'Publisher': 'National Geographic Society', 'Publication Year': 1974, 'Price': 6.0, 'Description': 'Used but in good condition.', 'Condition': 'Good', 'Condition Description': 'Used', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Vanishing Wildlife of North America'), ('Author', 'National Geographic Society - Thomas B. Allen'), ('Illustrator', 'David R. Bridge'), ('Genre', 'Educational, animals, history, wildlife, nature'), ('Publisher', 'National Geographic Society'), ('Publication Year', 1974), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (46, 'American Mountain People', 'Clay Anderson, Charlton Ogburn, Bill Peterson', 1, 'Bryan D. Hodgson', 'History, educational, america, people, pictures', 'National Geographic Society', 1973, 7.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 46, 'Title': 'American Mountain People', 'Author': 'Clay Anderson, Charlton Ogburn, Bill Peterson', 'Units': 1, 'Illustrator': 'Bryan D. Hodgson', 'Genre': 'History, educational, america, people, pictures', 'Publisher': 'National Geographic Society', 'Publication Year': 1973, 'Price': 7.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'American Mountain People'), ('Author', 'Clay Anderson, Charlton Ogburn, Bill Peterson'), ('Illustrator', 'Bryan D. Hodgson'), ('Genre', 'History, educational, america, people, pictures'), ('Publisher', 'National Geographic Society'), ('Publication Year', 1973), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (47, "America's Magnificent Mountains", 'Lous de Haba, Ralph Gray, Sallie M. Greenwood', 1, 'Suez B. Kehl', 'History, educational, america, nature, pictures, mountains', 'National Geographic Society', 1980, 7.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 47, 'Title': "America's Magnificent Mountains", 'Author': 'Lous de Haba, Ralph Gray, Sallie M. Greenwood', 'Units': 1, 'Illustrator': 'Suez B. Kehl', 'Genre': 'History, educational, america, nature, pictures, mountains', 'Publisher': 'National Geographic Society', 'Publication Year': 1980, 'Price': 7.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', "America's Magnificent Mountains"), ('Author', 'Lous de Haba, Ralph Gray, Sallie M. Greenwood'), ('Illustrator', 'Suez B. Kehl'), ('Genre', 'History, educational, america, nature, pictures, mountains'), ('Publisher', 'National Geographic Society'), ('Publication Year', 1980), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (48, 'Illustrated Dictionary of Chinese Acupuncture', 'Zhang Rui-fu, Wu Xiu-fen, Nissi S. Wang', 1, '', 'Medicine, holistic, self help, therapy, history, educational', "Sheep's Publications", 1985, 8.0, 'See pictures', 'Good', 'Torn pages.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 48, 'Title': 'Illustrated Dictionary of Chinese Acupuncture', 'Author': 'Zhang Rui-fu, Wu Xiu-fen, Nissi S. Wang', 'Units': 1, 'Illustrator': '', 'Genre': 'Medicine, holistic, self help, therapy, history, educational', 'Publisher': "Sheep's Publications", 'Publication Year': 1985, 'Price': 8.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Illustrated Dictionary of Chinese Acupuncture'), ('Author', 'Zhang Rui-fu, Wu Xiu-fen, Nissi S. Wang'), ('Illustrator', ''), ('Genre', 'Medicine, holistic, self help, therapy, history, educational'), ('Publisher', "Sheep's Publications"), ('Publication Year', 1985), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (49, 'I Am American (And So Can You!)', 'Stephen Colbert', 1, '', 'Politics, humor, america, celebrity,', 'Spartina Productions', 2007, 9.0, 'Used but in good condition.', 'Good', 'Used', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 49, 'Title': 'I Am American (And So Can You!)', 'Author': 'Stephen Colbert', 'Units': 1, 'Illustrator': '', 'Genre': 'Politics, humor, america, celebrity,', 'Publisher': 'Spartina Productions', 'Publication Year': 2007, 'Price': 9.0, 'Description': 'Used but in good condition.', 'Condition': 'Good', 'Condition Description': 'Used', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'I Am American (And So Can You!)'), ('Author', 'Stephen Colbert'), ('Illustrator', ''), ('Genre', 'Politics, humor, america, celebrity,'), ('Publisher', 'Spartina Productions'), ('Publication Year', 2007), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (50, 'I Ching', 'Rudolf Ritsema and Stephen Karcher', 1, '', 'Spiritual, oriental, asian, history, culture, occult, metaphysical, divination', 'Barnes and Noble', 1995, 8.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 50, 'Title': 'I Ching', 'Author': 'Rudolf Ritsema and Stephen Karcher', 'Units': 1, 'Illustrator': '', 'Genre': 'Spiritual, oriental, asian, history, culture, occult, metaphysical, divination', 'Publisher': 'Barnes and Noble', 'Publication Year': 1995, 'Price': 8.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'I Ching'), ('Author', 'Rudolf Ritsema and Stephen Karcher'), ('Illustrator', ''), ('Genre', 'Spiritual, oriental, asian, history, culture, occult, metaphysical, divination'), ('Publisher', 'Barnes and Noble'), ('Publication Year', 1995), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (51, 'The Divine Comedy of Dante Alighieri 3 Paradiso', 'John D. Sinclair', 1, '', 'History, poetry, spiritual, philosophy, ', 'Oxford University Press', 1961, 8.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 51, 'Title': 'The Divine Comedy of Dante Alighieri 3 Paradiso', 'Author': 'John D. Sinclair', 'Units': 1, 'Illustrator': '', 'Genre': 'History, poetry, spiritual, philosophy, ', 'Publisher': 'Oxford University Press', 'Publication Year': 1961, 'Price': 8.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'The Divine Comedy of Dante Alighieri 3 Paradiso'), ('Author', 'John D. Sinclair'), ('Illustrator', ''), ('Genre', 'History, poetry, spiritual, philosophy, '), ('Publisher', 'Oxford University Press'), ('Publication Year', 1961), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (52, 'Analytic Dictionary of Chinese and Sino-Japanese ', 'Bernhard Karlgren', 1, '', 'Educational, language, asian, chinese, japanese', 'Dover Publications', 1974, 7.0, 'See pictures', 'Good', 'Torn pages.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 52, 'Title': 'Analytic Dictionary of Chinese and Sino-Japanese ', 'Author': 'Bernhard Karlgren', 'Units': 1, 'Illustrator': '', 'Genre': 'Educational, language, asian, chinese, japanese', 'Publisher': 'Dover Publications', 'Publication Year': 1974, 'Price': 7.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Analytic Dictionary of Chinese and Sino-Japanese '), ('Author', 'Bernhard Karlgren'), ('Illustrator', ''), ('Genre', 'Educational, language, asian, chinese, japanese'), ('Publisher', 'Dover Publications'), ('Publication Year', 1974), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (53, 'Learn to Share', 'Stan and Jan Berenstain', 1, '', 'Children, Fantasy, Educational, Humor', "Reader's Digest", 1992, 6.0, 'Used but in good condition.', 'Good', 'Used', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 53, 'Title': 'Learn to Share', 'Author': 'Stan and Jan Berenstain', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': "Reader's Digest", 'Publication Year': 1992, 'Price': 6.0, 'Description': 'Used but in good condition.', 'Condition': 'Good', 'Condition Description': 'Used', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Learn to Share'), ('Author', 'Stan and Jan Berenstain'), ('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', "Reader's Digest"), ('Publication Year', 1992), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (54, 'Mysteries of the Ancient World', 'Christine K. Ekstrom, Ron Fisher, Louis de la Haba', 1, 'Don A. Sparks', 'Spiritual, history, culture, occult, mysteries, mythology, unexplained', 'National Geographic Society', 1979, 5.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', 'Dust Jacket', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 54, 'Title': 'Mysteries of the Ancient World', 'Author': 'Christine K. Ekstrom, Ron Fisher, Louis de la Haba', 'Units': 1, 'Illustrator': 'Don A. Sparks', 'Genre': 'Spiritual, history, culture, occult, mysteries, mythology, unexplained', 'Publisher': 'National Geographic Society', 'Publication Year': 1979, 'Price': 5.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Mysteries of the Ancient World'), ('Author', 'Christine K. Ekstrom, Ron Fisher, Louis de la Haba'), ('Illustrator', 'Don A. Sparks'), ('Genre', 'Spiritual, history, culture, occult, mysteries, mythology, unexplained'), ('Publisher', 'National Geographic Society'), ('Publication Year', 1979), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (55, 'The Ocean Realm', 'Robert D. Ballard, Linda Mc Carter Bridge', 1, 'Thomas B. Powell', 'Educational, animals, history, wildlife, nature, marine biology, oceans, seallife', 'National Geographic Society', 1978, 4.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', 'Dust Jacket', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 55, 'Title': 'The Ocean Realm', 'Author': 'Robert D. Ballard, Linda Mc Carter Bridge', 'Units': 1, 'Illustrator': 'Thomas B. Powell', 'Genre': 'Educational, animals, history, wildlife, nature, marine biology, oceans, seallife', 'Publisher': 'National Geographic Society', 'Publication Year': 1978, 'Price': 4.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'The Ocean Realm'), ('Author', 'Robert D. Ballard, Linda Mc Carter Bridge'), ('Illustrator', 'Thomas B. Powell'), ('Genre', 'Educational, animals, history, wildlife, nature, marine biology, oceans, seallife'), ('Publisher', 'National Geographic Society'), ('Publication Year', 1978), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (56, 'The Majestic Rocky Mountains', 'William S. Ellis ', 1, 'David R. Bridge', 'History, educational, america, nature, pictures, mountains', 'National Geographic Society', 1976, 3.0, 'See pictures', 'Good', 'Torn pages.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 56, 'Title': 'The Majestic Rocky Mountains', 'Author': 'William S. Ellis ', 'Units': 1, 'Illustrator': 'David R. Bridge', 'Genre': 'History, educational, america, nature, pictures, mountains', 'Publisher': 'National Geographic Society', 'Publication Year': 1976, 'Price': 3.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'The Majestic Rocky Mountains'), ('Author', 'William S. Ellis '), ('Illustrator', 'David R. Bridge'), ('Genre', 'History, educational, america, nature, pictures, mountains'), ('Publisher', 'National Geographic Society'), ('Publication Year', 1976), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (57, 'The Tale of Jemima Puddle-Duck', 'Beatrix Potter', 1, 'Beatrix Potter', 'Children, Fantasy, Educational, Humor', 'The Penguin Group', 1989, 4.0, 'Used but in good condition.', 'Good', 'Used', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 57, 'Title': 'The Tale of Jemima Puddle-Duck', 'Author': 'Beatrix Potter', 'Units': 1, 'Illustrator': 'Beatrix Potter', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'The Penguin Group', 'Publication Year': 1989, 'Price': 4.0, 'Description': 'Used but in good condition.', 'Condition': 'Good', 'Condition Description': 'Used', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'The Tale of Jemima Puddle-Duck'), ('Author', 'Beatrix Potter'), ('Illustrator', 'Beatrix Potter'), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'The Penguin Group'), ('Publication Year', 1989), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (58, 'The Book of King Arthur', 'Howard Pyle', 1, 'Ron King', 'Fantasy, Adventure, Epic, Myth, Fairy Tale', 'Classic Press', 1969, 5.0, 'Good condition, minimal wear.', 'Acceptable', 'No visible wear.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 58, 'Title': 'The Book of King Arthur', 'Author': 'Howard Pyle', 'Units': 1, 'Illustrator': 'Ron King', 'Genre': 'Fantasy, Adventure, Epic, Myth, Fairy Tale', 'Publisher': 'Classic Press', 'Publication Year': 1969, 'Price': 5.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Acceptable', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'The Book of King Arthur'), ('Author', 'Howard Pyle'), ('Illustrator', 'Ron King'), ('Genre', 'Fantasy, Adventure, Epic, Myth, Fairy Tale'), ('Publisher', 'Classic Press'), ('Publication Year', 1969), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (59, 'Complete Works of William Shakespeare', 'William George Clark, William Aldis Wright', 1, '', 'Shakespeare, poetry, history, commentary, fantasy, tragedy, drama', 'Grosset and Dunlap', 1911, 7.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 59, 'Title': 'Complete Works of William Shakespeare', 'Author': 'William George Clark, William Aldis Wright', 'Units': 1, 'Illustrator': '', 'Genre': 'Shakespeare, poetry, history, commentary, fantasy, tragedy, drama', 'Publisher': 'Grosset and Dunlap', 'Publication Year': 1911, 'Price': 7.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Complete Works of William Shakespeare'), ('Author', 'William George Clark, William Aldis Wright'), ('Illustrator', ''), ('Genre', 'Shakespeare, poetry, history, commentary, fantasy, tragedy, drama'), ('Publisher', 'Grosset and Dunlap'), ('Publication Year', 1911), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (60, 'Respect for Acting', 'Uta Hagen, Haskel Frankel', 1, '', 'Educational, theatre, acting, tutorial, cinema', 'Macmillan Publishing Co.', 1979, 6.0, 'See pictures', 'Good', 'Torn pages.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 60, 'Title': 'Respect for Acting', 'Author': 'Uta Hagen, Haskel Frankel', 'Units': 1, 'Illustrator': '', 'Genre': 'Educational, theatre, acting, tutorial, cinema', 'Publisher': 'Macmillan Publishing Co.', 'Publication Year': 1979, 'Price': 6.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Respect for Acting'), ('Author', 'Uta Hagen, Haskel Frankel'), ('Illustrator', ''), ('Genre', 'Educational, theatre, acting, tutorial, cinema'), ('Publisher', 'Macmillan Publishing Co.'), ('Publication Year', 1979), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (61, 'John Keats Complete Poems', 'John Keats, Jack Stillinger', 1, '', 'Poetry, history, romance, drama', 'Belknap Press', 1982, 6.0, 'Used but in good condition.', 'Good', 'Used', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 61, 'Title': 'John Keats Complete Poems', 'Author': 'John Keats, Jack Stillinger', 'Units': 1, 'Illustrator': '', 'Genre': 'Poetry, history, romance, drama', 'Publisher': 'Belknap Press', 'Publication Year': 1982, 'Price': 6.0, 'Description': 'Used but in good condition.', 'Condition': 'Good', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'John Keats Complete Poems'), ('Author', 'John Keats, Jack Stillinger'), ('Illustrator', ''), ('Genre', 'Poetry, history, romance, drama'), ('Publisher', 'Belknap Press'), ('Publication Year', 1982), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (62, 'Poems That Live Forever', 'Hazel Felleman', 1, '', 'Poetry, history, romance, drama', 'Doubleday and Company', 1965, 5.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 62, 'Title': 'Poems That Live Forever', 'Author': 'Hazel Felleman', 'Units': 1, 'Illustrator': '', 'Genre': 'Poetry, history, romance, drama', 'Publisher': 'Doubleday and Company', 'Publication Year': 1965, 'Price': 5.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Poems That Live Forever'), ('Author', 'Hazel Felleman'), ('Illustrator', ''), ('Genre', 'Poetry, history, romance, drama'), ('Publisher', 'Doubleday and Company'), ('Publication Year', 1965), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (63, 'The Very Hungry Caterpillar', 'Eric Carle', 1, '', 'Children, Fantasy, Educational, Humor', 'The World Publishing Company', 1973, 3.0, 'Minimal wear.', 'Acceptable', 'Folds on pages.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 63, 'Title': 'The Very Hungry Caterpillar', 'Author': 'Eric Carle', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'The World Publishing Company', 'Publication Year': 1973, 'Price': 3.0, 'Description': 'Minimal wear.', 'Condition': 'Acceptable', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'The Very Hungry Caterpillar'), ('Author', 'Eric Carle'), ('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'The World Publishing Company'), ('Publication Year', 1973), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (64, 'The Little Engine that Coulda', 'Watty Piper', 1, 'Ruth Sanderson', 'Children, Fantasy, Educational, Humor', 'Platt and Munk', 1976, 55.0, 'See pictures', 'Damaged', 'Torn pages.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 64, 'Title': 'The Little Engine that Coulda', 'Author': 'Watty Piper', 'Units': 1, 'Illustrator': 'Ruth Sanderson', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Platt and Munk', 'Publication Year': 1976, 'Price': 55.0, 'Description': 'See pictures', 'Condition': 'Damaged', 'Condition Description': 'Torn pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'The Little Engine that Coulda'), ('Author', 'Watty Piper'), ('Illustrator', 'Ruth Sanderson'), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Platt and Munk'), ('Publication Year', 1976), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (65, 'The Very Busy Spider', 'Eric Carle', 1, '', 'Children, Fantasy, Educational, Humor', 'Philomel Books', 1984, 4.0, 'Used but in good condition.', 'Good', 'Used', 'Hardback', 'Dust Jacket', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 65, 'Title': 'The Very Busy Spider', 'Author': 'Eric Carle', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Fantasy, Educational, Humor', 'Publisher': 'Philomel Books', 'Publication Year': 1984, 'Price': 4.0, 'Description': 'Used but in good condition.', 'Condition': 'Good', 'Condition Description': 'Used', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'The Very Busy Spider'), ('Author', 'Eric Carle'), ('Illustrator', ''), ('Genre', 'Children, Fantasy, Educational, Humor'), ('Publisher', 'Philomel Books'), ('Publication Year', 1984), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (66, 'The Calico Book of Mother Goose', 'Unknown', 1, 'Charlotte Krebs', 'Children, Fantasy, Educational, Humor, Fairy Tales, Folk Tales', 'Contemporary Books', 1988, 5.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', 'Dust Jacket', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 66, 'Title': 'The Calico Book of Mother Goose', 'Author': 'Unknown', 'Units': 1, 'Illustrator': 'Charlotte Krebs', 'Genre': 'Children, Fantasy, Educational, Humor, Fairy Tales, Folk Tales', 'Publisher': 'Contemporary Books', 'Publication Year': 1988, 'Price': 5.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'The Calico Book of Mother Goose'), ('Author', 'Unknown'), ('Illustrator', 'Charlotte Krebs'), ('Genre', 'Children, Fantasy, Educational, Humor, Fairy Tales, Folk Tales'), ('Publisher', 'Contemporary Books'), ('Publication Year', 1988), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (67, 'Cinderella - Treasury of Fairy Tales', 'Unknown', 1, 'Roberta Collier-Morales', 'Children, Fantasy, Educational, Humor, Fairy Tales, Folk Tales', 'Modern Publishing ', 1994, 6.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 67, 'Title': 'Cinderella - Treasury of Fairy Tales', 'Author': 'Unknown', 'Units': 1, 'Illustrator': 'Roberta Collier-Morales', 'Genre': 'Children, Fantasy, Educational, Humor, Fairy Tales, Folk Tales', 'Publisher': 'Modern Publishing ', 'Publication Year': 1994, 'Price': 6.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Cinderella - Treasury of Fairy Tales'), ('Author', 'Unknown'), ('Illustrator', 'Roberta Collier-Morales'), ('Genre', 'Children, Fantasy, Educational, Humor, Fairy Tales, Folk Tales'), ('Publisher', 'Modern Publishing '), ('Publication Year', 1994), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (68, "Sesame Street - Big Bird's Busy Book Activity Book", 'Michael Frith and Sharon Lerner', 1, 'Mel Crawford, A. Delaney, Michael Firth', 'Children, Fantasy, Educational, Humor, Crafts', 'Random House', 1975, 7.0, 'See pictures', 'Acceptable', 'Torn pages.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 68, 'Title': "Sesame Street - Big Bird's Busy Book Activity Book", 'Author': 'Michael Frith and Sharon Lerner', 'Units': 1, 'Illustrator': 'Mel Crawford, A. Delaney, Michael Firth', 'Genre': 'Children, Fantasy, Educational, Humor, Crafts', 'Publisher': 'Random House', 'Publication Year': 1975, 'Price': 7.0, 'Description': 'See pictures', 'Condition': 'Acceptable', 'Condition Description': 'Torn pages.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', "Sesame Street - Big Bird's Busy Book Activity Book"), ('Author', 'Michael Frith and Sharon Lerner'), ('Illustrator', 'Mel Crawford, A. Delaney, Michael Firth'), ('Genre', 'Children, Fantasy, Educational, Humor, Crafts'), ('Publisher', 'Random House'), ('Publication Year', 1975), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (69, 'LA Times - Pure Kobe - White Cover', 'Los Angeles Times', 1, '', 'Magazine, celebrities, news, pop culture', 'Los Angeles Times Magazine', 2010, 8.0, 'Used but in good condition.', 'Acceptable', 'Used', 'Magazine', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 69, 'Title': 'LA Times - Pure Kobe - White Cover', 'Author': 'Los Angeles Times', 'Units': 1, 'Illustrator': '', 'Genre': 'Magazine, celebrities, news, pop culture', 'Publisher': 'Los Angeles Times Magazine', 'Publication Year': 2010, 'Price': 8.0, 'Description': 'Used but in good condition.', 'Condition': 'Acceptable', 'Condition Description': 'Used', 'Book Format': 'Magazine', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'LA Times - Pure Kobe - White Cover'), ('Author', 'Los Angeles Times'), ('Illustrator', ''), ('Genre', 'Magazine, celebrities, news, pop culture'), ('Publisher', 'Los Angeles Times Magazine'), ('Publication Year', 2010), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Magazine'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (70, 'Sports Illustrated - Once and Forever - Muhommad Ali 50th Birthday Cover', 'Sports Illustrated', 1, '', 'Magazine, celebrities, news, pop culture, sports', 'Sports Illustrated Magazine', 1992, 6.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Magazine', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 70, 'Title': 'Sports Illustrated - Once and Forever - Muhommad Ali 50th Birthday Cover', 'Author': 'Sports Illustrated', 'Units': 1, 'Illustrator': '', 'Genre': 'Magazine, celebrities, news, pop culture, sports', 'Publisher': 'Sports Illustrated Magazine', 'Publication Year': 1992, 'Price': 6.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Magazine', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Sports Illustrated - Once and Forever - Muhommad Ali 50th Birthday Cover'), ('Author', 'Sports Illustrated'), ('Illustrator', ''), ('Genre', 'Magazine, celebrities, news, pop culture, sports'), ('Publisher', 'Sports Illustrated Magazine'), ('Publication Year', 1992), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Magazine'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (71, 'Sports Illustrated - Special Team - Super Bowl MVP - Desmond Howard', 'Sports Illustrated', 1, '', 'Magazine, celebrities, news, pop culture, sports', 'Sports Illustrated Magazine', 1997, 4.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Magazine', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 71, 'Title': 'Sports Illustrated - Special Team - Super Bowl MVP - Desmond Howard', 'Author': 'Sports Illustrated', 'Units': 1, 'Illustrator': '', 'Genre': 'Magazine, celebrities, news, pop culture, sports', 'Publisher': 'Sports Illustrated Magazine', 'Publication Year': 1997, 'Price': 4.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Magazine', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Sports Illustrated - Special Team - Super Bowl MVP - Desmond Howard'), ('Author', 'Sports Illustrated'), ('Illustrator', ''), ('Genre', 'Magazine, celebrities, news, pop culture, sports'), ('Publisher', 'Sports Illustrated Magazine'), ('Publication Year', 1997), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Magazine'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (72, 'Newsweek - Understanding Teddy - Edware Moore Kennedy', 'Newsweek', 1, '', 'Magazine, politics, government, bio', 'Newsweek', 2009, 5.0, 'See pictures', 'Good', 'Torn pages.', 'Magazine', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 72, 'Title': 'Newsweek - Understanding Teddy - Edware Moore Kennedy', 'Author': 'Newsweek', 'Units': 1, 'Illustrator': '', 'Genre': 'Magazine, politics, government, bio', 'Publisher': 'Newsweek', 'Publication Year': 2009, 'Price': 5.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Magazine', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Newsweek - Understanding Teddy - Edware Moore Kennedy'), ('Author', 'Newsweek'), ('Illustrator', ''), ('Genre', 'Magazine, politics, government, bio'), ('Publisher', 'Newsweek'), ('Publication Year', 2009), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Magazine'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (73, 'Newsweek - The Last Brother - Edware Moore Kennedy', 'Newsweek', 1, '', 'Magazine, politics, government, bio', 'Newsweek', 2009, 6.0, 'Used but in good condition.', 'Good', 'Used', 'Magazine', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 73, 'Title': 'Newsweek - The Last Brother - Edware Moore Kennedy', 'Author': 'Newsweek', 'Units': 1, 'Illustrator': '', 'Genre': 'Magazine, politics, government, bio', 'Publisher': 'Newsweek', 'Publication Year': 2009, 'Price': 6.0, 'Description': 'Used but in good condition.', 'Condition': 'Good', 'Condition Description': 'Used', 'Book Format': 'Magazine', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Newsweek - The Last Brother - Edware Moore Kennedy'), ('Author', 'Newsweek'), ('Illustrator', ''), ('Genre', 'Magazine, politics, government, bio'), ('Publisher', 'Newsweek'), ('Publication Year', 2009), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Magazine'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (74, 'Country Music - Garth Brooks Learns the Ropes', 'Country Music', 1, '', 'Magazine, celebrities, music, news, pop culture', 'Country Music', 1991, 7.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Magazine', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 74, 'Title': 'Country Music - Garth Brooks Learns the Ropes', 'Author': 'Country Music', 'Units': 1, 'Illustrator': '', 'Genre': 'Magazine, celebrities, music, news, pop culture', 'Publisher': 'Country Music', 'Publication Year': 1991, 'Price': 7.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Magazine', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Country Music - Garth Brooks Learns the Ropes'), ('Author', 'Country Music'), ('Illustrator', ''), ('Genre', 'Magazine, celebrities, music, news, pop culture'), ('Publisher', 'Country Music'), ('Publication Year', 1991), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Magazine'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (75, 'Somos 70 Aniversario - La Catedral de la Radio', 'Somos', 1, '', 'Magazine, celebrities, music, movies, news, pop culture, Mexico', 'Somos', 2000, 6.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Magazine', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 75, 'Title': 'Somos 70 Aniversario - La Catedral de la Radio', 'Author': 'Somos', 'Units': 1, 'Illustrator': '', 'Genre': 'Magazine, celebrities, music, movies, news, pop culture, Mexico', 'Publisher': 'Somos', 'Publication Year': 2000, 'Price': 6.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Magazine', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Somos 70 Aniversario - La Catedral de la Radio'), ('Author', 'Somos'), ('Illustrator', ''), ('Genre', 'Magazine, celebrities, music, movies, news, pop culture, Mexico'), ('Publisher', 'Somos'), ('Publication Year', 2000), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Magazine'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (76, 'Somos - Gloria Martin Un Rostro Inolvidable', 'Somos', 1, '', 'Magazine, celebrities, music, movies, news, pop culture, Mexico', 'Somos', 2000, 5.0, 'See pictures', 'Good', 'Torn pages.', 'Magazine', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 76, 'Title': 'Somos - Gloria Martin Un Rostro Inolvidable', 'Author': 'Somos', 'Units': 1, 'Illustrator': '', 'Genre': 'Magazine, celebrities, music, movies, news, pop culture, Mexico', 'Publisher': 'Somos', 'Publication Year': 2000, 'Price': 5.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Magazine', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Somos - Gloria Martin Un Rostro Inolvidable'), ('Author', 'Somos'), ('Illustrator', ''), ('Genre', 'Magazine, celebrities, music, movies, news, pop culture, Mexico'), ('Publisher', 'Somos'), ('Publication Year', 2000), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Magazine'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (77, 'Somos - Rosita Quintana - A Mexico Le Debo Lo Que Soy', 'Somos', 1, '', 'Magazine, celebrities, music, movies, news, pop culture, Mexico', 'Somos', 2001, 4.0, 'Used but in good condition.', 'Good', 'Used', 'Magazine', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 77, 'Title': 'Somos - Rosita Quintana - A Mexico Le Debo Lo Que Soy', 'Author': 'Somos', 'Units': 1, 'Illustrator': '', 'Genre': 'Magazine, celebrities, music, movies, news, pop culture, Mexico', 'Publisher': 'Somos', 'Publication Year': 2001, 'Price': 4.0, 'Description': 'Used but in good condition.', 'Condition': 'Good', 'Condition Description': 'Used', 'Book Format': 'Magazine', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Somos - Rosita Quintana - A Mexico Le Debo Lo Que Soy'), ('Author', 'Somos'), ('Illustrator', ''), ('Genre', 'Magazine, celebrities, music, movies, news, pop culture, Mexico'), ('Publisher', 'Somos'), ('Publication Year', 2001), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Magazine'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (78, 'Somos - Las Rumberas del Cine Mexicano', 'Somos', 1, '', 'Magazine, celebrities, music, movies, news, pop culture, Mexico', 'Somos', 1999, 3.0, 'Good condition, minimal wear.', 'Acceptable', 'No visible wear.', 'Magazine', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 78, 'Title': 'Somos - Las Rumberas del Cine Mexicano', 'Author': 'Somos', 'Units': 1, 'Illustrator': '', 'Genre': 'Magazine, celebrities, music, movies, news, pop culture, Mexico', 'Publisher': 'Somos', 'Publication Year': 1999, 'Price': 3.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Acceptable', 'Condition Description': 'No visible wear.', 'Book Format': 'Magazine', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Somos - Las Rumberas del Cine Mexicano'), ('Author', 'Somos'), ('Illustrator', ''), ('Genre', 'Magazine, celebrities, music, movies, news, pop culture, Mexico'), ('Publisher', 'Somos'), ('Publication Year', 1999), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Magazine'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (79, 'Somos - Pedro Infante - El Idolo De Mexico', 'Somos', 1, '', 'Magazine, celebrities, music, movies, news, pop culture, Mexico', 'Somos', 2001, 4.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Magazine', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 79, 'Title': 'Somos - Pedro Infante - El Idolo De Mexico', 'Author': 'Somos', 'Units': 1, 'Illustrator': '', 'Genre': 'Magazine, celebrities, music, movies, news, pop culture, Mexico', 'Publisher': 'Somos', 'Publication Year': 2001, 'Price': 4.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Magazine', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Somos - Pedro Infante - El Idolo De Mexico'), ('Author', 'Somos'), ('Illustrator', ''), ('Genre', 'Magazine, celebrities, music, movies, news, pop culture, Mexico'), ('Publisher', 'Somos'), ('Publication Year', 2001), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Magazine'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (80, 'Somos - 10 Anniversario - Epoca de Oro Del Cine Mexicano de la A la Z', 'Somos', 1, '', 'Magazine, celebrities, music, movies, news, pop culture, Mexico', 'Somos', 2001, 5.0, 'See pictures', 'Good', 'Torn pages.', 'Magazine', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 80, 'Title': 'Somos - 10 Anniversario - Epoca de Oro Del Cine Mexicano de la A la Z', 'Author': 'Somos', 'Units': 1, 'Illustrator': '', 'Genre': 'Magazine, celebrities, music, movies, news, pop culture, Mexico', 'Publisher': 'Somos', 'Publication Year': 2001, 'Price': 5.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Magazine', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Somos - 10 Anniversario - Epoca de Oro Del Cine Mexicano de la A la Z'), ('Author', 'Somos'), ('Illustrator', ''), ('Genre', 'Magazine, celebrities, music, movies, news, pop culture, Mexico'), ('Publisher', 'Somos'), ('Publication Year', 2001), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Magazine'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (81, 'Somos - Maria Victoria - Voz y Encanto de Sirena', 'Somos', 1, '', 'Magazine, celebrities, music, movies, news, pop culture, Mexico', 'Somos', 2000, 6.0, 'Used but in good condition.', 'Good', 'Used', 'Magazine', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 81, 'Title': 'Somos - Maria Victoria - Voz y Encanto de Sirena', 'Author': 'Somos', 'Units': 1, 'Illustrator': '', 'Genre': 'Magazine, celebrities, music, movies, news, pop culture, Mexico', 'Publisher': 'Somos', 'Publication Year': 2000, 'Price': 6.0, 'Description': 'Used but in good condition.', 'Condition': 'Good', 'Condition Description': 'Used', 'Book Format': 'Magazine', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Somos - Maria Victoria - Voz y Encanto de Sirena'), ('Author', 'Somos'), ('Illustrator', ''), ('Genre', 'Magazine, celebrities, music, movies, news, pop culture, Mexico'), ('Publisher', 'Somos'), ('Publication Year', 2000), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Magazine'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (82, 'Somos - Grandes Historias de Amor - Especial de Coleccion', 'Somos', 1, '', 'Magazine, celebrities, music, movies, news, pop culture, Mexico', 'Somos', 2000, 7.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Magazine', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 82, 'Title': 'Somos - Grandes Historias de Amor - Especial de Coleccion', 'Author': 'Somos', 'Units': 1, 'Illustrator': '', 'Genre': 'Magazine, celebrities, music, movies, news, pop culture, Mexico', 'Publisher': 'Somos', 'Publication Year': 2000, 'Price': 7.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Magazine', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Somos - Grandes Historias de Amor - Especial de Coleccion'), ('Author', 'Somos'), ('Illustrator', ''), ('Genre', 'Magazine, celebrities, music, movies, news, pop culture, Mexico'), ('Publisher', 'Somos'), ('Publication Year', 2000), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Magazine'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (83, 'The Human Body - A Fascinating See-Throug View of How Our Bodies Work', 'Robert J. Fabiny', 1, '', 'Educational, medicine, informational, biology', 'Wishing Well Books', 1993, 7.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 83, 'Title': 'The Human Body - A Fascinating See-Throug View of How Our Bodies Work', 'Author': 'Robert J. Fabiny', 'Units': 1, 'Illustrator': '', 'Genre': 'Educational, medicine, informational, biology', 'Publisher': 'Wishing Well Books', 'Publication Year': 1993, 'Price': 7.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'The Human Body - A Fascinating See-Throug View of How Our Bodies Work'), ('Author', 'Robert J. Fabiny'), ('Illustrator', ''), ('Genre', 'Educational, medicine, informational, biology'), ('Publisher', 'Wishing Well Books'), ('Publication Year', 1993), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (84, "Rolling Stone Special Collector's Edition - 1000th Issue", 'Rolling Stone', 1, '', 'Magazine, music, celebrities, pop culture, news', 'Rolling Stone', 2006, 8.0, 'See pictures', 'Acceptable', 'Torn pages.', 'Magazine', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 84, 'Title': "Rolling Stone Special Collector's Edition - 1000th Issue", 'Author': 'Rolling Stone', 'Units': 1, 'Illustrator': '', 'Genre': 'Magazine, music, celebrities, pop culture, news', 'Publisher': 'Rolling Stone', 'Publication Year': 2006, 'Price': 8.0, 'Description': 'See pictures', 'Condition': 'Acceptable', 'Condition Description': 'Torn pages.', 'Book Format': 'Magazine', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', "Rolling Stone Special Collector's Edition - 1000th Issue"), ('Author', 'Rolling Stone'), ('Illustrator', ''), ('Genre', 'Magazine, music, celebrities, pop culture, news'), ('Publisher', 'Rolling Stone'), ('Publication Year', 2006), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Magazine'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (85, 'Hamlet', 'William Shakespeare, Nielson', 1, '', 'Shakespeare, poetry, history, commentary, fantasy, tragedy, drama', 'Scott, Foresman and Company', 1904, 7.0, 'Used but in good condition.', 'Damaged', 'Used', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 85, 'Title': 'Hamlet', 'Author': 'William Shakespeare, Nielson', 'Units': 1, 'Illustrator': '', 'Genre': 'Shakespeare, poetry, history, commentary, fantasy, tragedy, drama', 'Publisher': 'Scott, Foresman and Company', 'Publication Year': 1904, 'Price': 7.0, 'Description': 'Used but in good condition.', 'Condition': 'Damaged', 'Condition Description': 'Used', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Hamlet'), ('Author', 'William Shakespeare, Nielson'), ('Illustrator', ''), ('Genre', 'Shakespeare, poetry, history, commentary, fantasy, tragedy, drama'), ('Publisher', 'Scott, Foresman and Company'), ('Publication Year', 1904), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (86, 'The Tragedy of Hamlet - The New Hudson Shakespeare', 'William Shakespeare', 1, '', 'Shakespeare, poetry, history, commentary, fantasy, tragedy, drama', 'Ginn and Company', 1909, 5.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 86, 'Title': 'The Tragedy of Hamlet - The New Hudson Shakespeare', 'Author': 'William Shakespeare', 'Units': 1, 'Illustrator': '', 'Genre': 'Shakespeare, poetry, history, commentary, fantasy, tragedy, drama', 'Publisher': 'Ginn and Company', 'Publication Year': 1909, 'Price': 5.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'The Tragedy of Hamlet - The New Hudson Shakespeare'), ('Author', 'William Shakespeare'), ('Illustrator', ''), ('Genre', 'Shakespeare, poetry, history, commentary, fantasy, tragedy, drama'), ('Publisher', 'Ginn and Company'), ('Publication Year', 1909), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (87, "A Selection From the World's Great Orations", 'Sherwin Cody, Demosthenes, Cicero, Savonarola, Bossuet, Mirabeau, Catham, Burke, Fox, Grattan, Henry, Webster, Beecher', 1, '', 'Philosophy, history, commentary, rhetoric, drama, leaders, self help, education', 'John Wilson and Son', 1904, 4.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 87, 'Title': "A Selection From the World's Great Orations", 'Author': 'Sherwin Cody, Demosthenes, Cicero, Savonarola, Bossuet, Mirabeau, Catham, Burke, Fox, Grattan, Henry, Webster, Beecher', 'Units': 1, 'Illustrator': '', 'Genre': 'Philosophy, history, commentary, rhetoric, drama, leaders, self help, education', 'Publisher': 'John Wilson and Son', 'Publication Year': 1904, 'Price': 4.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', "A Selection From the World's Great Orations"), ('Author', 'Sherwin Cody, Demosthenes, Cicero, Savonarola, Bossuet, Mirabeau, Catham, Burke, Fox, Grattan, Henry, Webster, Beecher'), ('Illustrator', ''), ('Genre', 'Philosophy, history, commentary, rhetoric, drama, leaders, self help, education'), ('Publisher', 'John Wilson and Son'), ('Publication Year', 1904), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (88, 'Leaves of Grass', 'Walt Whitman', 1, '', '', 'Barnes and Noble', 1987, 3.0, 'See pictures', 'Good', 'Torn pages.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 88, 'Title': 'Leaves of Grass', 'Author': 'Walt Whitman', 'Units': 1, 'Illustrator': '', 'Genre': '', 'Publisher': 'Barnes and Noble', 'Publication Year': 1987, 'Price': 3.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Leaves of Grass'), ('Author', 'Walt Whitman'), ('Illustrator', ''), ('Genre', ''), ('Publisher', 'Barnes and Noble'), ('Publication Year', 1987), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (89, "Digimon - Demon's Challenge", 'John Whitman', 1, 'Akiyoshi Hongo', "90's, monsters, adventure, action, children, fantasy, digital, epic, cartoon", 'Harper Entertainment', 2000, 4.0, 'Used but in good condition.', 'Good', 'Used', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 89, 'Title': "Digimon - Demon's Challenge", 'Author': 'John Whitman', 'Units': 1, 'Illustrator': 'Akiyoshi Hongo', 'Genre': "90's, monsters, adventure, action, children, fantasy, digital, epic, cartoon", 'Publisher': 'Harper Entertainment', 'Publication Year': 2000, 'Price': 4.0, 'Description': 'Used but in good condition.', 'Condition': 'Good', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', "Digimon - Demon's Challenge"), ('Author', 'John Whitman'), ('Illustrator', 'Akiyoshi Hongo'), ('Genre', "90's, monsters, adventure, action, children, fantasy, digital, epic, cartoon"), ('Publisher', 'Harper Entertainment'), ('Publication Year', 2000), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (90, "The Door in the Dragon's Throat", 'Frank Peretti', 2, 'David Yorke', 'Adventure, fantasy, action, children, young adult', 'Crossway Books', 1985, 5.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 90, 'Title': "The Door in the Dragon's Throat", 'Author': 'Frank Peretti', 'Units': 2, 'Illustrator': 'David Yorke', 'Genre': 'Adventure, fantasy, action, children, young adult', 'Publisher': 'Crossway Books', 'Publication Year': 1985, 'Price': 5.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', "The Door in the Dragon's Throat"), ('Author', 'Frank Peretti'), ('Illustrator', 'David Yorke'), ('Genre', 'Adventure, fantasy, action, children, young adult'), ('Publisher', 'Crossway Books'), ('Publication Year', 1985), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (91, 'The Enchantress of Florence', 'Salman Rushdie', 1, '', 'Adventure, fantasy, women, magic, action, alternate history', 'Random House', 2009, 6.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 91, 'Title': 'The Enchantress of Florence', 'Author': 'Salman Rushdie', 'Units': 1, 'Illustrator': '', 'Genre': 'Adventure, fantasy, women, magic, action, alternate history', 'Publisher': 'Random House', 'Publication Year': 2009, 'Price': 6.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'The Enchantress of Florence'), ('Author', 'Salman Rushdie'), ('Illustrator', ''), ('Genre', 'Adventure, fantasy, women, magic, action, alternate history'), ('Publisher', 'Random House'), ('Publication Year', 2009), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (92, 'Escape from the Island of Aquarius', 'Frank Peretti', 1, 'David Yorke', 'Adventure, fantasy, action, children, young adult', 'Crossway Books', 1986, 7.0, 'See pictures', 'Good', 'Torn pages.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 92, 'Title': 'Escape from the Island of Aquarius', 'Author': 'Frank Peretti', 'Units': 1, 'Illustrator': 'David Yorke', 'Genre': 'Adventure, fantasy, action, children, young adult', 'Publisher': 'Crossway Books', 'Publication Year': 1986, 'Price': 7.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Escape from the Island of Aquarius'), ('Author', 'Frank Peretti'), ('Illustrator', 'David Yorke'), ('Genre', 'Adventure, fantasy, action, children, young adult'), ('Publisher', 'Crossway Books'), ('Publication Year', 1986), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (93, 'Animorphs - The Exposed', 'K.A. Applegate', 1, 'David B. Mattingly', 'Adventure, fantasy, action, children, young adult', 'Scholastic', 1999, 8.0, 'Used but in good condition.', 'Good', 'Used', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 93, 'Title': 'Animorphs - The Exposed', 'Author': 'K.A. Applegate', 'Units': 1, 'Illustrator': 'David B. Mattingly', 'Genre': 'Adventure, fantasy, action, children, young adult', 'Publisher': 'Scholastic', 'Publication Year': 1999, 'Price': 8.0, 'Description': 'Used but in good condition.', 'Condition': 'Good', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Animorphs - The Exposed'), ('Author', 'K.A. Applegate'), ('Illustrator', 'David B. Mattingly'), ('Genre', 'Adventure, fantasy, action, children, young adult'), ('Publisher', 'Scholastic'), ('Publication Year', 1999), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (94, 'Goosebumps - Vampire Breath', 'R.L. Stine', 1, '', 'Children, Young Adult, Thriller, Humor, Suspense, Scary', 'Scholastic', 2011, 7.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 94, 'Title': 'Goosebumps - Vampire Breath', 'Author': 'R.L. Stine', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Young Adult, Thriller, Humor, Suspense, Scary', 'Publisher': 'Scholastic', 'Publication Year': 2011, 'Price': 7.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Goosebumps - Vampire Breath'), ('Author', 'R.L. Stine'), ('Illustrator', ''), ('Genre', 'Children, Young Adult, Thriller, Humor, Suspense, Scary'), ('Publisher', 'Scholastic'), ('Publication Year', 2011), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (95, 'Goosebumps - Welcome to Camp Nightmare', 'R.L. Stine', 1, '', 'Children, Young Adult, Thriller, Humor, Suspense, Scary', 'Scholastic', 2010, 6.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 95, 'Title': 'Goosebumps - Welcome to Camp Nightmare', 'Author': 'R.L. Stine', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Young Adult, Thriller, Humor, Suspense, Scary', 'Publisher': 'Scholastic', 'Publication Year': 2010, 'Price': 6.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Goosebumps - Welcome to Camp Nightmare'), ('Author', 'R.L. Stine'), ('Illustrator', ''), ('Genre', 'Children, Young Adult, Thriller, Humor, Suspense, Scary'), ('Publisher', 'Scholastic'), ('Publication Year', 2010), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (96, 'A Child Called It', 'Dave Pelzer', 1, '', 'Drama, tragedy, trauma, true story, abuse, self help', 'Health Communcations Inc', 1995, 5.0, 'See pictures', 'Good', 'Torn pages.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 96, 'Title': 'A Child Called It', 'Author': 'Dave Pelzer', 'Units': 1, 'Illustrator': '', 'Genre': 'Drama, tragedy, trauma, true story, abuse, self help', 'Publisher': 'Health Communcations Inc', 'Publication Year': 1995, 'Price': 5.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'A Child Called It'), ('Author', 'Dave Pelzer'), ('Illustrator', ''), ('Genre', 'Drama, tragedy, trauma, true story, abuse, self help'), ('Publisher', 'Health Communcations Inc'), ('Publication Year', 1995), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (97, 'Harry Potter and the Chamber of Secrets', 'J.K. Rowling', 1, 'Mary GrandPre', 'Adventure, fantasy, action, children, young adult', 'Scholastic', 1999, 4.0, 'Used but in good condition.', 'Good', 'Used', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 97, 'Title': 'Harry Potter and the Chamber of Secrets', 'Author': 'J.K. Rowling', 'Units': 1, 'Illustrator': 'Mary GrandPre', 'Genre': 'Adventure, fantasy, action, children, young adult', 'Publisher': 'Scholastic', 'Publication Year': 1999, 'Price': 4.0, 'Description': 'Used but in good condition.', 'Condition': 'Good', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Harry Potter and the Chamber of Secrets'), ('Author', 'J.K. Rowling'), ('Illustrator', 'Mary GrandPre'), ('Genre', 'Adventure, fantasy, action, children, young adult'), ('Publisher', 'Scholastic'), ('Publication Year', 1999), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (98, 'Shakespeare - Twelfth Night', 'William Shakespeare', 1, '', 'Shakespeare, poetry, history, commentary, fantasy, tragedy, drama', 'Signet Classic', 1998, 3.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 98, 'Title': 'Shakespeare - Twelfth Night', 'Author': 'William Shakespeare', 'Units': 1, 'Illustrator': '', 'Genre': 'Shakespeare, poetry, history, commentary, fantasy, tragedy, drama', 'Publisher': 'Signet Classic', 'Publication Year': 1998, 'Price': 3.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Shakespeare - Twelfth Night'), ('Author', 'William Shakespeare'), ('Illustrator', ''), ('Genre', 'Shakespeare, poetry, history, commentary, fantasy, tragedy, drama'), ('Publisher', 'Signet Classic'), ('Publication Year', 1998), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (99, 'Shakespeare - The Merry Wives of Windsor', 'William Shakespeare', 1, '', 'Shakespeare, poetry, history, commentary, fantasy, tragedy, drama', 'Signet Classic', 2006, 2.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 99, 'Title': 'Shakespeare - The Merry Wives of Windsor', 'Author': 'William Shakespeare', 'Units': 1, 'Illustrator': '', 'Genre': 'Shakespeare, poetry, history, commentary, fantasy, tragedy, drama', 'Publisher': 'Signet Classic', 'Publication Year': 2006, 'Price': 2.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Shakespeare - The Merry Wives of Windsor'), ('Author', 'William Shakespeare'), ('Illustrator', ''), ('Genre', 'Shakespeare, poetry, history, commentary, fantasy, tragedy, drama'), ('Publisher', 'Signet Classic'), ('Publication Year', 2006), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (100, 'Pocahontas', '', 1, '', 'Adventure, fantasy, action, children, young adult', 'Grolier Enterprises', 1995, 1.0, 'See pictures', 'Good', 'Torn pages.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 100, 'Title': 'Pocahontas', 'Author': '', 'Units': 1, 'Illustrator': '', 'Genre': 'Adventure, fantasy, action, children, young adult', 'Publisher': 'Grolier Enterprises', 'Publication Year': 1995, 'Price': 1.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Pocahontas'), ('Author', ''), ('Illustrator', ''), ('Genre', 'Adventure, fantasy, action, children, young adult'), ('Publisher', 'Grolier Enterprises'), ('Publication Year', 1995), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (101, 'Healthy Cooking', 'John Phillip Carroll', 1, 'Allan Rosenburg', 'Cooking, recipes, instructional, health, wellness, fitness, nutrition', 'Time Life', 1997, 2.0, 'Used but in good condition.', 'Good', 'Used', 'Hardback', 'Dust Jacket', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 101, 'Title': 'Healthy Cooking', 'Author': 'John Phillip Carroll', 'Units': 1, 'Illustrator': 'Allan Rosenburg', 'Genre': 'Cooking, recipes, instructional, health, wellness, fitness, nutrition', 'Publisher': 'Time Life', 'Publication Year': 1997, 'Price': 2.0, 'Description': 'Used but in good condition.', 'Condition': 'Good', 'Condition Description': 'Used', 'Book Format': 'Hardback', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Healthy Cooking'), ('Author', 'John Phillip Carroll'), ('Illustrator', 'Allan Rosenburg'), ('Genre', 'Cooking, recipes, instructional, health, wellness, fitness, nutrition'), ('Publisher', 'Time Life'), ('Publication Year', 1997), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Hardback'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (102, 'Glass', 'Ellen Hopkins', 1, '', 'Young adult, drama, poetry', 'Simon Pulse', 2009, 3.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 102, 'Title': 'Glass', 'Author': 'Ellen Hopkins', 'Units': 1, 'Illustrator': '', 'Genre': 'Young adult, drama, poetry', 'Publisher': 'Simon Pulse', 'Publication Year': 2009, 'Price': 3.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Glass'), ('Author', 'Ellen Hopkins'), ('Illustrator', ''), ('Genre', 'Young adult, drama, poetry'), ('Publisher', 'Simon Pulse'), ('Publication Year', 2009), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (103, 'Shakespeare - Henry IV, Part I', 'William Shakespeare', 1, '', 'Shakespeare, poetry, history, commentary, fantasy, tragedy, drama', 'Signet Classic', 1965, 4.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 103, 'Title': 'Shakespeare - Henry IV, Part I', 'Author': 'William Shakespeare', 'Units': 1, 'Illustrator': '', 'Genre': 'Shakespeare, poetry, history, commentary, fantasy, tragedy, drama', 'Publisher': 'Signet Classic', 'Publication Year': 1965, 'Price': 4.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Shakespeare - Henry IV, Part I'), ('Author', 'William Shakespeare'), ('Illustrator', ''), ('Genre', 'Shakespeare, poetry, history, commentary, fantasy, tragedy, drama'), ('Publisher', 'Signet Classic'), ('Publication Year', 1965), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (104, "The All New Captain Underpants Extra-Crunchy Book o' Fun", 'Dav Pilkey', 1, 'Dav Pilkey', 'children, young adult, humor, fantasy, comedy, superheros, sci fi, wacky', 'Scholastic', 2002, 5.0, 'See pictures', 'Good', 'Torn pages.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 104, 'Title': "The All New Captain Underpants Extra-Crunchy Book o' Fun", 'Author': 'Dav Pilkey', 'Units': 1, 'Illustrator': 'Dav Pilkey', 'Genre': 'children, young adult, humor, fantasy, comedy, superheros, sci fi, wacky', 'Publisher': 'Scholastic', 'Publication Year': 2002, 'Price': 5.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', "The All New Captain Underpants Extra-Crunchy Book o' Fun"), ('Author', 'Dav Pilkey'), ('Illustrator', 'Dav Pilkey'), ('Genre', 'children, young adult, humor, fantasy, comedy, superheros, sci fi, wacky'), ('Publisher', 'Scholastic'), ('Publication Year', 2002), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (105, 'Magic Tree House - Polar Bears Past Bedtime', 'Mary Pope Osbourne', 1, '', 'Adventure, fantasy, action, children, young adult', 'Random House', 1998, 5.0, 'Used but in good condition.', 'Good', 'Used', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 105, 'Title': 'Magic Tree House - Polar Bears Past Bedtime', 'Author': 'Mary Pope Osbourne', 'Units': 1, 'Illustrator': '', 'Genre': 'Adventure, fantasy, action, children, young adult', 'Publisher': 'Random House', 'Publication Year': 1998, 'Price': 5.0, 'Description': 'Used but in good condition.', 'Condition': 'Good', 'Condition Description': 'Used', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Magic Tree House - Polar Bears Past Bedtime'), ('Author', 'Mary Pope Osbourne'), ('Illustrator', ''), ('Genre', 'Adventure, fantasy, action, children, young adult'), ('Publisher', 'Random House'), ('Publication Year', 1998), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (106, 'Superman Last Son of Krypton', 'Heather Au', 1, 'Chris Fowler', 'children, heros, fantasy, action', 'Bendon Publishing', 2010, 6.0, 'Good condition, minimal wear.', 'Good', 'No visible wear.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 106, 'Title': 'Superman Last Son of Krypton', 'Author': 'Heather Au', 'Units': 1, 'Illustrator': 'Chris Fowler', 'Genre': 'children, heros, fantasy, action', 'Publisher': 'Bendon Publishing', 'Publication Year': 2010, 'Price': 6.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Good', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Superman Last Son of Krypton'), ('Author', 'Heather Au'), ('Illustrator', 'Chris Fowler'), ('Genre', 'children, heros, fantasy, action'), ('Publisher', 'Bendon Publishing'), ('Publication Year', 2010), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (107, 'The Adventures of Captain Underpants', 'Dav Pilkey', 1, 'Dav Pilkey', 'children, young adult, humor, fantasy, comedy, superheros, sci fi, wacky', 'Scholastic', 1997, 6.0, 'Minimal wear.', 'Good', 'Folds on pages.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 107, 'Title': 'The Adventures of Captain Underpants', 'Author': 'Dav Pilkey', 'Units': 1, 'Illustrator': 'Dav Pilkey', 'Genre': 'children, young adult, humor, fantasy, comedy, superheros, sci fi, wacky', 'Publisher': 'Scholastic', 'Publication Year': 1997, 'Price': 6.0, 'Description': 'Minimal wear.', 'Condition': 'Good', 'Condition Description': 'Folds on pages.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'The Adventures of Captain Underpants'), ('Author', 'Dav Pilkey'), ('Illustrator', 'Dav Pilkey'), ('Genre', 'children, young adult, humor, fantasy, comedy, superheros, sci fi, wacky'), ('Publisher', 'Scholastic'), ('Publication Year', 1997), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (108, "Animorphs Megamorphs #1 - The Andalite's Gift - Part 2", 'K.A. Applegate', 1, 'David B. Mattingly', 'Adventure, fantasy, action, children, young adult', 'Scholastic', 1997, 7.0, 'See pictures', 'Good', 'Torn pages.', 'Paperback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 108, 'Title': "Animorphs Megamorphs #1 - The Andalite's Gift - Part 2", 'Author': 'K.A. Applegate', 'Units': 1, 'Illustrator': 'David B. Mattingly', 'Genre': 'Adventure, fantasy, action, children, young adult', 'Publisher': 'Scholastic', 'Publication Year': 1997, 'Price': 7.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Paperback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', "Animorphs Megamorphs #1 - The Andalite's Gift - Part 2"), ('Author', 'K.A. Applegate'), ('Illustrator', 'David B. Mattingly'), ('Genre', 'Adventure, fantasy, action, children, young adult'), ('Publisher', 'Scholastic'), ('Publication Year', 1997), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Paperback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (109, 'The Little Mermaid', 'Michael Teitelbaum', 1, 'Sue DiCicco', 'Adventure, fantasy, action, children, young adult, fairy tale', 'Little Golden Books', 2006, 8.0, 'Used but in good condition.', 'Good', 'Used', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 109, 'Title': 'The Little Mermaid', 'Author': 'Michael Teitelbaum', 'Units': 1, 'Illustrator': 'Sue DiCicco', 'Genre': 'Adventure, fantasy, action, children, young adult, fairy tale', 'Publisher': 'Little Golden Books', 'Publication Year': 2006, 'Price': 8.0, 'Description': 'Used but in good condition.', 'Condition': 'Good', 'Condition Description': 'Used', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'The Little Mermaid'), ('Author', 'Michael Teitelbaum'), ('Illustrator', 'Sue DiCicco'), ('Genre', 'Adventure, fantasy, action, children, young adult, fairy tale'), ('Publisher', 'Little Golden Books'), ('Publication Year', 2006), ('Description', 'Used but in good condition.'), ('Condition Description', 'Used'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (110, '102 Dalmatians', 'Dodie Smith', 1, '', 'Adventure, fantasy, action, children, young adult, fairy tale', 'Grolier Enterprises', 2000, 9.0, 'Good condition, minimal wear.', 'Acceptable', 'No visible wear.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 110, 'Title': '102 Dalmatians', 'Author': 'Dodie Smith', 'Units': 1, 'Illustrator': '', 'Genre': 'Adventure, fantasy, action, children, young adult, fairy tale', 'Publisher': 'Grolier Enterprises', 'Publication Year': 2000, 'Price': 9.0, 'Description': 'Good condition, minimal wear.', 'Condition': 'Acceptable', 'Condition Description': 'No visible wear.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', '102 Dalmatians'), ('Author', 'Dodie Smith'), ('Illustrator', ''), ('Genre', 'Adventure, fantasy, action, children, young adult, fairy tale'), ('Publisher', 'Grolier Enterprises'), ('Publication Year', 2000), ('Description', 'Good condition, minimal wear.'), ('Condition Description', 'No visible wear.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (111, 'Aladdin', '', 1, '', 'Adventure, fantasy, action, children, young adult, fairy tale', 'Grolier Enterprises', 1993, 1.0, 'Minimal wear.', 'Acceptable', 'Folds on pages.', 'Hardback', '', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 111, 'Title': 'Aladdin', 'Author': '', 'Units': 1, 'Illustrator': '', 'Genre': 'Adventure, fantasy, action, children, young adult, fairy tale', 'Publisher': 'Grolier Enterprises', 'Publication Year': 1993, 'Price': 1.0, 'Description': 'Minimal wear.', 'Condition': 'Acceptable', 'Condition Description': 'Folds on pages.', 'Book Format': 'Hardback', 'Features': '', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'Aladdin'), ('Author', ''), ('Illustrator', ''), ('Genre', 'Adventure, fantasy, action, children, young adult, fairy tale'), ('Publisher', 'Grolier Enterprises'), ('Publication Year', 1993), ('Description', 'Minimal wear.'), ('Condition Description', 'Folds on pages.'), ('Book Format', 'Hardback'), ('Features', ''), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
+
+Item Details:
+ (112, 'The Goosebumps Collection 2', 'R.L. Stine', 1, '', 'Children, Young Adult, Thriller, Humor, Suspense, Scary', 'Scholastic', 2015, 98.0, 'See pictures', 'Good', 'Torn pages.', 'Book Set', 'Dust Jacket', 'English', '', '', '', '', '', '', '', '', '', '', 2)
+
+Item Dict:
+ {'item_id': 112, 'Title': 'The Goosebumps Collection 2', 'Author': 'R.L. Stine', 'Units': 1, 'Illustrator': '', 'Genre': 'Children, Young Adult, Thriller, Humor, Suspense, Scary', 'Publisher': 'Scholastic', 'Publication Year': 2015, 'Price': 98.0, 'Description': 'See pictures', 'Condition': 'Good', 'Condition Description': 'Torn pages.', 'Book Format': 'Book Set', 'Features': 'Dust Jacket', 'Language': 'English', 'Topic': '', 'Book Series': '', 'Book Type': '', 'Narrative Type': '', 'Edition': '', 'Manufactured': '', 'Inscibed': '', 'Intended Audience': '', 'Vintage': '', 'Signed': '', 'Pictures': 2}
+
+Name Value List:
+ [('Title', 'The Goosebumps Collection 2'), ('Author', 'R.L. Stine'), ('Illustrator', ''), ('Genre', 'Children, Young Adult, Thriller, Humor, Suspense, Scary'), ('Publisher', 'Scholastic'), ('Publication Year', 2015), ('Description', 'See pictures'), ('Condition Description', 'Torn pages.'), ('Book Format', 'Book Set'), ('Features', 'Dust Jacket'), ('Language', 'English'), ('Topic', ''), ('Book Series', ''), ('Book Type', ''), ('Narrative Type', ''), ('Edition', ''), ('Manufactured', ''), ('Inscibed', ''), ('Intended Audience', ''), ('Vintage', ''), ('Signed', '')]
