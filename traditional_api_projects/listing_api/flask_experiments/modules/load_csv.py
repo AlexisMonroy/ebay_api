@@ -30,7 +30,7 @@ conn = sqlite3.connect(os.path.join(data_folder, 'inventory.db'))
 conn.execute('CREATE TABLE IF NOT EXISTS books (ID INTEGER PRIMARY KEY, Title TEXT NULL, Author TEXT NULL, Units INTEGER NULL, Illustrator TEXT NULL, Genre TEXT NULL, Publisher TEXT NULL, Publication_Year INTEGER NULL, Price REAL NULL, Description TEXT NULL, Condition TEXT NULL, Condition_Description TEXT NULL, Format TEXT NULL, Features TEXT NULL, Language TEXT NULL, Topic TEXT NULL, Book_Series TEXT NULL, Type TEXT NULL, Narrative_Type TEXT NULL, Edition TEXT NULL, Manufactured TEXT NULL, Inscribed TEXT NULL, Intended_Audience TEXT NULL, Vintage TEXT NULL, Signed TEXT NULL, Pictures INTEGER NULL)')
 
 # Get the path to the CSV file
-file_path = 'C:/Users/alexi/dev/ebay_api/ebay_api/traditional_api_projects/listing_api/flask_experiments/data/books.csv'
+file_path = 'C:/Users/alexi/dev/ebay_api/ebay_api/traditional_api_projects/listing_api/flask_experiments/data/testbooks.csv'
 
 # Read the data from the CSV file
 rows = read_csv(file_path)

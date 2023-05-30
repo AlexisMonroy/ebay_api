@@ -129,7 +129,7 @@ def api_calls():
       'X-EBAY-API-DEV-NAME': 'dae89547-48b8-4c4b-9e57-e8e9a84527dd',
       'X-EBAY-API-APP-NAME': 'AlexisGo-pricepre-PRD-3ca7161d2-d3ef5057',  
       'X-EBAY-API-CERT-NAME': 'PRD-ca7161d2a58b-663b-4c87-9cec-8cbd',
-      'X-EBAY-API-CALL-NAME': 'AddItem',
+      'X-EBAY-API-CALL-NAME': 'VerifyAddItem',
       'X-EBAY-API-SITEID': '0',
       'Content-Type' : 'text/xml'}
           
@@ -158,7 +158,7 @@ def api_calls():
                 print("End:\n:" + str(datetime.datetime.now()))
           with open('resp_output/start_end.txt', 'a') as f:
               f.write("END:\n:" + str(datetime.datetime.now()))
-          return render_template('api_calls.html', get_time_response=verify_response)
+          return render_template('api_calls.html', get_time_response=verify_response.text)
         
         #GetCategoryFeatures call
         elif button == 'GetCategoryFeatures':

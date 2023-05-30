@@ -1,10 +1,10 @@
 import os
 import sqlite3
 import requests
-from flask import Flask, render_template, redirect, request
 import datetime 
-import xml.etree.ElementTree as ET
-import sys
+from modules.schedule import schedule_listings
+
+
 
 def add_item(product_list, token):
     api_call_headers = {'X-EBAY-API-COMPATIBILITY-LEVEL': '719',
@@ -31,7 +31,10 @@ def add_item(product_list, token):
     call_list = []
     pic_call_list = []
     add_item_list = []
+    schedule_times = schedule_listings(len(product_list))
     for i in range(0, len(product_list)):
+        product_id_tuple = product_list[i]
+        product_id = int(product_id_tuple[0])
         cursor.execute(query, product_list[i])
         posted_result = cursor.fetchone()
         #print(posted_result)
@@ -41,9 +44,13 @@ def add_item(product_list, token):
             cursor.execute(select_item, product_list[i])
             item_details = cursor.fetchone()
             #initialize the count variable
+            time_index = i
             count = 0
-            print("\n ITEM DETAILS:\n", item_details)
-            print("TYPE: ", type(item_details))
+            with open('add_item_output.text', 'a') as f:
+                print("Start: ", datetime.datetime.now(), file=f)
+                print("ITEM DETAILS:", item_details, file=f)
+                print("TYPE: ", type(item_details), file=f)
+                print("End: ", datetime.datetime.now(), file=f)
             #create a dictionary to store the item details
             item_dict = {'item_id': None, 'Title': None, 'Author': None, 'Units': None, 'Illustrator': None, 'Genre': None, 'Publisher': None, 'Publication Year': None, 'Price': None, 'Description': None, 'Condition': None, 'Condition Description': None, 'Book Format': None, 'Features': None, 'Language': None, 'Topic': None, 'Book Series': None, 'Book Type': None, 'Narrative Type': None, 'Edition': None, 'Manufactured': None, 'Inscibed': None, 'Intended Audience': None, 'Vintage': None, 'Signed': None, 'Pictures': None}
             name_value_list = []
@@ -56,12 +63,13 @@ def add_item(product_list, token):
                 #increment the count variable
                 count += 1
             #write the item details to a text file
-            with open('item_dict.txt', 'a') as f:
-                print("\nTime:\n", datetime.datetime.now())
-                print("\nItem Details:\n", item_details, file=f)
-                print("\nItem Dict:\n", item_dict, file=f)
-                print("\nName Value List:\n", name_value_list, file=f)
-            print("\nName Value List:\n",name_value_list)
+            with open('add_item_output.text', 'a') as f:
+                print("\nStart: ", datetime.datetime.now(), file=f)
+                print("Item Details:\n", item_details, file=f)
+                print("Item Dict:\n", item_dict, file=f)
+                print("Name Value List:\n", name_value_list, file=f)
+                print("End: ", datetime.datetime.now(), file=f)
+            #print("\nName Value List:\n",name_value_list)
             name_value_call = ""
             for i in range(0, len(name_value_list)):
                 k = 0
@@ -90,9 +98,11 @@ def add_item(product_list, token):
                         name_value_call = name_value_call + name_value
             if name_value_call != "":
                 call_list.append(name_value_call)
-            with open('call_output.txt', 'a') as f:
-                print("\nTime:\n", datetime.datetime.now(), file=f)
-                print("\nCall List:\n", call_list, file=f)
+            with open('add_item_output.text', 'a') as f:
+                print("\nStart: ", datetime.datetime.now(), file=f)
+                print("Time:\n", datetime.datetime.now(), file=f)
+                print("Call List: ", call_list, file=f)
+                print("End: ", datetime.datetime.now(), file=f)
                 #print the time the call was made
                 
 
@@ -105,21 +115,22 @@ def add_item(product_list, token):
                 og_picture = item_dict['Title']
                 picture = og_picture.replace(" ", "")
                 picture_name = picture + str(i)
-                print("\nPicture Name:\n", picture_name)
+                #print("\nPicture Name:\n", picture_name)
                 pic_location = pic_site + picture_name + ".jpg"
                 pic_details = pic_details + f'''<PictureURL>{pic_location}</PictureURL>'''
-                print("\nPicture Call:\n", pic_details)
+                #print("\nPicture Call:\n", pic_details)
             #pic_call = f'''<PictureDetails>{pic_details}</PictureDetails>'''
             
             if pic_details != "":
                 pic_call_list.append(pic_details)
-            with open('call_output.txt', 'a') as f:
-                print("\nTime:\n", datetime.datetime.now(), file=f)
-                print("\nPicture Call List:\n", pic_call_list, file=f)
+            with open('add_item_output.text', 'a') as f:
+                print("\nStart:\n", datetime.datetime.now(), file=f)
+                print("\nPicture Call List: ", pic_call_list, file=f)
+                print("\nEnd:\n", datetime.datetime.now(), file=f)
                 
 
             verify_data = f'''<?xml version="1.0" encoding="utf-8"?>
-  <AddItemRequest xmlns="urn:ebay:apis:eBLBaseComponents">
+  <VerifyAddItemRequest xmlns="urn:ebay:apis:eBLBaseComponents">
     <RequesterCredentials>
       <eBayAuthToken>{token}</eBayAuthToken>
     </RequesterCredentials>
@@ -149,6 +160,7 @@ def add_item(product_list, token):
       <ItemSpecifics>     
       {name_value_call}
       </ItemSpecifics>
+      <ScheduleTime>{schedule_times[time_index]}</ScheduleTime>  
       <ReturnPolicy>
         <ReturnsAcceptedOption>ReturnsAccepted</ReturnsAcceptedOption>
         <RefundOption>MoneyBack</RefundOption>
@@ -165,20 +177,30 @@ def add_item(product_list, token):
       </ShippingDetails>
       <Site>US</Site>
     </Item>
-  </AddItemRequest>'''
-
-            add_item_list.append(verify_data)
-            print("\nCALL:\n", verify_data)             
-            print(token)
+  </VerifyAddItemRequest>'''
             
-            with open('call_output.txt', 'a') as f:
-                print("\nTime:\n", datetime.datetime.now(), file=f)
-                print("\nVerify Data:\n", verify_data, file=f)
+            add_item_list.append(verify_data)
+            #print("\nCALL:\n", verify_data)             
+            #print(token)
+            
+            cursor.execute("SELECT PRODUCT_ID, MARKET_ID FROM pending where PRODUCT_ID = ?", (product_id,))
+            pending = cursor.fetchall()
+            cursor.execute("INSERT OR IGNORE INTO posted(PRODUCT_ID, MARKET_ID, DATE_TIME) VALUES (?, ?, datetime('now', 'localtime'))", (pending[0][0], pending[0][1],))
+            conn.commit()
+            cursor.execute("DELETE FROM pending WHERE PRODUCT_ID = ?", (product_id,))
+            conn.commit()
+            print("Product ID: ", product_id)
+            with open('add_item_output.text', 'a') as f:
+                print("\nTime: ", datetime.datetime.now(), file=f)
+                print("\nVerify Data: ", verify_data, file=f)
+                print("Scheduled for: ", schedule_times[time_index], file=f)
+                print("POSTED", file=f)
+            print("\nPOSTED")
         else:
             print("Item has already been posted")
     #print the end time to call_output.txt
-    with open('call_output.txt', 'a') as f:
-        print("\nEnd Time:\n", datetime.datetime.now(), file=f)
+    with open('add_item_output.text', 'a') as f:
+        print("\nEnd of Program:\n", datetime.datetime.now(), file=f)
     return add_item_list
     conn.close()
     print("\nConnection Closed\n")
