@@ -52,7 +52,7 @@ def add_item(product_list, token):
                 print("TYPE: ", type(item_details), file=f)
                 print("End: ", datetime.datetime.now(), file=f)
             #create a dictionary to store the item details
-            item_dict = {'item_id': None, 'Title': None, 'Author': None, 'Units': None, 'Illustrator': None, 'Genre': None, 'Publisher': None, 'Publication Year': None, 'Price': None, 'Description': None, 'Condition': None, 'Condition Description': None, 'Book Format': None, 'Features': None, 'Language': None, 'Topic': None, 'Book Series': None, 'Book Type': None, 'Narrative Type': None, 'Edition': None, 'Manufactured': None, 'Inscibed': None, 'Intended Audience': None, 'Vintage': None, 'Signed': None, 'Pictures': None}
+            item_dict = {'item_id': None, 'Title': None, 'Author': None, 'Units': None, 'Illustrator': None, 'Genre': None, 'Publisher': None, 'Publication Year': None, 'Price': None, 'Description': None, 'Condition': None, 'Condition Description': None, 'Book Format': None, 'Features': None, 'Language': None, 'Topic': None, 'Book Series': None, 'Book Type': None, 'Narrative Type': None, 'Edition': None, 'Manufactured': None, 'Inscibed': None, 'Intended Audience': None, 'Vintage': None, 'Signed': None, 'Pictures': None, 'Height': None, 'Width': None, 'Length': None, 'Weight': None}
             name_value_list = []
             #iterate through the dictionary and assign the item details to the dictionary keys
             for key in item_dict:
@@ -168,13 +168,25 @@ def add_item(product_list, token):
         <ShippingCostPaidByOption>Buyer</ShippingCostPaidByOption>
       </ReturnPolicy>
       <ShippingDetails>
-        <ShippingType>Flat</ShippingType>
+        <ShippingType>Calculated</ShippingType>
         <ShippingServiceOptions>
-          <ShippingServicePriority>1</ShippingServicePriority>
           <ShippingService>USPSMedia</ShippingService>
-          <ShippingServiceCost>2.50</ShippingServiceCost>
+          <ShippingServicePriority>1</ShippingServicePriority>         
+        </ShippingServiceOptions>
+        <ShippingServiceOptions>
+            <ShippingService>USPSPriority</ShippingService>
+            <ShippingServicePriority>2</ShippingServicePriority>
         </ShippingServiceOptions>
       </ShippingDetails>
+      <ShippingPackageDetails>
+        <MeasurementUnit>English</MeasurementUnit>
+        <PackageDepth unit="inches" measurementSystem="English">{item_dict['Height']}</PackageDepth>
+        <PackageLength unit="inches" measurementSystem="English">{item_dict['Length']}</PackageLength>
+        <PackageWidth unit="inches" measurementSystem="English">{item_dict['Width']}</PackageWidth>
+        <ShippingPackage>PackageThickEnvelope</ShippingPackage>
+        <WeightMajor unit="lbs" measurementSystem="English">{item_dict['Weight']}</WeightMajor>
+        <WeightMinor unit="oz" measurementSystem="English">0</WeightMinor>
+      </ShippingPackageDetails>
       <Site>US</Site>
     </Item>
   </VerifyAddItemRequest>'''

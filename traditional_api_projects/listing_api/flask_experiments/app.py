@@ -7,6 +7,7 @@ import sys
 from modules.load_csv import read_csv 
 from modules.pending import pending_check
 from modules.additem import add_item
+from modules.xml_reader import extract_shipping_details
 
 
 
@@ -141,25 +142,56 @@ def api_calls():
           with open('resp_output/start_end.txt', 'w') as f:
               f.write("START:\n:" + str(datetime.datetime.now()))
 
+          verify_responses = []
           for i in range(0, len(verify_data)):
-
-            verify_response = requests.post(url, headers=api_call_headers, data=verify_data[i])
-            print(verify_response.status_code)
-            print(verify_response.text)
-            print("Done with API Call")
-            with open('resp_output/api_call_response.txt', 'a') as f:
-                f.write("Start:\n:" + str(datetime.datetime.now())) 
-                f.write(str(len(verify_data)))
-                print("\n\n\n")
-                f.write(str(verify_response))
-                f.write("\n\n\n")
-                f.write(str(verify_response.text))
-                print("\n\n\n")
-                print("End:\n:" + str(datetime.datetime.now()))
+            if verify_data[i] is not None:
+              verify_response = requests.post(url, headers=api_call_headers, data=verify_data[i])
+              print(verify_response.status_code)
+              print(verify_response.text)
+              print("Done with API Call")
+              with open('resp_output/api_call_response.txt', 'a') as f:
+                  f.write("Start:\n:" + str(datetime.datetime.now())) 
+                  f.write(str(len(verify_data)))
+                  print("\n\n\n")
+                  f.write(str(verify_response))
+                  f.write("\n\n\n")
+                  f.write(str(verify_response.text))
+                  print("\n\n\n")
+                  print("End:\n:" + str(datetime.datetime.now()))
+              verify_responses.append(verify_response.text)
           with open('resp_output/start_end.txt', 'a') as f:
               f.write("END:\n:" + str(datetime.datetime.now()))
-          return render_template('api_calls.html', get_time_response=verify_response.text)
+          return render_template('api_calls.html', verify_responses=verify_responses)
         
+        elif button == 'GetDetails':
+            api_call_headers = {'X-EBAY-API-COMPATIBILITY-LEVEL': '719',
+      'X-EBAY-API-DEV-NAME': 'dae89547-48b8-4c4b-9e57-e8e9a84527dd',
+      'X-EBAY-API-APP-NAME': 'AlexisGo-pricepre-PRD-3ca7161d2-d3ef5057',  
+      'X-EBAY-API-CERT-NAME': 'PRD-ca7161d2a58b-663b-4c87-9cec-8cbd',
+      'X-EBAY-API-CALL-NAME': 'GetebayDetails',
+      'X-EBAY-API-SITEID': '0',
+      'Content-Type' : 'text/xml'}
+            get_details_data = f'''<?xml version="1.0" encoding="utf-8"?> 
+<GeteBayDetailsRequest xmlns="urn:ebay:apis:eBLBaseComponents"> 
+  <RequesterCredentials> 
+    <eBayAuthToken>{token[0]}</eBayAuthToken> 
+  </RequesterCredentials>  
+  <DetailName>ShippingServiceDetails</DetailName> 
+</GeteBayDetailsRequest>'''
+            get_details_response = requests.post(url, headers=api_call_headers, data=get_details_data)
+            print(get_details_response.status_code)
+            print(get_details_response.text)
+            print("Done with API Call")
+            extract_shipping_details(get_details_response.text)
+            with open('resp_output/get_details.txt', 'a') as f:
+                f.write("Start:\n:" + str(datetime.datetime.now()))
+                f.write(str(get_details_response))
+                f.write("\n\n\n")
+                f.write(str(get_details_response.text))
+                print("\n\n\n")
+                print("End:\n:" + str(datetime.datetime.now()))
+            return render_template('api_calls.html', get_details_response=get_details_response)
+            
         #GetCategoryFeatures call
         elif button == 'GetCategoryFeatures':
             api_call_headers = {'X-EBAY-API-COMPATIBILITY-LEVEL': '719',

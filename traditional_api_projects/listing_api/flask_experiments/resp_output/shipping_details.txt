@@ -1,0 +1,1917 @@
+Shipping Service: InternationalPriorityShipping
+Shipping Service ID: 50100
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: eBayIntermediatedInternationalPriorityShipping
+Shipping Service ID: 50101
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: eBayIntermidatedInternationalPriorityShippingDDP
+Shipping Service ID: 50102
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: USPSGlobalExpress
+Shipping Service ID: 50003
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: USPSGlobalPriority
+Shipping Service ID: 50005
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: USPSEconomyLetter
+Shipping Service ID: 50007
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: USPSEconomyParcel
+Shipping Service ID: 50006
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: USPSAirmailLetter
+Shipping Service ID: 50008
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: US_eBaySendInternationalStandard
+Shipping Service ID: 50054
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: US_eBayStandardEnvelope
+Shipping Service ID: 76
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: USPSAirmailParcel
+Shipping Service ID: 50009
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: USPSFirstClassMailInternational
+Shipping Service ID: 50022
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: USPSPriorityMailInternational
+Shipping Service ID: 50023
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: USPSPriorityMailInternationalFlatRateEnvelope
+Shipping Service ID: 50025
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: USPSPriorityMailInternationalSmallFlatRateBox
+Shipping Service ID: 50032
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: USPSPriorityMailInternationalFlatRateBox
+Shipping Service ID: 50026
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: USPSPriorityMailInternationalLargeFlatRateBox
+Shipping Service ID: 50028
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: USPSPriorityMailInternationalPaddedFlatRateEnvelope
+Shipping Service ID: 50038
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: USPSPriorityMailInternationalLegalFlatRateEnvelope
+Shipping Service ID: 50039
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: USPSFirstClass
+Shipping Service ID: 10
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: USPSExpressMailInternational
+Shipping Service ID: 50024
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: USPSExpressMailInternationalFlatRateEnvelope
+Shipping Service ID: 50027
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: USPSExpressMailInternationalLegalFlatRateEnvelope
+Shipping Service ID: 50040
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: USPSFirstClassMailInternationalLetter
+Shipping Service ID: 50029
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: USPSFirstClassMailInternationalLargeEnvelope
+Shipping Service ID: 50030
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['LargeEnvelope']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: USPSFirstClassMailInternationalParcel
+Shipping Service ID: 50031
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['PackageThickEnvelope']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: UPSWorldWideExpressPlus
+Shipping Service ID: 50010
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: UPSWorldWideExpress
+Shipping Service ID: 50011
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: UPSWorldWideExpedited
+Shipping Service ID: 50012
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: UPSWorldwideSaver
+Shipping Service ID: 50033
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: UPSStandardToCanada
+Shipping Service ID: 50013
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: FedExInternationalEconomy
+Shipping Service ID: 50034
+Service Types: ['Flat']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: FedExInternationalPriority
+Shipping Service ID: 50035
+Service Types: ['Flat']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: FedExGroundInternationalToCanada
+Shipping Service ID: 50036
+Service Types: ['Flat']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: StandardInternational
+Shipping Service ID: 50001
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: ExpeditedInternational
+Shipping Service ID: 50002
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: OtherInternational
+Shipping Service ID: 50014
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ECONOMY
+---
+Shipping Service: USPSPriority
+Shipping Service ID: 7
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: FedExHomeDelivery
+Shipping Service ID: 62
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: UPSGround
+Shipping Service ID: 3
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: USPSParcel
+Shipping Service ID: 8
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ECONOMY
+---
+Shipping Service: USPSMedia
+Shipping Service ID: 9
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ECONOMY
+---
+Shipping Service: USPSGlobalPrioritySmallEnvelope
+Shipping Service ID: 50016
+Service Types: ['Calculated']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: FedExSmartPost
+Shipping Service ID: 63
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ECONOMY
+---
+Shipping Service: USPSGlobalPriorityLargeEnvelope
+Shipping Service ID: 50017
+Service Types: ['Calculated']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: UPSWorldWideExpressBox10kg
+Shipping Service ID: 50018
+Service Types: ['Calculated']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: UPSWorldWideExpressBox25kg
+Shipping Service ID: 50019
+Service Types: ['Calculated']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: UPSWorldWideExpressPlusBox10kg
+Shipping Service ID: 50020
+Service Types: ['Calculated']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: UPSWorldWideExpressPlusBox25kg
+Shipping Service ID: 50021
+Service Types: ['Calculated']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: USPSStandardPost
+Shipping Service ID: 32
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ECONOMY
+---
+Shipping Service: ShippingMethodExpress
+Shipping Service ID: 2
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: ExpeditedShippingWithAdultSignature
+Shipping Service ID: 198
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: ShippingMethodStandard
+Shipping Service ID: 1
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: StandardShippingWithAdultSignature
+Shipping Service ID: 200
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: Other
+Shipping Service ID: 14
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ECONOMY
+---
+Shipping Service: EconomyShippingWithAdultSignature
+Shipping Service ID: 199
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ECONOMY
+---
+Shipping Service: FlatRateFreight
+Shipping Service ID: 183
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: FREIGHT
+---
+Shipping Service: USPSFirstClassReturn
+Shipping Service ID: 155
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: USPSPriorityReturn
+Shipping Service ID: 156
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: US_HomeDeliveryKerbside
+Shipping Service ID: 72730
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_HomeDeliveryDoorstep
+Shipping Service ID: 72731
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_HomeDeliveryInsideEntrance
+Shipping Service ID: 72732
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_HomeDeliveryRoom
+Shipping Service ID: 72733
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_HomeDeliveryRoomPackagingRemoval
+Shipping Service ID: 72734
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_HomeDeliveryRoomItemRemoval
+Shipping Service ID: 72735
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_HomeDeliveryRoomItemPackagingRemoval
+Shipping Service ID: 72736
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_HomeDeliveryAssembly
+Shipping Service ID: 72737
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_HomeDeliveryAssemblyPackagingRemoval
+Shipping Service ID: 72738
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_HomeDeliveryAssemblyItemRemoval
+Shipping Service ID: 72739
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_HomeDeliveryAssemblyItemPackagingRemoval
+Shipping Service ID: 72740
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: ePacketChina
+Shipping Service ID: 13132
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: ePacketHongKong
+Shipping Service ID: 13135
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: ePacketThailand
+Shipping Service ID: 13137
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: ePacketSingapore
+Shipping Service ID: 13139
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: USPSGround
+Shipping Service ID: 17
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: eMailDelivery
+Shipping Service ID: 12000
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: DIGITAL
+---
+Shipping Service: USPSPriorityFlatRateEnvelope
+Shipping Service ID: 19
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: USPSPriorityMailSmallFlatRateBox
+Shipping Service ID: 23
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: USPSPriorityFlatRateBox
+Shipping Service ID: 20
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: USPSPriorityMailLargeFlatRateBox
+Shipping Service ID: 22
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: USPSExpressMailPaddedFlatRateEnvelope
+Shipping Service ID: 31
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: USPSPriorityMailPaddedFlatRateEnvelope
+Shipping Service ID: 24
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: USPSPriorityMailLegalFlatRateEnvelope
+Shipping Service ID: 25
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: SameDayShipping
+Shipping Service ID: 166
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: USPSPriorityMailRegionalBoxA
+Shipping Service ID: 27
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: USPSPriorityMailRegionalBoxB
+Shipping Service ID: 28
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: USPSPriorityMailRegionalBoxC
+Shipping Service ID: 29
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: USPSExpressMail
+Shipping Service ID: 11
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: USPSExpressFlatRateEnvelope
+Shipping Service ID: 21
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: USPSExpressMailLegalFlatRateEnvelope
+Shipping Service ID: 26
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: FreightShippingInternational
+Shipping Service ID: 50015
+Service Types: ['Freight']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: PromotionalShippingMethod
+Shipping Service ID: 50099
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: PROMOTIONAL
+---
+Shipping Service: USPSExpressMailInternationalFlatRateBox
+Shipping Service ID: 50042
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: USPSExpressMailInternationalPaddedFlatRateEnvelope
+Shipping Service ID: 50043
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: eBayIntermediatedAuthenticationShipping
+Shipping Service ID: 50200
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: eBayIntermediatedAuthenticationShippingNoSig
+Shipping Service ID: 50199
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: eBayIntermediatedAuthenticationIntlShippingSig
+Shipping Service ID: 50197
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: eBayIntermediatedAuthenticationIntlShippingNoSig
+Shipping Service ID: 50198
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: USPSGlobalExpressGuaranteed
+Shipping Service ID: 50004
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: USDomesticEconomyWest
+Shipping Service ID: 72672
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ECONOMY
+---
+Shipping Service: USDomesticEconomyEast
+Shipping Service ID: 72673
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ECONOMY
+---
+Shipping Service: USDomesticEconomySouth
+Shipping Service ID: 72674
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ECONOMY
+---
+Shipping Service: USDomesticEconomyWest&East
+Shipping Service ID: 72675
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ECONOMY
+---
+Shipping Service: USDomesticEconomyWest&South
+Shipping Service ID: 72676
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ECONOMY
+---
+Shipping Service: USDomesticEconomySouth&East
+Shipping Service ID: 72677
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ECONOMY
+---
+Shipping Service: USDomesticEconomyWest&East&South
+Shipping Service ID: 72678
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ECONOMY
+---
+Shipping Service: USDomesticStandardWest
+Shipping Service ID: 72679
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: USDomesticStandardEast
+Shipping Service ID: 72680
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: USDomesticStandardSouth
+Shipping Service ID: 72681
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: USDomesticStandardWest&East
+Shipping Service ID: 72682
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: USDomesticStandardWest&South
+Shipping Service ID: 72683
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: USDomesticStandardSouth&East
+Shipping Service ID: 72684
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: USDomesticStandardWest&East&South
+Shipping Service ID: 72685
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: USDomesticExpressWest
+Shipping Service ID: 72686
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: USDomesticExpressEast
+Shipping Service ID: 72687
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: USDomesticExpressSouth
+Shipping Service ID: 72688
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: USDomesticExpressWest&East
+Shipping Service ID: 72689
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: USDomesticExpressWest&South
+Shipping Service ID: 72690
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: USDomesticExpressSouth&East
+Shipping Service ID: 72691
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: USDomesticExpressWest&East&South
+Shipping Service ID: 72692
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: eBayIntermediatedScheduledDelivery
+Shipping Service ID: 50103
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: SCHEDULED_DELIVERY
+---
+Shipping Service: UnspecifiedUserServiceIHS
+Shipping Service ID: 400
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: eBayIntermediatedScheduledCollection
+Shipping Service ID: 401
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: UPS3rdDay
+Shipping Service ID: 4
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: UPS2ndDay
+Shipping Service ID: 5
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: US_UPSSurePostFromHK
+Shipping Service ID: 33
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ECONOMY
+---
+Shipping Service: US_UPSSurePostFromCN
+Shipping Service ID: 34
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ECONOMY
+---
+Shipping Service: US_UPSSurePostFromTW
+Shipping Service ID: 35
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ECONOMY
+---
+Shipping Service: US_UPSSurePost
+Shipping Service ID: 184
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ECONOMY
+---
+Shipping Service: ExpressInternationalShipping
+Shipping Service ID: 164
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: ExpressInternationalShipping_2
+Shipping Service ID: 50041
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: ShippingMethodOvernight
+Shipping Service ID: 18
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ONE_DAY
+---
+Shipping Service: LocalDelivery
+Shipping Service ID: 15
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: UPSNextDay
+Shipping Service ID: 6
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ONE_DAY
+---
+Shipping Service: UPSNextDayAir
+Shipping Service ID: 12
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ONE_DAY
+---
+Shipping Service: FedExGroundDisabled
+Shipping Service ID: 68
+Service Types: ['Flat']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: FedExHomeDeliveryDisabled
+Shipping Service ID: 69
+Service Types: ['Flat']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: US_DGMSmartMailExpeditedFromHK
+Shipping Service ID: 70
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: US_DGMSmartMailExpeditedFromCN
+Shipping Service ID: 71
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: US_DGMSmartMailExpeditedFromTW
+Shipping Service ID: 72
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: US_DGMSmartMailExpedited
+Shipping Service ID: 185
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: FedExExpressSaver
+Shipping Service ID: 64
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: US_DGMSmartMailGroundFromHK
+Shipping Service ID: 73
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ECONOMY
+---
+Shipping Service: US_DGMSmartMailGroundFromCN
+Shipping Service ID: 74
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ECONOMY
+---
+Shipping Service: US_DGMSmartMailGroundFromTW
+Shipping Service ID: 75
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ECONOMY
+---
+Shipping Service: US_DGMSmartMailGround
+Shipping Service ID: 186
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ECONOMY
+---
+Shipping Service: FedEx2Day
+Shipping Service ID: 65
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: FedExPriorityOvernight
+Shipping Service ID: 66
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ONE_DAY
+---
+Shipping Service: FedExStandardOvernight
+Shipping Service ID: 67
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ONE_DAY
+---
+Shipping Service: FedExExpressSaverOneRate
+Shipping Service ID: 72661
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: FedEx2DayOneRate
+Shipping Service ID: 72662
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: FedExStandardOvernightOneRate
+Shipping Service ID: 72663
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ONE_DAY
+---
+Shipping Service: FedExPriorityOvernightOneRate
+Shipping Service ID: 72664
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ONE_DAY
+---
+Shipping Service: USPSFirstClassLetter
+Shipping Service ID: 46
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: USPSFirstClassLargeEnvelop
+Shipping Service ID: 47
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: USPSFirstClassParcel
+Shipping Service ID: 48
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: ExpeditedDeliveryToRussia
+Shipping Service ID: 50110
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: US_RUTrackedFromChina
+Shipping Service ID: 72551
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: US_IntlEconomyShippingFromGC
+Shipping Service ID: 50047
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ECONOMY
+---
+Shipping Service: US_IntlStandardShippingFromGC
+Shipping Service ID: 50048
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_IntlExpeditedShippingFromGC
+Shipping Service ID: 50049
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EXPEDITED
+---
+Shipping Service: US_MiniSpeedPAK_int
+Shipping Service ID: 50111
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_IntlEconomySppedPAK
+Shipping Service ID: 50060
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_IntlStandardSppedPAK
+Shipping Service ID: 50061
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_SPEEDPAK_EU_DDU
+Shipping Service ID: 50063
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_IntlExpeditedSppedPAK
+Shipping Service ID: 50062
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: EconomyShippingFromOutsideUS
+Shipping Service ID: 161
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_EconomyShippingFromCA
+Shipping Service ID: 50064
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: ExpressShippingFromOutsideUS
+Shipping Service ID: 165
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: EBAY_SHIPPING
+---
+Shipping Service: USPSExpressMailFlatRateBox
+Shipping Service ID: 30
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ONE_DAY
+---
+Shipping Service: StandardShippingFromOutsideUS
+Shipping Service ID: 162
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_StandardShippingFromCA
+Shipping Service ID: 50065
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: ExpeditedShippingFromOutsideUS
+Shipping Service ID: 163
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_ExpeditedShippingFromCA
+Shipping Service ID: 50066
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_FedExIntlEconomy
+Shipping Service ID: 167
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_UPSWorldwideExpeditedFromHK
+Shipping Service ID: 174
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_UPSWorldwideExpeditedFromCN
+Shipping Service ID: 175
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_UPSWorldwideExpeditedFromTW
+Shipping Service ID: 176
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_UPSWorldwideExpressSaverFromHK
+Shipping Service ID: 180
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_UPSWorldwideExpressSaverFromTW
+Shipping Service ID: 182
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_UPSWorldwideExpressSaverFromCN
+Shipping Service ID: 181
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_DHLGlobalMailParcelDirectFromHK
+Shipping Service ID: 177
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_DHLGlobalMailParcelDirectFromCN
+Shipping Service ID: 178
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_DHLGlobalMailParcelDirectFromTW
+Shipping Service ID: 179
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: UPS2DayAirAM
+Shipping Service ID: 13
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: FreightShipping
+Shipping Service ID: 16
+Service Types: ['Freight']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: PromotionalShippingMethod
+Shipping Service ID: 99
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: PROMOTIONAL
+---
+Shipping Service: Freight
+Shipping Service ID: 50
+Service Types: ['Freight']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: eBayNowImmediateDelivery
+Shipping Service ID: 173
+Service Types: ['Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: SAME_DAY
+---
+Shipping Service: US_bopis
+Shipping Service ID: 72650
+Service Types: ['Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: IN_STORE_PICKUP
+---
+Shipping Service: eBayNowSameDayDelivery
+Shipping Service ID: 72601
+Service Types: ['Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: SAME_DAY
+---
+Shipping Service: eBayNowNextDayDelivery
+Shipping Service ID: 72602
+Service Types: ['Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope']
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: ONE_DAY
+---
+Shipping Service: PromotionalEconomyShipping
+Shipping Service ID: 72655
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: PROMOTIONAL_ECONOMY
+---
+Shipping Service: PromotionalStandardShipping
+Shipping Service ID: 72656
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: PROMOTIONAL_STANDARD
+---
+Shipping Service: PromotionalExpeditedShipping
+Shipping Service ID: 72657
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: PROMOTIONAL_EXPEDITED
+---
+Shipping Service: PromotionalTwoDayShipping
+Shipping Service ID: 72658
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: PROMOTIONAL_TWO_DAY
+---
+Shipping Service: PromotionalOvernightShipping
+Shipping Service ID: 72659
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: PROMOTIONAL_OVERNIGHT
+---
+Shipping Service: PromotionalShippingVaries
+Shipping Service ID: 72660
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: PROMOTIONAL_VARIES
+---
+Shipping Service: us_vaultToVault
+Shipping Service ID: 8000
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: STANDARD
+---
+Shipping Service: Delivery
+Shipping Service ID: 151
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: NONE
+---
+Shipping Service: Pickup
+Shipping Service ID: 150
+Service Types: ['Flat', 'Calculated']
+Shipping Packages: ['Letter', 'LargeEnvelope', 'PackageThickEnvelope', 'USPSLargePack']
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: PICKUP
+---
+Shipping Service: US_MiniSpeedPAK_dom
+Shipping Service ID: 189
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_LiteSppedPAK
+Shipping Service ID: 113
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_EconomySppedPAK
+Shipping Service ID: 110
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_EconomyShippingFromGC
+Shipping Service ID: 50044
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_StandardSppedPAK
+Shipping Service ID: 111
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_EconomyShippingFromIN
+Shipping Service ID: 50052
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_MailServiceFromIndia
+Shipping Service ID: 50053
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_StandardShippingFromGC
+Shipping Service ID: 50045
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_ExpeditedSppedPAK
+Shipping Service ID: 112
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: false
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_StandardShippingFromIN
+Shipping Service ID: 50051
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_ExpeditedShippingFromGC
+Shipping Service ID: 50046
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---
+Shipping Service: US_ExpeditedShippingFromIN
+Shipping Service ID: 50050
+Service Types: ['Flat']
+Shipping Packages: []
+Valid For Selling Flow: true
+Detail Version: 901
+Update Time: 2023-05-23T06:58:35.000Z
+Shipping Category: OTHER
+---

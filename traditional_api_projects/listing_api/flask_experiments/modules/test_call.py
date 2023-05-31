@@ -1,7 +1,7 @@
 #from load_csv import read_csv
 from additem import add_item
 import datetime
-from schedule import schedule_listings
+#from schedule import schedule_listings
 # Get the path to the CSV file
 #file_path = 'data/books.csv'
 
@@ -25,7 +25,7 @@ print("\nRESULTS:\n", results)
 #for i in range(0, len(results)):
     #print("\nRESULTS:\n", results[i])
 
-with open('call_output.txt', 'a') as f:
+with open('test_call_output.txt', 'a') as f:
     print("\nTime:\n", datetime.datetime.now(), file=f)
     print("\nRESULTS:\n", results, file=f)
     print("\nEnd Time:\n", datetime.datetime.now(), file=f)
