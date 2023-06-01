@@ -6,19 +6,25 @@ from modules.schedule import schedule_listings
 
 
 
-def add_item(product_list, token):
-    api_call_headers = {'X-EBAY-API-COMPATIBILITY-LEVEL': '719',
-        'X-EBAY-API-DEV-NAME': 'dae89547-48b8-4c4b-9e57-e8e9a84527dd',
-        'X-EBAY-API-APP-NAME': 'AlexisGo-pricepre-PRD-3ca7161d2-d3ef5057',  
-        'X-EBAY-API-CERT-NAME': 'PRD-ca7161d2a58b-663b-4c87-9cec-8cbd',
-        'X-EBAY-API-CALL-NAME': 'VerifyAddItem',
-        'X-EBAY-API-SITEID': '0',  
-        'Content-Type' : 'text/xml'}
-
+def add_item(product_list, token, call_header, url):
     pic_site = "https://alexismonroy.github.io/images/"
 
     data_folder = 'C:/Users/alexi/dev/ebay_api/ebay_api/traditional_api_projects/listing_api/flask_experiments/data'
 
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+
+    # Get the path to the resp_output directory
+    resp_output_dir = os.path.join(current_dir, '..', 'resp_output')
+
+    # Create the resp_output directory if it doesn't exist
+    if not os.path.exists(resp_output_dir):
+        os.makedirs(resp_output_dir)
+
+    # Get the path to the file to write to
+    file_path = os.path.join(resp_output_dir, 'api_call_response.txt')
+    file_path_verify_data = os.path.join(resp_output_dir, 'verify_data.txt')
+    file_path_start_end = os.path.join(resp_output_dir, 'start_end.txt')
+    
     conn = sqlite3.connect(os.path.join(data_folder, 'inventory.db'))
 
     cursor = conn.cursor()
@@ -211,8 +217,41 @@ def add_item(product_list, token):
         else:
             print("Item has already been posted")
     #print the end time to call_output.txt
+    with open(file_path_verify_data, 'a') as f:
+        f.write(str(add_item_list))
+        print("TYPE:\n", type(add_item_list))
+        with open(file_path_start_end, 'w') as f:
+            f.write("START:\n:" + str(datetime.datetime.now()))
+    
+    verify_item_call = 'VerifyAddItem'
+    use_verify_item = True
+    if use_verify_item:
+        call_name = verify_item_call
+        call_header['X-EBAY-API-CALL-NAME'] = call_name
+        header = call_header
+    
+    verify_responses = []
+    for i in range(0, len(add_item_list)):
+        print("testing, testing, testing")
+        if add_item_list[i] is not None:
+            verify_response = requests.post(url, headers=header, data=add_item_list[i])
+            print(verify_response.status_code)
+            print(verify_response.text)
+            print("Done with API Call")
+            with open(file_path, 'a') as f:
+                f.write("Start:\n:" + str(datetime.datetime.now())) 
+                f.write(str(len(verify_data)))
+                f.write(str(verify_response))
+                f.write(str(verify_response.text))
+                print("End:\n:" + str(datetime.datetime.now()))
+            verify_responses.append(verify_response.text)
+        else:
+            verify_responses.append("Nothing to post")
+    
     with open('add_item_output.text', 'a') as f:
         print("\nEnd of Program:\n", datetime.datetime.now(), file=f)
-    return add_item_list
+    with open(file_path_start_end, 'a') as f:
+        f.write("END:\n:" + str(datetime.datetime.now()))
+    return verify_responses
     conn.close()
     print("\nConnection Closed\n")

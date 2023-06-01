@@ -1,10 +1,15 @@
 {% extends "base.html" %}
 {% block body %}
     <form action="/api_calls" method="post">
-        <input type="hidden" name="button" value="VerifyItem">
-        <button type="submit">Verify Item</button>
+        <input type="hidden" name="button" value="FetchToken">
+        <button type="submit">Fetch Token</button>
     </form>
     
+    <form action="/api_calls" method="post">
+        <input type="hidden" name="button" value="VerifyItem">
+        <button type="submit">Verify Items</button>
+    </form>
+
     <form action="/api_calls" method="post">
         <input type="hidden" name="button" value="GetCategoryFeatures">
         <button type="submit">Get Category Features</button>
